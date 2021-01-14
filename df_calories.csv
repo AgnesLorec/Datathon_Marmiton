@@ -1,0 +1,1870 @@
+,Food,Portion_100g,Kcal,Portion,Aliment,mesure,Unité_mesure,Unité,Kcal_Portion,kcal_1g
+0,Langue de bœuf,100g,284,1 langue (85 g),langue,85.0,g,1.0,241.4,2.84
+1,Abats de poulet,100g,277,1 tasse (145 g),tasse,145.0,g,1.0,401.65,2.77
+2,Langue de porc,100g,271,1 langue (231 g),langue,231.0,g,1.0,626.01,2.71
+3,Tripes,100g,233,1 portion (85 g),portion,85.0,g,1.0,198.05,2.33
+4,Langue de veau,100g,202,1 pièce (255 g),pièce,255.0,g,1.0,515.1,2.02
+5,Cervelle de boeuf,100g,196,1 pièce (351 g),pièce,351.0,g,1.0,687.96,1.96
+6,Foie de veau,100g,192,1 tranche (80 g),tranche,80.0,g,1.0,153.6,1.92
+7,Foie de boeuf,100g,191,1 tranche (68 g),tranche,68.0,g,1.0,129.88,1.91
+8,Foie de dinde,100g,189,1 foie (53 g),foie,53.0,g,1.0,100.17,1.89
+9,Coeur de veau,100g,186,1 pièce (198 g),pièce,198.0,g,1.0,368.28,1.86
+10,Coeur de poulet,100g,185,1 coeur (6.1 g),coeur,6.1,g,1.0,11.285,1.85
+11,Coeur de dindon,100g,174,1 coeur (20 g),coeur,20.0,g,1.0,34.8,1.74
+12,Abats de dindon,100g,173,1 abat (95 g),abat,95.0,g,1.0,164.35,1.73
+13,Foie de poulet,100g,172,1 foie (44 g),foie,44.0,g,1.0,75.68,1.72
+14,Coeur de boeuf,100g,165,1 coeur (85 g),coeur,85.0,g,1.0,140.25,1.65
+15,Foie de porc,100g,165,1 foie (85 g),foie,85.0,g,1.0,140.25,1.65
+16,Rognons de veau,100g,163,1 pièce (184 g),pièce,184.0,g,1.0,299.92,1.63
+17,Rognons de boeuf,100g,158,1 pièce (85 g),pièce,85.0,g,1.0,134.3,1.58
+18,Estomac de porc,100g,157,1 pièce (85 g),pièce,85.0,g,1.0,133.45,1.57
+19,Rognons de porc,100g,151,1 pièce (85 g),pièce,85.0,g,1.0,128.35,1.51
+20,Coeur de porc,100g,148,1 coeur (129 g),coeur,129.0,g,1.0,190.92,1.48
+21,Estomac de poulet,100g,148,1 portion (100 g),portion,100.0,g,1.0,148.0,1.48
+22,Estomac de dindon,100g,148,1 portion (100 g),portion,100.0,g,1.0,148.0,1.48
+23,Cervelle de porc,100g,138,1 pièce (85 g),pièce,85.0,g,1.0,117.3,1.38
+24,Foie de canard,100g,136,1 foie (44 g),foie,44.0,g,1.0,59.84,1.36
+25,Cervelle de veau,100g,136,1 pièce (339 g),pièce,339.0,g,1.0,461.04,1.36
+26,Foie d’oie,100g,133,1 foie (94 g),foie,94.0,g,1.0,125.02,1.33
+27,Mou de porc,100g,99,1 pièce (300 g),pièce,300.0,g,1.0,297.0,0.99
+28,Rate de bœuf,100g,271,1 pièce (222 g),pièce,222.0,g,1.0,601.62,2.71
+29,Rate de porc,100g,219,1 pièce (245 g),pièce,245.0,g,1.0,536.55,2.19
+30,Mou de bœuf,100g,120,1 pièce (303 g),pièce,303.0,g,1.0,363.6,1.2
+31,Ale,100ml,35,1 demi (250 ml),demi,250.0,ml,1.0,87.5,0.35
+32,Beck’s,100ml,39,1 demi (250 ml),demi,250.0,ml,1.0,97.5,0.39
+33,Bière,100ml,43,1 demi (250 ml),demi,250.0,ml,1.0,107.5,0.43
+34,Carlsberg,100ml,32,1 demi (250 ml),demi,250.0,ml,1.0,80.0,0.32
+35,Corona,100ml,42,1 demi (250 ml),demi,250.0,ml,1.0,105.0,0.42
+36,Bière brune,100ml,46,1 demi (250 ml),demi,250.0,ml,1.0,115.0,0.46
+37,Bière de gingembre,100ml,42,1 demi (250 ml),demi,250.0,ml,1.0,105.0,0.42
+38,Guinness,100ml,35,1 pint (568 ml),pint,568.0,ml,1.0,198.8,0.35
+39,Heineken,100ml,35,1 demi (250 ml),demi,250.0,ml,1.0,87.5,0.35
+40,Indian Pale Ale (IPA),100ml,51,1 demi (250 ml),demi,250.0,ml,1.0,127.5,0.51
+41,Koelsch,100ml,43,1 demi (250 ml),demi,250.0,ml,1.0,107.5,0.43
+42,Lager,100ml,43,1 demi (250 ml),demi,250.0,ml,1.0,107.5,0.43
+43,Bière light,100ml,29,1 demi (250 ml),demi,250.0,ml,1.0,72.5,0.29
+44,Lowenbrau,100ml,45,1 demi (250 ml),demi,250.0,ml,1.0,112.5,0.45
+45,Malzbier,100ml,37,1 demi (250 ml),demi,250.0,ml,1.0,92.5,0.37
+46,Bière sans alcool,100ml,37,1 demi (250 ml),demi,250.0,ml,1.0,92.5,0.37
+47,Pale Ale,100ml,42,1 demi (250 ml),demi,250.0,ml,1.0,105.0,0.42
+48,Pils,100ml,43,1 demi (250 ml),demi,250.0,ml,1.0,107.5,0.43
+49,Porter,100ml,54,1 demi (250 ml),demi,250.0,ml,1.0,135.0,0.54
+50,Stout,100ml,51,1 demi (250 ml),demi,250.0,ml,1.0,127.5,0.51
+51,Bière forte,100ml,55,1 demi (250 ml),demi,250.0,ml,1.0,137.5,0.55
+52,Weissbier,100ml,45,1 demi (250 ml),demi,250.0,ml,1.0,112.5,0.45
+53,Altbier,100ml,43,1 demi (250 ml),demi,250.0,ml,1.0,107.5,0.43
+54,Bock,100ml,50,1 demi (250 ml),demi,250.0,ml,1.0,125.0,0.5
+55,Bière blanche,100ml,52,1 demi (250 ml),demi,250.0,ml,1.0,130.0,0.52
+56,Bière trappiste,100ml,80,1 demi (330 ml),demi,330.0,ml,1.0,264.0,0.8
+57,1664,100ml,52,1 demi (330 ml),demi,330.0,ml,1.0,171.6,0.52
+58,Kronenbourg,100ml,38,1 canette (330 ml),canette,330.0,ml,1.0,125.4,0.38
+59,Leffe,100ml,61,1 demi (330 ml),demi,330.0,ml,1.0,201.3,0.61
+60,Desperados,100ml,61,1 demi (330 ml),demi,330.0,ml,1.0,201.3,0.61
+61,Pelforth,100ml,55,1 demi (250 ml),demi,250.0,ml,1.0,137.5,0.55
+62,Stella Artois,100ml,46,1 demi (275 ml),demi,275.0,ml,1.0,126.5,0.46
+63,Panaché,100ml,38,1 demi (250 ml),demi,250.0,ml,1.0,95.0,0.38
+64,Lambic,100ml,51,1 demi (330 ml),demi,330.0,ml,1.0,168.3,0.51
+65,Vodka,100ml,231,1 shot (25 ml),shot,25.0,ml,1.0,57.75,2.31
+66,Bière,100ml,43,1 demi (250 ml),demi,250.0,ml,1.0,107.5,0.43
+67,Vin,100ml,83,1 verre (150 ml),verre,150.0,ml,1.0,124.5,0.83
+68,Vin blanc,100ml,82,1 verre (150 ml),verre,150.0,ml,1.0,123.0,0.82
+69,Vin rouge,100ml,85,1 verre (150 ml),verre,150.0,ml,1.0,127.5,0.85
+70,Tequila,100ml,110,1 shot (25 ml),shot,25.0,ml,1.0,27.5,1.1
+71,Gin,100ml,263,1 shot (25 ml),shot,25.0,ml,1.0,65.75,2.63
+72,Jack Daniel’s,100ml,146,1 portion (44 ml),portion,44.0,ml,1.0,64.24,1.46
+73,Champagne,100ml,75,1 verre (100 ml),verre,100.0,ml,1.0,75.0,0.75
+74,Rhum,100ml,231,1 portion (44 ml),portion,44.0,ml,1.0,101.64,2.31
+75,Scotch whisky,100ml,222,1 portion (44 ml),portion,44.0,ml,1.0,97.68,2.22
+76,Bourbon,100ml,233,1 portion (44 ml),portion,44.0,ml,1.0,102.52,2.33
+77,Baileys,100ml,327,1 portion (44 ml),portion,44.0,ml,1.0,143.88,3.27
+78,Prosecco,100ml,66,1 verre (100 ml),verre,100.0,ml,1.0,66.0,0.66
+79,Whisky,100ml,250,1 portion (44 ml),portion,44.0,ml,1.0,110.0,2.5
+80,Sangria,100ml,96,1 verre (250 ml),verre,250.0,ml,1.0,240.0,0.96
+81,Kahlua,100ml,180,1 shot (25 ml),shot,25.0,ml,1.0,45.0,1.8
+82,Southern Comfort,100ml,247,1 portion (44 ml),portion,44.0,ml,1.0,108.68,2.47
+83,Amaretto,100ml,310,1 shot (25 ml),shot,25.0,ml,1.0,77.5,3.1
+84,Jim Beam,100ml,222,1 portion (44 ml),portion,44.0,ml,1.0,97.68,2.22
+85,Vin rosé,100ml,71,1 verre (150 ml),verre,150.0,ml,1.0,106.5,0.71
+86,Brandy,100ml,213,1 portion (44 ml),portion,44.0,ml,1.0,93.72,2.13
+87,Grand Marnier,100ml,253,1 portion (44 ml),portion,44.0,ml,1.0,111.32,2.53
+88,Cidre,100ml,49,1 verre (150 ml),verre,150.0,ml,1.0,73.5,0.49
+89,Sambuca,100ml,333,1 shot (25 ml),shot,25.0,ml,1.0,83.25,3.33
+90,Triple Sec,100ml,153,1 verre (150 ml),verre,150.0,ml,1.0,229.5,1.53
+91,Cognac,100ml,235,1 portion (44 ml),portion,44.0,ml,1.0,103.4,2.35
+92,Cointreau,100ml,320,1 portion (44 ml),portion,44.0,ml,1.0,140.8,3.2
+93,Vermouth,100ml,130,1 portion (44 ml),portion,44.0,ml,1.0,57.2,1.3
+94,Frangelico,100ml,238,1 portion (44 ml),portion,44.0,ml,1.0,104.72,2.38
+95,Baileys Irish Cream,100ml,327,1 portion (44 ml),portion,44.0,ml,1.0,143.88,3.27
+96,Absinthe,100ml,348,1 portion (44 ml),portion,44.0,ml,1.0,153.12,3.48
+97,Sherry,100ml,116,1 portion (44 ml),portion,44.0,ml,1.0,51.04,1.16
+98,Drambuie,100ml,358,1 portion (44 ml),portion,44.0,ml,1.0,157.52,3.58
+99,Chambord,100ml,348,1 verre (150 ml),verre,150.0,ml,1.0,522.0,3.48
+100,Midori,100ml,267,1 portion (44 ml),portion,44.0,ml,1.0,117.48,2.67
+101,Curacao,100ml,243,1 portion (44 ml),portion,44.0,ml,1.0,106.92,2.43
+102,Advocaat,100ml,283,1 portion (44 ml),portion,44.0,ml,1.0,124.52,2.83
+103,Glenfiddich,100ml,230,1 portion (44 ml),portion,44.0,ml,1.0,101.2,2.3
+104,Irish Whiskey,100ml,233,1 portion (44 ml),portion,44.0,ml,1.0,102.52,2.33
+105,Punch,100ml,62,1 tasse (237 ml),tasse,237.0,ml,1.0,146.94,0.62
+106,Asti,100ml,138,1 verre (100 ml),verre,100.0,ml,1.0,138.0,1.38
+107,Liqueur,100ml,250,1 shot (25 ml),shot,25.0,ml,1.0,62.5,2.5
+108,Whisky canadien,100ml,216,1 portion (44 ml),portion,44.0,ml,1.0,95.04,2.16
+109,Jägermeister,100ml,250,1 shot (25 ml),shot,25.0,ml,1.0,62.5,2.5
+110,Pastis,100ml,323,1 portion (40 ml),portion,40.0,ml,1.0,129.2,3.23
+111,Suze,100ml,39,1 portion (44 ml),portion,44.0,ml,1.0,17.16,0.39
+112,Chiva’s Regal,100ml,219,1 verre (200 ml),verre,200.0,ml,1.0,438.0,2.19
+113,Ballantines,100ml,223,1 verre (200 ml),verre,200.0,ml,1.0,446.0,2.23
+114,Malibu,100ml,159,1 shot (86 ml),shot,86.0,ml,1.0,136.74,1.59
+115,Porto,100ml,158,1 verre (200 ml),verre,200.0,ml,1.0,316.0,1.58
+116,Banyuls,100ml,149,1 verre (150 ml),verre,150.0,ml,1.0,223.5,1.49
+117,Pinot des Charentes,100ml,117,1 verre (200 ml),verre,200.0,ml,1.0,234.0,1.17
+118,Crémant,100ml,86,1 verre (200 ml),verre,200.0,ml,1.0,172.0,0.86
+119,Crème de cassis,100ml,281,1 verre (20 ml),verre,20.0,ml,1.0,56.2,2.81
+120,Kir,100ml,95,1 verre (150 ml),verre,150.0,ml,1.0,142.5,0.95
+121,Mirabelle,100ml,312,1 shot (44 ml),shot,44.0,ml,1.0,137.28,3.12
+122,Gentiane,100ml,150,1 portion (44 ml),portion,44.0,ml,1.0,66.0,1.5
+123,Eau de vie de prune,100ml,235,1 verre (44 ml),verre,44.0,ml,1.0,103.4,2.35
+124,Arak,100ml,334,1 portion (44 ml),portion,44.0,ml,1.0,146.96,3.34
+125,Armagnac,100ml,280,1 portion (44 ml),portion,44.0,ml,1.0,123.2,2.8
+126,Kirsch,100ml,217,1 portion (44 ml),portion,44.0,ml,1.0,95.48,2.17
+127,Calvados,100ml,248,1 verre (44 ml),verre,44.0,ml,1.0,109.12,2.48
+128,Coca-Cola Cherry,100ml,44,1 canette (330 ml),canette,330.0,ml,1.0,145.2,0.44
+129,Coca-Cola,100ml,42,1 canette (330 ml),canette,330.0,ml,1.0,138.6,0.42
+130,Coca Zero,100ml,0,1 canette (330 ml),canette,330.0,ml,1.0,0.0,0.0
+131,Coca-Cola Zero Cherry,100ml,1,1 canette (330 ml),canette,330.0,ml,1.0,3.3,0.01
+132,Coca-Cola Light,100ml,1,1 canette (330 ml),canette,330.0,ml,1.0,3.3,0.01
+133,Pepsi light,100ml,0,1 canette (330 ml),canette,330.0,ml,1.0,0.0,0.0
+134,Fanta,100ml,39,1 canette (330 ml),canette,330.0,ml,1.0,128.7,0.39
+135,Fanta Zero,100ml,0,1 canette (330 ml),canette,330.0,ml,1.0,0.0,0.0
+136,Thé glacé,100ml,27,1 canette (330 ml),canette,330.0,ml,1.0,89.1,0.27
+137,Limonade,100ml,42,1 canette (330 ml),canette,330.0,ml,1.0,138.6,0.42
+138,Minute Maid,100ml,46,1 tasse (240 ml),tasse,240.0,ml,1.0,110.4,0.46
+139,Soda à l’orange,100ml,48,1 canette (330 ml),canette,330.0,ml,1.0,158.4,0.48
+140,Pepsi,100ml,44,1 canette (330 ml),canette,330.0,ml,1.0,145.2,0.44
+141,Powerade,100ml,120,1 bouteille (500 ml),bouteille,500.0,ml,1.0,600.0,1.2
+142,Sprite,100ml,37,1 canette (330 ml),canette,330.0,ml,1.0,122.1,0.37
+143,Sprite Zero,100ml,0,1 canette (330 ml),canette,330.0,ml,1.0,0.0,0.0
+144,Eau tonique,100ml,35,1 tasse (240 ml),tasse,240.0,ml,1.0,84.0,0.35
+145,Coca-Cola vanille,100ml,45,1 canette (330 ml),canette,330.0,ml,1.0,148.5,0.45
+146,Ginger Ale,100ml,35,1 bouteille (500 ml),bouteille,500.0,ml,1.0,175.0,0.35
+147,Soda,100ml,53,1 canette (330 ml),canette,330.0,ml,1.0,174.9,0.53
+148,Brut de pomme,100ml,46,1 bouteille (500 ml),bouteille,500.0,ml,1.0,230.0,0.46
+149,Schweppes Indian Tonic,100ml,22,1 bouteille (500 ml),bouteille,500.0,ml,1.0,110.0,0.22
+150,Orangina,100ml,43,1 bouteille (250 ml),bouteille,250.0,ml,1.0,107.5,0.43
+151,Orangina light,100ml,6,1 bouteille (250 ml),bouteille,250.0,ml,1.0,15.0,0.06
+152,Canada Dry,100ml,39,1 canette (330 ml),canette,330.0,ml,1.0,128.7,0.39
+153,Champomy,100ml,55,1 bouteille (375 ml),bouteille,375.0,ml,1.0,206.25,0.55
+154,Schweppes Agrum’,100ml,28,1 canette (330 ml),canette,330.0,ml,1.0,92.4,0.28
+155,Oasis,100ml,29,1 canette (330 ml),canette,330.0,ml,1.0,95.7,0.29
+156,Seven Up,100ml,44,1 canette (330 ml),canette,330.0,ml,1.0,145.2,0.44
+157,Taillefine Fiz,100ml,3,1 canette (330 ml),canette,330.0,ml,1.0,9.9,0.03
+158,Café,100ml,1,1 tasse (237 ml),tasse,237.0,ml,1.0,2.37,0.01
+159,Lait,100ml,61,1 tasse (244 ml),tasse,244.0,ml,1.0,148.84,0.61
+160,Coca light,100ml,1,1 canette (330 ml),canette,330.0,ml,1.0,3.3,0.01
+161,Coca Cola,100ml,42,1 canette (330 ml),canette,330.0,ml,1.0,138.6,0.42
+162,Chocolat chaud,100ml,89,1 tasse (266 ml),tasse,266.0,ml,1.0,236.74,0.89
+163,Thé,100ml,1,1 tasse (237 ml),tasse,237.0,ml,1.0,2.37,0.01
+164,Gatorade,100ml,23,1 bouteille (591 ml),bouteille,591.0,ml,1.0,135.93,0.23
+165,Lait de soja,100ml,45,1 tasse (243 ml),tasse,243.0,ml,1.0,109.35,0.45
+166,Eau,100ml,0,1 bottle (500 ml),bottle,500.0,ml,1.0,0.0,0.0
+167,Smoothie,100ml,37,1 verre (330 ml),verre,330.0,ml,1.0,122.1,0.37
+168,Chai,100ml,0,1 tasse (236 ml),tasse,236.0,ml,1.0,0.0,0.0
+169,Limonade,100ml,42,1 canette (330 ml),canette,330.0,ml,1.0,138.6,0.42
+170,Coca zero,100ml,1,1 canette (330 ml),canette,330.0,ml,1.0,3.3,0.01
+171,Chocolat au lait,100ml,89,1 tasse (266 ml),tasse,266.0,ml,1.0,236.74,0.89
+172,Powerade,100ml,16,1 bouteille (500 ml),bouteille,500.0,ml,1.0,80.0,0.16
+173,Bière sans alcool,100ml,37,1 demi (250 ml),demi,250.0,ml,1.0,92.5,0.37
+174,Kombucha,100ml,13,1 verre (330 ml),verre,330.0,ml,1.0,42.9,0.13
+175,Milkshake au chocolat,100ml,125,1 portion (400 ml),portion,400.0,ml,1.0,500.0,1.25
+176,Milkshake à la fraise,100ml,113,1 portion (400 ml),portion,400.0,ml,1.0,452.0,1.13
+177,Milkshake à la vanille,100ml,149,1 portion (400 ml),portion,400.0,ml,1.0,596.0,1.49
+178,Lait de poule,100ml,88,1 tasse (254 ml),tasse,254.0,ml,1.0,223.52,0.88
+179,Cola,100ml,42,1 canette (330 ml),canette,330.0,ml,1.0,138.6,0.42
+180,Thé glacé,100ml,27,1 canette (330 ml),canette,330.0,ml,1.0,89.1,0.27
+181,Lassi,100ml,104,1 tasse (250 ml),tasse,250.0,ml,1.0,260.0,1.04
+182,Yerba maté,100ml,62,1 portion (50 ml),portion,50.0,ml,1.0,31.0,0.62
+183,Thé au gingembre,100ml,0,1 tasse (254 ml),tasse,254.0,ml,1.0,0.0,0.0
+184,Nectar,100ml,53,1 bouteille (500 ml),bouteille,500.0,ml,1.0,265.0,0.53
+185,Nestea,100ml,36,1 tasse (240 ml),tasse,240.0,ml,1.0,86.4,0.36
+186,Latte macchiato,100ml,57,1 tasse (300 ml),tasse,300.0,ml,1.0,171.0,0.57
+187,Evian,100ml,0,1 bottle (500 ml),bottle,500.0,ml,1.0,0.0,0.0
+188,Volvic,100ml,0,1 bouteille (500 ml),bouteille,500.0,ml,1.0,0.0,0.0
+189,Club Mate,100ml,30,1 bouteille (500 ml),bouteille,500.0,ml,1.0,150.0,0.3
+190,Karamalz,100ml,37,1 tasse (237 ml),tasse,237.0,ml,1.0,87.69,0.37
+191,Malzbier,100ml,37,1 verre (237 ml),verre,237.0,ml,1.0,87.69,0.37
+192,Jus de pomme et d’eau gazeuse,100ml,24,1 bouteille (500 ml),bouteille,500.0,ml,1.0,120.0,0.24
+193,Horchata,100ml,54,1 tasse (150 ml),tasse,150.0,ml,1.0,81.0,0.54
+194,Slushie,100ml,50,1 tasse (240 ml),tasse,240.0,ml,1.0,120.0,0.5
+195,Red Bull,100ml,45,1 canette (250 ml),canette,250.0,ml,1.0,112.5,0.45
+196,Fanta,100ml,38,1 bouteille (500 ml),bouteille,500.0,ml,1.0,190.0,0.38
+197,Oasis,100ml,38,1 bouteille (330 ml),bouteille,330.0,ml,1.0,125.4,0.38
+198,Seven Up,100ml,44,1 canette (330 ml),canette,330.0,ml,1.0,145.2,0.44
+199,Perrier citron,100ml,0,1 bouteile (500 ml),bouteile,500.0,ml,1.0,0.0,0.0
+200,Diabolo menthe,100ml,7,1 canette (473 ml),canette,473.0,ml,1.0,33.11,0.07
+201,Bœuf,100g,171,1 portion (168 g),portion,168.0,g,1.0,287.28,1.71
+202,Poitrine de bœuf,100g,137,1 pièce (178 g),pièce,178.0,g,1.0,243.86,1.37
+203,Filet de Bœuf,100g,189,1 portion (168 g),portion,168.0,g,1.0,317.52,1.89
+204,Goulasch de bœuf,100g,123,1 tasse (227 g),tasse,227.0,g,1.0,279.21,1.23
+205,Collier de boeuf,100g,213,1 pièce (224 g),pièce,224.0,g,1.0,477.12,2.13
+206,Pancréas de boeuf,100g,271,1 pièce (222 g),pièce,222.0,g,1.0,601.62,2.71
+207,Steak haché,100g,247,1 pièce (64 g),pièce,64.0,g,1.0,158.08,2.47
+208,Côte de bœuf,100g,404,1 pièce (278 g),pièce,278.0,g,1.0,1123.12,4.04
+209,Côtes de boeuf,100g,196,1 côte (340 g),côte,340.0,g,1.0,666.4,1.96
+210,Suif de bœuf,100g,854,1 portion (200 g),portion,200.0,g,1.0,1708.0,8.54
+211,Suif de bœuf,100g,902,1 tasse (205 g),tasse,205.0,g,1.0,1849.1,9.02
+212,Ris de bœuf,100g,319,1 pièce (381 g),pièce,381.0,g,1.0,1215.39,3.19
+213,Tripes de boeuf,100g,94,1 portion (85 g),portion,85.0,g,1.0,79.9,0.94
+214,Paleron,100g,137,1 pièce (340 g),pièce,340.0,g,1.0,465.8,1.37
+215,Filet mignon,100g,207,1 portion (168 g),portion,168.0,g,1.0,347.76,2.07
+216,Bavette,100g,194,1 steak (320 g),steak,320.0,g,1.0,620.8,1.94
+217,Bœuf haché,100g,241,1 portion (168 g),portion,168.0,g,1.0,404.88,2.41
+218,Émincé de veau,100g,143,1 portion (168 g),portion,168.0,g,1.0,240.24,1.43
+219,Côte de bœuf rôtie,100g,187,1 portion (341 g),portion,341.0,g,1.0,637.67,1.87
+220,Rumsteck,100g,171,1 steak (205 g),steak,205.0,g,1.0,350.55,1.71
+221,Hampe,100g,205,1 portion (168 g),portion,168.0,g,1.0,344.4,2.05
+222,Ragoût de boeuf,100g,191,1 portion (252 g),portion,252.0,g,1.0,481.32,1.91
+223,Veau,100g,282,1 pièce (291 g),pièce,291.0,g,1.0,820.62,2.82
+224,Poitrine de veau,100g,282,1 pièce (291 g),pièce,291.0,g,1.0,820.62,2.82
+225,Jarret de veau,100g,177,1 pièce (223 g),pièce,223.0,g,1.0,394.71,1.77
+226,Épaule de veau,100g,183,1 pièce (283 g),pièce,283.0,g,1.0,517.89,1.83
+227,Filet de veau,100g,217,1 pièce (229 g),pièce,229.0,g,1.0,496.93,2.17
+228,Steak de surlongue de bœuf,100g,182,1 portion (85 g),portion,85.0,g,1.0,154.7,1.82
+229,Entrecôte,100g,217,1 steak (281 g),steak,281.0,g,1.0,609.77,2.17
+230,Faux-filet,100g,117,3 tranches (34 g),tranches,34.0,g,3.0,39.78,1.17
+231,Rôti de veau,100g,175,1 pièce (208 g),pièce,208.0,g,1.0,364.0,1.75
+232,Viande hachée,100g,250,1 portion (168 g),portion,168.0,g,1.0,420.0,2.5
+233,Quasi de veau,100g,171,1 portion (168 g),portion,168.0,g,1.0,287.28,1.71
+234,Noix de veau,100g,228,1 part (100 g),part,100.0,g,1.0,228.0,2.28
+235,Côtes de veau,100g,237,1 portion (341 g),portion,341.0,g,1.0,808.17,2.37
+236,Queue de bœuf,100g,196,1 portion (120 g),portion,120.0,g,1.0,235.2,1.96
+237,Châteaubriand,100g,121,1 portion (113 g),portion,113.0,g,1.0,136.73,1.21
+238,Tournedos,100g,188,1 portion (168 g),portion,168.0,g,1.0,315.84,1.88
+239,Onglet,100g,171,1 portion (281 g),portion,281.0,g,1.0,480.51,1.71
+240,Tende de tranche,100g,116,1 portion (100 g),portion,100.0,g,1.0,116.0,1.16
+241,Gîte,100g,158,1 portion (170 g),portion,170.0,g,1.0,268.6,1.58
+242,Tendron,100g,210,1 portion (170 g),portion,170.0,g,1.0,357.0,2.1
+243,Jambon blanc,100g,343,1 tranche (21 g),tranche,21.0,g,1.0,72.03,3.43
+244,Jambon fumé,100g,375,1 tranche (10 g),tranche,10.0,g,1.0,37.5,3.75
+245,Jambon bouilli,100g,126,1 tranche (21 g),tranche,21.0,g,1.0,26.46,1.26
+246,Baloney,100g,247,1 tranche (23 g),tranche,23.0,g,1.0,56.81,2.47
+247,Bresaola,100g,178,1 tranche (9 g),tranche,9.0,g,1.0,16.02,1.78
+248,Coppa,100g,110,1 tranche (21 g),tranche,21.0,g,1.0,23.1,1.1
+249,Chorizo,100g,455,1 tranche (3.4 g),tranche,3.4,g,1.0,15.47,4.55
+250,Corned Beef,100g,251,1 tranche (21 g),tranche,21.0,g,1.0,52.71,2.51
+251,Jambon,100g,145,1 tranche (23 g),tranche,23.0,g,1.0,33.35,1.45
+252,Saucisson au jambon,100g,164,1 tranche (23 g),tranche,23.0,g,1.0,37.72,1.64
+253,Fromage de tête,100g,157,1 tranche (28 g),tranche,28.0,g,1.0,43.96,1.57
+254,Leberwurst,100g,326,1 tranche (18 g),tranche,18.0,g,1.0,58.68,3.26
+255,Jambon de Parme,100g,345,1 tranche (11 g),tranche,11.0,g,1.0,37.95,3.45
+256,Pastrami,100g,133,1 tranche (29 g),tranche,29.0,g,1.0,38.57,1.33
+257,Rôti de porc,100g,247,1 tranche (21 g),tranche,21.0,g,1.0,51.87,2.47
+258,Prosciutto,100g,195,1 tranche (9 g),tranche,9.0,g,1.0,17.55,1.95
+259,Rosbif,100g,267,1 tranche (21 g),tranche,21.0,g,1.0,56.07,2.67
+260,Salami,100g,336,1 tranche (12.3 g),tranche,12.3,g,1.0,41.328,3.36
+261,Jambon Serrano,100g,300,1 tranche (15 g),tranche,15.0,g,1.0,45.0,3.0
+262,Jambon fumé,100g,107,1 tranche (21 g),tranche,21.0,g,1.0,22.47,1.07
+263,Saucisson,100g,298,1 tranche (21 g),tranche,21.0,g,1.0,62.58,2.98
+264,Langue,100g,284,1 tranche (28 g),tranche,28.0,g,1.0,79.52,2.84
+265,Blanc de dinde,100g,104,1 tranche (21 g),tranche,21.0,g,1.0,21.84,1.04
+266,Jambon de dinde,100g,126,1 tranche (21 g),tranche,21.0,g,1.0,26.46,1.26
+267,Salami de dinde,100g,152,1 tranche (23 g),tranche,23.0,g,1.0,34.96,1.52
+268,Filet de poulet,100g,79,1 tranche (21 g),tranche,21.0,g,1.0,16.59,0.79
+269,Jambon de dinde cuit au four,100g,104,1 tranche (21 g),tranche,21.0,g,1.0,21.84,1.04
+270,Jambon de dinde fumé,100g,104,1 tranche (21 g),tranche,21.0,g,1.0,21.84,1.04
+271,Saucisse sèche,100g,390,1 tranche (21 g),tranche,21.0,g,1.0,81.9,3.9
+272,Rosette,100g,395,1 tranche (15 g),tranche,15.0,g,1.0,59.25,3.95
+273,"Big Mac, Mc Donald’s",100g,256,1 burger (219 g),burger,219.0,g,1.0,560.64,2.56
+274,Saucisse bratwurst,100g,333,1 pièce (85 g),pièce,85.0,g,1.0,283.05,3.33
+275,"Double Whopper, Burger King",100g,239,1 burger (374 g),burger,374.0,g,1.0,893.86,2.39
+276,"Whopper, Burger King",100g,231,1 burger (291 g),burger,291.0,g,1.0,672.21,2.31
+277,Cheeseburger,100g,263,1 burger (156 g),burger,156.0,g,1.0,410.28,2.63
+278,Blanc de poulet,100g,163,1 pièce (71 g),pièce,71.0,g,1.0,115.73,1.63
+279,Nuggets de poulet,100g,296,1 pièce (20 g),pièce,20.0,g,1.0,59.2,2.96
+280,Sandwich au poulet pizzaiola,100g,141,1 sandwich (320 g),sandwich,320.0,g,1.0,451.2,1.41
+281,Sandwich au poulet,100g,241,1 sandwich (170 g),sandwich,170.0,g,1.0,409.7,2.41
+282,Sandwich au poulet Teriyaki,100g,138,1 sandwich (266 g),sandwich,266.0,g,1.0,367.08,1.38
+283,Ailes de poulet,100g,324,1 pièce (29 g),pièce,29.0,g,1.0,93.96,3.24
+284,Chop Suey,100g,172,1 portion (340 g),portion,340.0,g,1.0,584.8,1.72
+285,Curly fries,100g,311,1 portion (128 g),portion,128.0,g,1.0,398.08,3.11
+286,Double cheeseburger,100g,267,1 burger (155 g),burger,155.0,g,1.0,413.85,2.67
+287,Pâté impérial,100g,250,1 pièce (80 g),pièce,80.0,g,1.0,200.0,2.5
+288,Falafel,100g,335,1 pièce (17 g),pièce,17.0,g,1.0,56.95,3.35
+289,Filet-o-Fish,100g,282,1 sandwich (142 g),sandwich,142.0,g,1.0,400.44,2.82
+290,Fish and chips,100g,195,1 portion (300 g),portion,300.0,g,1.0,585.0,1.95
+291,Sandwich au poisson,100g,273,1 sandwich (158 g),sandwich,158.0,g,1.0,431.34,2.73
+292,Frites,100g,254,1 portion (71 g),portion,71.0,g,1.0,180.34,2.54
+293,Salade de poulet grillé,100g,88,1 salade (305 g),salade,305.0,g,1.0,268.4,0.88
+294,Sandwich au jambon,100g,241,1 sandwich (146 g),sandwich,146.0,g,1.0,351.86,2.41
+295,Hamburger,100g,254,1 sandwich (110 g),sandwich,110.0,g,1.0,279.4,2.54
+296,Hot Dog,100g,269,1 hot dog (116 g),hot dog,116.0,g,1.0,312.04,2.69
+297,Italian BMT,100g,183,1 sandwich (224 g),sandwich,224.0,g,1.0,409.92,1.83
+298,Lasagnes,100g,132,1 pièce (130 g),pièce,130.0,g,1.0,171.6,1.32
+299,"McChicken, McDonald’s",100g,251,1 burger (143 g),burger,143.0,g,1.0,358.93,2.51
+300,"Cheeseburger, McDonald’s",100g,263,1 sandwich (114 g),sandwich,114.0,g,1.0,299.82,2.63
+301,"Chicken Mc Nuggets, McDonald’s",100g,297,1 nugget (16 g),nugget,16.0,g,1.0,47.52,2.97
+302,"Double cheeseburger, McDonalds",100g,282,1 burger (155 g),burger,155.0,g,1.0,437.1,2.82
+303,"Filet-o-Fish, McDonald’s",100g,275,1 sandwich (142 g),sandwich,142.0,g,1.0,390.5,2.75
+304,Nachos au fromage,100g,306,10 nachos (188 g),nachos,188.0,g,10.0,575.28,3.06
+305,Beignet d’oignon,100g,411,1 pièce (6.5 g),pièce,6.5,g,1.0,26.715,4.11
+306,Saumon fumé,100g,158,1/2 filet (178 g),filet,178.0,g,0.5,281.24,1.58
+307,Wrap,100g,271,1 wrap (63 g),wrap,63.0,g,1.0,170.73,2.71
+308,Thon,100g,154,1/2 filet (28.35 g),filet,28.35,g,0.5,43.659000000000006,1.54
+309,Hamburger végétarien,100g,181,1 burger (215 g),burger,215.0,g,1.0,389.15,1.81
+310,Steak végétarien,100g,390,1 sandwich (247 g),sandwich,247.0,g,1.0,963.3,3.9
+311,Fajitas aux poulet,100g,147,1 sandwich (222 g),sandwich,222.0,g,1.0,326.34,1.47
+312,"McMuffin, McDonald’s",100g,225,1 burger (129 g),burger,129.0,g,1.0,290.25,2.25
+313,Belge,100g,230,1 tranche (64 g),tranche,64.0,g,1.0,147.2,2.3
+314,Américain,100g,234,1 portion (45 g),portion,45.0,g,1.0,105.3,2.34
+315,Nem,100g,244,1 pièce (140 g),pièce,140.0,g,1.0,341.6,2.44
+316,"Potatoes, Mc Donald’s",100g,195,1 portion (110 g),portion,110.0,g,1.0,214.5,1.95
+317,"Royal Cheese, Mc Donald’s",100g,255,1 burger (207 g),burger,207.0,g,1.0,527.85,2.55
+318,"Royal Deluxe, Mc Donald’s",100g,240,1 burger (227 g),burger,227.0,g,1.0,544.8,2.4
+319,"Croque McDo, Mc Donald’s",100g,275,1 burger (95 g),burger,95.0,g,1.0,261.25,2.75
+320,Kebab,100g,184,1 portion (350 g),portion,350.0,g,1.0,644.0,1.84
+321,"QuickN’ Toast, Quick",100g,287,1 burger (227 g),burger,227.0,g,1.0,651.49,2.87
+322,Giant de chez Quick,100g,312,1 burger (120 g),burger,120.0,g,1.0,374.4,3.12
+323,"Long Chicken, Quick",100g,463,1 sandwich (120 g),sandwich,120.0,g,1.0,555.6,4.63
+324,Sandwich au saucisson,100g,375,1 sandwich (90 g),sandwich,90.0,g,1.0,337.5,3.75
+325,Sandwich jambon-fromage,100g,306,1 sandwich (80 g),sandwich,80.0,g,1.0,244.8,3.06
+326,Extrait d’amande,100g,374,1 cuillère à soupe (10 g),cuillère à soupe,10.0,g,1.0,37.4,3.74
+327,Anis,100g,337,1 cuillère à café (2.1 g),cuillère à café,2.1,g,1.0,7.077000000000001,3.37
+328,Graines d’anis,100g,337,1 cuillère à café (2.1 g),cuillère à café,2.1,g,1.0,7.077000000000001,3.37
+329,Roquette,100g,25,1 feuille (2 g),feuille,2.0,g,1.0,0.5,0.25
+330,Vinaigre balsamique,100g,88,1 cuillère à soupe (16 g),cuillère à soupe,16.0,g,1.0,14.08,0.88
+331,Basilic,100g,233,1 cuillère à café (0.7 g),cuillère à café,0.7,g,1.0,1.631,2.33
+332,Poivre noir,100g,251,1 cuillère à café (2.4 g),cuillère à café,2.4,g,1.0,6.024,2.51
+333,Graines de sésame noir,100g,573,1 cuillère à soupe (9 g),cuillère à soupe,9.0,g,1.0,51.57,5.73
+334,Bouillon,100g,100,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,5.0,1.0
+335,Câpres,100g,23,1 cuillère à soupe (8.6 g),cuillère à soupe,8.6,g,1.0,1.9779999999999998,0.23
+336,Carvi,100g,333,1 cuillère à soupe (6.7 g),cuillère à soupe,6.7,g,1.0,22.311,3.33
+337,Manioc,100g,160,1 turbercule (408 g),turbercule,408.0,g,1.0,652.8,1.6
+338,Poivre de Cayenne,100g,318,1 cuillère à café (1.8 g),cuillère à café,1.8,g,1.0,5.724,3.18
+339,Bette,100g,19,1 feuille (48 g),feuille,48.0,g,1.0,9.12,0.19
+340,Racine de chicorée,100g,72,1 racine (60 g),racine,60.0,g,1.0,43.2,0.72
+341,Piment,100g,282,1 cuillère à soupe (8 g),cuillère à soupe,8.0,g,1.0,22.56,2.82
+342,Poudre de chili,100g,282,1 cuillère à café (2.7 g),cuillère à café,2.7,g,1.0,7.614000000000001,2.82
+343,Ciboulette,100g,30,1 cuillère à soupe (3 g),cuillère à soupe,3.0,g,1.0,0.9,0.3
+344,Vinaigre de cidre,100g,21,1 cuillère à soupe (14.9 g),cuillère à soupe,14.9,g,1.0,3.1290000000000004,0.21
+345,Cannelle,100g,247,1 cuillère à soupe (7.9 g),cuillère à soupe,7.9,g,1.0,19.513,2.47
+346,Clous de girofle,100g,274,1 cuillère à soupe (6.5 g),cuillère à soupe,6.5,g,1.0,17.81,2.74
+347,Coriandre,100g,23,1/4 tasse (4 g),tasse,4.0,g,0.25,0.92,0.23
+348,Cresson,100g,32,1 brin (1 g),brin,1.0,g,1.0,0.32,0.32
+349,Gingembre confit,100g,335,1 cuillère à soupe (5.2 g),cuillère à soupe,5.2,g,1.0,17.42,3.35
+350,Cumin,100g,375,1 cuillère à soupe (6 g),cuillère à soupe,6.0,g,1.0,22.5,3.75
+351,Curry,100g,325,1 cuillère à soupe (6.3 g),cuillère à soupe,6.3,g,1.0,20.475,3.25
+352,Pissenlit,100g,45,1 tasse (55 g),tasse,55.0,g,1.0,24.75,0.45
+353,Aneth,100g,43,5 brins (1 g),brins,1.0,g,5.0,0.43,0.43
+354,Fenouil,100g,31,1 fenouil (234 g),fenouil,234.0,g,1.0,72.54,0.31
+355,Graines de fenouil,100g,345,1 cuillère à café (2 g),cuillère à café,2.0,g,1.0,6.9,3.45
+356,Ail,100g,149,1 gousse (3 g),gousse,3.0,g,1.0,4.47,1.49
+357,Ail en poudre,100g,331,1 cuillère à café (3.1 g),cuillère à café,3.1,g,1.0,10.261000000000001,3.31
+358,Sel à l’ail,100g,0,1/4 cuillère à café (1 g),cuillère à café,1.0,g,0.25,0.0,0.0
+359,Gingembre,100g,80,1 cuillère à café (2 g),cuillère à café,2.0,g,1.0,1.6,0.8
+360,Feuilles de vigne,100g,93,1 feuille (3 g),feuille,3.0,g,1.0,2.79,0.93
+361,Raifort,100g,48,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,7.2,0.48
+362,Sel iodé,100g,0,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,0.0,0.0
+363,Piment jalapeño,100g,13,1 cuillère à café (3 g),cuillère à café,3.0,g,1.0,0.39,0.13
+364,Genièvre,100g,45,1 tasse (55 g),tasse,55.0,g,1.0,24.75,0.45
+365,Réglisse,100g,375,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,67.5,3.75
+366,Condiment liquide Maggi,100g,104,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,4.16,1.04
+367,Marjolaine,100g,271,1 cuillère à soupe (1.7 g),cuillère à soupe,1.7,g,1.0,4.607,2.71
+368,Oignon émincé,100g,40,1 tasse (160 g),tasse,160.0,g,1.0,64.0,0.4
+369,Menthe,100g,70,1 cuillère à soupe (1.6 g),cuillère à soupe,1.6,g,1.0,1.12,0.7
+370,Graines de moutarde,100g,508,1 cuillère à café (2 g),cuillère à café,2.0,g,1.0,10.16,5.08
+371,Noix de muscade,100g,525,1 cuillère à café (2.2 g),cuillère à café,2.2,g,1.0,11.55,5.25
+372,Gombo,100g,33,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,5.94,0.33
+373,Oignon,100g,40,1 oignon (85 g),oignon,85.0,g,1.0,34.0,0.4
+374,Poudre d’oignon,100g,341,1 cuillère à café (2.4 g),cuillère à café,2.4,g,1.0,8.184,3.41
+375,Zeste d’orange,100g,97,1 cuillère à soupe (6 g),cuillère à soupe,6.0,g,1.0,5.82,0.97
+376,Origan,100g,265,1 cuillère à café (1 g),cuillère à café,1.0,g,1.0,2.65,2.65
+377,Persil,100g,36,1 cuillère à soupe (3.8 g),cuillère à soupe,3.8,g,1.0,1.3679999999999999,0.36
+378,Panais,100g,75,1 panais (170 g),panais,170.0,g,1.0,127.5,0.75
+379,Poivre,100g,251,1 cuillère à café (2.4 g),cuillère à café,2.4,g,1.0,6.024,2.51
+380,Graines de pavot,100g,525,1 cuillère à soupe (8.8 g),cuillère à soupe,8.8,g,1.0,46.2,5.25
+381,Poivron rouge,100g,251,1 cuillère à café (3 g),cuillère à café,3.0,g,1.0,7.53,2.51
+382,Vinaigre de vin rouge,100g,19,1 cuillère à soupe (14.9 g),cuillère à soupe,14.9,g,1.0,2.8310000000000004,0.19
+383,Romarin,100g,131,1 cuillère à soupe (1.7 g),cuillère à soupe,1.7,g,1.0,2.227,1.31
+384,Safran,100g,310,1 cuillère à soupe (2.1 g),cuillère à soupe,2.1,g,1.0,6.51,3.1
+385,Sauge,100g,315,1 cuillère à soupe (2 g),cuillère à soupe,2.0,g,1.0,6.3,3.15
+386,Sel,100g,0,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,0.0,0.0
+387,Sel de mer,100g,0,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,0.0,0.0
+388,Graines de sésame,100g,573,1 tasse (144 g),tasse,144.0,g,1.0,825.12,5.73
+389,Stevia,100g,0,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,0.0,0.0
+390,Tamarin,100g,239,1 tamarin (2 g),tamarin,2.0,g,1.0,4.78,2.39
+391,Taro,100g,112,"1 tasse, en tranche (104 g)","tasse, en tranche",104.0,g,1.0,116.48,1.12
+392,Estragon,100g,295,1 cuillère à soupe (1.8 g),cuillère à soupe,1.8,g,1.0,5.31,2.95
+393,Thym,100g,276,1 cuillère à café (1 g),cuillère à café,1.0,g,1.0,2.76,2.76
+394,Curcuma,100g,354,1 cuillère à café (2.2 g),cuillère à café,2.2,g,1.0,7.788,3.54
+395,Extrait de vanille,100g,288,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,37.44,2.88
+396,Vinaigre,100g,18,1 cuillère à soupe (14.9 g),cuillère à soupe,14.9,g,1.0,2.682,0.18
+397,Poivre blanc,100g,296,1 cuillère à café (2.4 g),cuillère à café,2.4,g,1.0,7.104,2.96
+398,Patate douce,100g,118,1 tasse (150 g),tasse,150.0,g,1.0,177.0,1.18
+399,Gousse de vanille,100g,250,1 pièce (4 g),pièce,4.0,g,1.0,10.0,2.5
+400,Asiago,100g,392,1 paquet (200 g),paquet,200.0,g,1.0,784.0,3.92
+401,Babybel,100g,333,1 pièce (21 g),pièce,21.0,g,1.0,69.93,3.33
+402,Fromage à pâte persillée,100g,353,1 paquet (150 g),paquet,150.0,g,1.0,529.5,3.53
+403,Brie,100g,334,1 tranche (30 g),tranche,30.0,g,1.0,100.2,3.34
+404,Camembert,100g,300,1 tranche (30 g),tranche,30.0,g,1.0,90.0,3.0
+405,Cheddar,100g,403,1 tranche (22 g),tranche,22.0,g,1.0,88.66,4.03
+406,Fondue au fromage,100g,228,1 paquet (400 g),paquet,400.0,g,1.0,912.0,2.28
+407,Tartinade au fromage,100g,290,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,43.5,2.9
+408,Chester,100g,387,1 paquet (200 g),paquet,200.0,g,1.0,774.0,3.87
+409,Cottage cheese,100g,98,1 tasse (210 g),tasse,210.0,g,1.0,205.8,0.98
+410,Fromage néerlandais,100g,393,1 packet (150 g),packet,150.0,g,1.0,589.5,3.93
+411,Edam,100g,357,1 package (198 g),package,198.0,g,1.0,706.86,3.57
+412,Emmental,100g,357,1 tranche (25 g),tranche,25.0,g,1.0,89.25,3.57
+413,Feta,100g,264,1 paquet (200 g),paquet,200.0,g,1.0,528.0,2.64
+414,Fontina,100g,389,1 tranche (30 g),tranche,30.0,g,1.0,116.7,3.89
+415,Fromage de chèvre,100g,364,1 paquet (250 g),paquet,250.0,g,1.0,910.0,3.64
+416,Gorgonzola,100g,350,1 paquet (200 g),paquet,200.0,g,1.0,700.0,3.5
+417,Gouda,100g,356,1 package (198 g),package,198.0,g,1.0,704.88,3.56
+418,Parmesan râpé,100g,431,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,21.55,4.31
+419,Gruyère suisse,100g,413,1 tranche (25 g),tranche,25.0,g,1.0,103.25,4.13
+420,Halloumi,100g,321,1 packet (250 g),packet,250.0,g,1.0,802.5,3.21
+421,Havarti,100g,371,1 tranche (28 g),tranche,28.0,g,1.0,103.88,3.71
+422,Fromage italien,100g,397,1 portion (30 g),portion,30.0,g,1.0,119.1,3.97
+423,Jarlsberg,100g,352,1 paquet (200 g),paquet,200.0,g,1.0,704.0,3.52
+424,Maasdam,100g,344,1 tranche (18 g),tranche,18.0,g,1.0,61.92,3.44
+425,Manchego,100g,320,1 portion (28 g),portion,28.0,g,1.0,89.6,3.2
+426,Mozzarella,100g,280,1 tranche (28 g),tranche,28.0,g,1.0,78.4,2.8
+427,Munster,100g,368,1 tranche (28 g),tranche,28.0,g,1.0,103.04,3.68
+428,Neufchâtel,100g,253,1 package (85 g),package,85.0,g,1.0,215.05,2.53
+429,Parmesan,100g,431,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,21.55,4.31
+430,Pecorino,100g,387,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,19.35,3.87
+431,Provolone,100g,351,1 tranche (28 g),tranche,28.0,g,1.0,98.28,3.51
+432,Fromage à raclette,100g,357,1 tranche (25 g),tranche,25.0,g,1.0,89.25,3.57
+433,Ricotta,100g,174,1 tasse (246 g),tasse,246.0,g,1.0,428.04,1.74
+434,Roquefort,100g,369,1 paquet (150 g),paquet,150.0,g,1.0,553.5,3.69
+435,Fromage de brebis,100g,364,1 paquet (200 g),paquet,200.0,g,1.0,728.0,3.64
+436,Fromage à pâte molle,100g,268,1 paquet (150 g),paquet,150.0,g,1.0,402.0,2.68
+437,Stilton,100g,393,1 paquet (200 g),paquet,200.0,g,1.0,786.0,3.93
+438,Fromage suisse,100g,380,1 tranche (25 g),tranche,25.0,g,1.0,95.0,3.8
+439,Abondance,100g,402,1 tranche (25 g),tranche,25.0,g,1.0,100.5,4.02
+440,Beaufort,100g,401,1 tranche (25 g),tranche,25.0,g,1.0,100.25,4.01
+441,Bleu d’Auvergne,100g,341,1 paquet (125 g),paquet,125.0,g,1.0,426.25,3.41
+442,Boursin,100g,409,1 portion (15 g),portion,15.0,g,1.0,61.35,4.09
+443,Brillat-savarin,100g,384,1 portion (30 g),portion,30.0,g,1.0,115.2,3.84
+444,Brocciu,100g,130,1 paquet (500 g),paquet,500.0,g,1.0,650.0,1.3
+445,Brousse,100g,154,1 paquet (400 g),paquet,400.0,g,1.0,616.0,1.54
+446,Cabécou du Perigourd,100g,282,1 portion (35 g),portion,35.0,g,1.0,98.7,2.82
+447,Cancoillote,100g,118,1 pot (500 g),pot,500.0,g,1.0,590.0,1.18
+448,Cantal,100g,371,1 portion (25 g),portion,25.0,g,1.0,92.75,3.71
+449,Crotin de chèvre,100g,367,1 tranche (30 g),tranche,30.0,g,1.0,110.1,3.67
+450,Chaussée aux moines,100g,311,1 portion (50 g),portion,50.0,g,1.0,155.5,3.11
+451,Chaource,100g,292,1 tranche (20 g),tranche,20.0,g,1.0,58.4,2.92
+452,Comté,100g,417,1 tranche (33 g),tranche,33.0,g,1.0,137.61,4.17
+453,Coulommiers,100g,287,1 portion (35 g),portion,35.0,g,1.0,100.45,2.87
+454,Epoisses,100g,290,1 tranche (50 g),tranche,50.0,g,1.0,145.0,2.9
+455,Etorki,100g,280,1 pot (135 g),pot,135.0,g,1.0,378.0,2.8
+456,Faisselle,100g,84,1 pot (500 g),pot,500.0,g,1.0,420.0,0.84
+457,Fourme d’Ambert,100g,353,1 portion (35 g),portion,35.0,g,1.0,123.55,3.53
+458,Laguiole,100g,371,1 tranche (33 g),tranche,33.0,g,1.0,122.43,3.71
+459,Livarot,100g,354,1 tranche (30 g),tranche,30.0,g,1.0,106.2,3.54
+460,Maroilles,100g,341,1 portion (30 g),portion,30.0,g,1.0,102.3,3.41
+461,Mimolette vieille,100g,421,1 tranche (20 g),tranche,20.0,g,1.0,84.2,4.21
+462,Morbier,100g,347,1 portion (20 g),portion,20.0,g,1.0,69.4,3.47
+463,Mont d’or,100g,350,1 portion (33 g),portion,33.0,g,1.0,115.5,3.5
+464,Ossau-iraty,100g,355,1 slice (28 g),slice,28.0,g,1.0,99.4,3.55
+465,Pélardon,100g,352,1 portion (35 g),portion,35.0,g,1.0,123.2,3.52
+466,Pavé d’affinois allégé,100g,170,1 pièce (100 g),pièce,100.0,g,1.0,170.0,1.7
+467,Port-salut,100g,322,1 portion (25 g),portion,25.0,g,1.0,80.5,3.22
+468,Reblochon,100g,354,1 portion (30 g),portion,30.0,g,1.0,106.2,3.54
+469,Roquefort,100g,369,1 tranche (30 g),tranche,30.0,g,1.0,110.7,3.69
+470,Rocamadour,100g,283,1 portion (35 g),portion,35.0,g,1.0,99.05,2.83
+471,Saint-nectaire,100g,341,1 portion (30 g),portion,30.0,g,1.0,102.3,3.41
+472,Saint-Morêt,100g,203,1 portion (20 g),portion,20.0,g,1.0,40.6,2.03
+473,Tomme des Pyrénées,100g,283,1 paquet (150 g),paquet,150.0,g,1.0,424.5,2.83
+474,Fromage de montagne,100g,418,1 tranche (24 g),tranche,24.0,g,1.0,100.32,4.18
+475,Cheddar,100g,403,1 tranche (28 g),tranche,28.0,g,1.0,112.84,4.03
+476,Plateau de fromage,100g,357,1 tranche (28 g),tranche,28.0,g,1.0,99.96,3.57
+477,Tranches de fromage,100g,356,1 tranche (28 g),tranche,28.0,g,1.0,99.68,3.56
+478,Edam,100g,357,1 tranche (28 g),tranche,28.0,g,1.0,99.96,3.57
+479,Emmental,100g,357,1 tranche (25 g),tranche,25.0,g,1.0,89.25,3.57
+480,Esrom,100g,322,1 tranche (23 g),tranche,23.0,g,1.0,74.06,3.22
+481,Fol Epi,100g,388,1 tranche (24 g),tranche,24.0,g,1.0,93.12,3.88
+482,Gouda,100g,356,1 paquet (198 g),paquet,198.0,g,1.0,704.88,3.56
+483,Havarti,100g,371,1 tranche (28 g),tranche,28.0,g,1.0,103.88,3.71
+484,Leerdammer,100g,284,1 tranche (25 g),tranche,25.0,g,1.0,71.0,2.84
+485,Maasdam,100g,344,1 tranche (18 g),tranche,18.0,g,1.0,61.92,3.44
+486,Mozzarella,100g,280,1 tranche (28 g),tranche,28.0,g,1.0,78.4,2.8
+487,Munster,100g,368,1 tranche (28 g),tranche,28.0,g,1.0,103.04,3.68
+488,Fromage au poivre,100g,100,1 tranche (21 g),tranche,21.0,g,1.0,21.0,1.0
+489,Fromage fumé,100g,410,1 tranche (20 g),tranche,20.0,g,1.0,82.0,4.1
+490,Tilsit,100g,340,1 tranche (25 g),tranche,25.0,g,1.0,85.0,3.4
+491,Gouda jeune,100g,356,1 tranche (28 g),tranche,28.0,g,1.0,99.68,3.56
+492,Fromage pour sandwich,100g,148,1 tranche (21 g),tranche,21.0,g,1.0,31.08,1.48
+493,Raclette,100g,354,1 tranche (25 g),tranche,25.0,g,1.0,88.5,3.54
+494,Fromage frais à la ciboulette,100g,342,1 cuillère à soupe (14.5 g),cuillère à soupe,14.5,g,1.0,49.59,3.42
+495,Cottage cheese,100g,98,1 tasse (226 g),tasse,226.0,g,1.0,221.48,0.98
+496,Fromage à la crème,100g,342,1 cuillère à soupe (14.5 g),cuillère à soupe,14.5,g,1.0,49.59,3.42
+497,Fromage frais aux fines herbes et à l’ail,100g,342,1 cuillère à soupe (14.5 g),cuillère à soupe,14.5,g,1.0,49.59,3.42
+498,Fromage de chèvre,100g,364,1 cuillère à café (10 g),cuillère à café,10.0,g,1.0,36.4,3.64
+499,Raifort,100g,48,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,7.2,0.48
+500,Mascarpone,100g,450,1 cuillère à soupe (14.5 g),cuillère à soupe,14.5,g,1.0,65.25,4.5
+501,Obatzda,100g,303,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,45.45,3.03
+502,Fromage à la crème Philadelphia,100g,342,1 cuillère à soupe (14.5 g),cuillère à soupe,14.5,g,1.0,49.59,3.42
+503,Fromage frais aux noix,100g,342,1 cuillère à soupe (14.5 g),cuillère à soupe,14.5,g,1.0,49.59,3.42
+504,Fromage frais au poivre,100g,252,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,37.8,2.52
+505,Vache qui rit,100g,275,1 portion (17 g),portion,17.0,g,1.0,46.75,2.75
+506,Açaï,100g,70,1 tasse (148 g),tasse,148.0,g,1.0,103.6,0.7
+507,Pomme,100g,52,1 pomme (182 g),pomme,182.0,g,1.0,94.64,0.52
+508,Compote de pommes,100g,68,1 tasse (246 g),tasse,246.0,g,1.0,167.28,0.68
+509,Abricot,100g,48,1 apricot (35 g),apricot,35.0,g,1.0,16.8,0.48
+510,Avocat,100g,160,1 avocat (200 g),avocat,200.0,g,1.0,320.0,1.6
+511,Banane,100g,89,1 banane (125 g),banane,125.0,g,1.0,111.25,0.89
+512,Mûres,100g,43,1 tasse (144 g),tasse,144.0,g,1.0,61.92,0.43
+513,Oranges sanguines,100g,50,1 portion (140 g),portion,140.0,g,1.0,70.0,0.5
+514,Myrtilles,100g,57,1 tasse (148 g),tasse,148.0,g,1.0,84.36,0.57
+515,Melon cantaloup,100g,34,1 pièce (69 g),pièce,69.0,g,1.0,23.46,0.34
+516,Cerises,100g,50,1 cerise (8 g),cerise,8.0,g,1.0,4.0,0.5
+517,Clémentine,100g,47,1 clémentine (74 g),clémentine,74.0,g,1.0,34.78,0.47
+518,Canneberges,100g,46,1 tasse (100 g),tasse,100.0,g,1.0,46.0,0.46
+519,Groseilles,100g,56,1 tasse (112 g),tasse,112.0,g,1.0,62.72,0.56
+520,Dattes,100g,282,1 datte (7.1 g),datte,7.1,g,1.0,20.022,2.82
+521,Figues,100g,74,1 figue (50 g),figue,50.0,g,1.0,37.0,0.74
+522,Salade de fruits,100g,50,1 tasse (249 g),tasse,249.0,g,1.0,124.5,0.5
+523,Raisin,100g,69,1 tasse (151 g),tasse,151.0,g,1.0,104.19,0.69
+524,Reine-claude,100g,41,1 pièce (5 g),pièce,5.0,g,1.0,2.05,0.41
+525,Goyave,100g,68,1 goyave (55 g),goyave,55.0,g,1.0,37.4,0.68
+526,Jacquier,100g,95,1 tasse (151 g),tasse,151.0,g,1.0,143.45,0.95
+527,Kiwi,100g,61,1 kiwi (183 g),kiwi,183.0,g,1.0,111.63,0.61
+528,Citron,100g,29,1 citron (58 g),citron,58.0,g,1.0,16.82,0.29
+529,Lime,100g,30,1 lime (67 g),lime,67.0,g,1.0,20.1,0.3
+530,Litchis,100g,66,1 litchi (10 g),litchi,10.0,g,1.0,6.6,0.66
+531,Mandarines,100g,53,1 mandarine (88 g),mandarine,88.0,g,1.0,46.64,0.53
+532,Mangue,100g,60,1 mangue (336 g),mangue,336.0,g,1.0,201.6,0.6
+533,Mûres d’arbre,100g,43,1 tasse (140 g),tasse,140.0,g,1.0,60.2,0.43
+534,Nectarine,100g,44,1 nectarine (150 g),nectarine,150.0,g,1.0,66.0,0.44
+535,Olives,100g,115,1 olive (2.7 g),olive,2.7,g,1.0,3.105,1.15
+536,Orange,100g,47,1 orange (131 g),orange,131.0,g,1.0,61.57,0.47
+537,Papaye,100g,43,1 papaye (500 g),papaye,500.0,g,1.0,215.0,0.43
+538,Fruit de la passion,100g,97,1 fruit de la passion (18 g),fruit de la passion,18.0,g,1.0,17.46,0.97
+539,Pêche,100g,39,1 pêche (150 g),pêche,150.0,g,1.0,58.5,0.39
+540,Poire,100g,57,1 poire (178 g),poire,178.0,g,1.0,101.46,0.57
+541,Kaki,100g,127,1 kaki (25 g),kaki,25.0,g,1.0,31.75,1.27
+542,Physalis,100g,49,1 physalis (5 g),physalis,5.0,g,1.0,2.45,0.49
+543,Ananas,100g,50,1 ananas (905 g),ananas,905.0,g,1.0,452.5,0.5
+544,Banane plantain,100g,122,1 banane plantain (179 g),banane plantain,179.0,g,1.0,218.38,1.22
+545,Prune,100g,46,1 prune (66 g),prune,66.0,g,1.0,30.36,0.46
+546,Grenade,100g,83,1 grenade (282 g),grenade,282.0,g,1.0,234.06,0.83
+547,Coing,100g,57,1 coing (92 g),coing,92.0,g,1.0,52.44,0.57
+548,Raisins secs,100g,299,1 tasse (145 g),tasse,145.0,g,1.0,433.55,2.99
+549,Ramboutan,100g,82,1 rambutan (9 g),rambutan,9.0,g,1.0,7.38,0.82
+550,Framboises,100g,52,1 tasse (123 g),tasse,123.0,g,1.0,63.96,0.52
+551,Rhubarbe,100g,21,1 pièce (51 g),pièce,51.0,g,1.0,10.71,0.21
+552,Carambole,100g,31,1 carambole (91 g),carambole,91.0,g,1.0,28.21,0.31
+553,Fraises,100g,32,1 tasse (152 g),tasse,152.0,g,1.0,48.64,0.32
+554,Tamarin,100g,239,1 tamarin (2 g),tamarin,2.0,g,1.0,4.78,2.39
+555,Compote de pommes,100g,62,1 tasse (114 g),tasse,114.0,g,1.0,70.68,0.62
+556,Abricots au sirop,100g,48,1 tasse (246 g),tasse,246.0,g,1.0,118.08,0.48
+557,Mûres au sirop,100g,92,1 tasse (256 g),tasse,256.0,g,1.0,235.52,0.92
+558,Myrtilles au sirop,100g,88,1 tasse (256 g),tasse,256.0,g,1.0,225.28,0.88
+559,Cerises au sirop,100g,54,1 tasse (250 g),tasse,250.0,g,1.0,135.0,0.54
+560,Canneberges au sirop,100g,178,1 tasse (275 g),tasse,275.0,g,1.0,489.5,1.78
+561,Morceaux d’ananas au sirop,100g,53,1 tasse (225 g),tasse,225.0,g,1.0,119.25,0.53
+562,Figues au sirop,100g,107,1 tasse (261 g),tasse,261.0,g,1.0,279.27,1.07
+563,Salade de fruits au sirop,100g,50,1 tasse (259 g),tasse,259.0,g,1.0,129.5,0.5
+564,Groseilles à maquereau au sirop,100g,73,1 tasse (252 g),tasse,252.0,g,1.0,183.96,0.73
+565,Pamplemousse au sirop,100g,37,1 tasse (249 g),tasse,249.0,g,1.0,92.13,0.37
+566,Raisin au sirop,100g,76,1 tasse (256 g),tasse,256.0,g,1.0,194.56,0.76
+567,Mandarines au sirop,100g,71,1 boite de conserve (113 g),boite de conserve,113.0,g,1.0,80.23,0.71
+568,Mangue au sirop,100g,65,1 tasse (165 g),tasse,165.0,g,1.0,107.25,0.65
+569,Fruits mélangés au sirop,100g,71,1 boite de conserve (113 g),boite de conserve,113.0,g,1.0,80.23,0.71
+570,Griottes en conserve,100g,81,1 tasse (270 g),tasse,270.0,g,1.0,218.7,0.81
+571,Oranges au sirop,100g,62,1 boite de conserve (113 g),boite de conserve,113.0,g,1.0,70.06,0.62
+572,Pêches au sirop,100g,54,1/2 pêche (98 g),pêche,98.0,g,0.5,52.92,0.54
+573,Poires au sirop,100g,35,1 tasse (284 g),tasse,284.0,g,1.0,99.4,0.35
+574,Ananas au sirop,100g,60,1 tasse (232 g),tasse,232.0,g,1.0,139.2,0.6
+575,Prunes au sirop,100g,58,1 prune (46 g),prune,46.0,g,1.0,26.68,0.58
+576,Framboises au sirop,100g,91,1 tasse (256 g),tasse,256.0,g,1.0,232.96,0.91
+577,Tranches d’ananas au sirop,100g,53,1 tasse (225 g),tasse,225.0,g,1.0,119.25,0.53
+578,Fraises au sirop,100g,92,1 tasse (254 g),tasse,254.0,g,1.0,233.68,0.92
+579,Acérola,100g,32,1 acerola (4.8 g),acerola,4.8,g,1.0,1.536,0.32
+580,Nashi,100g,42,1 nashi (178 g),nashi,178.0,g,1.0,74.76,0.42
+581,Avocat,100g,160,1 avocat (200 g),avocat,200.0,g,1.0,320.0,1.6
+582,Banane,100g,89,1 banane (125 g),banane,125.0,g,1.0,111.25,0.89
+583,Fruit à pain,100g,103,1/4 fruit à pain (96 g),fruit à pain,96.0,g,0.25,98.88,1.03
+584,Melon charentais,100g,34,1 tranche (69 g),tranche,69.0,g,1.0,23.46,0.34
+585,Melon casaba,100g,28,1 tranche (125 g),tranche,125.0,g,1.0,35.0,0.28
+586,Chérimole,100g,75,1 chérimole (235 g),chérimole,235.0,g,1.0,176.25,0.75
+587,Durian,100g,147,1 durian (602 g),durian,602.0,g,1.0,884.94,1.47
+588,Feijoa,100g,55,1 feijoa (42 g),feijoa,42.0,g,1.0,23.1,0.55
+589,Melon Galia,100g,23,1 melon (130 g),melon,130.0,g,1.0,29.9,0.23
+590,Pamplemousse,100g,42,1/2 pamplemousse (123 g),pamplemousse,123.0,g,0.5,51.66,0.42
+591,Jacquier,100g,95,1 tasse (151 g),tasse,151.0,g,1.0,143.45,0.95
+592,Kiwi,100g,61,1 kiwi (183 g),kiwi,183.0,g,1.0,111.63,0.61
+593,Kumquat,100g,71,1 kumquat (19 g),kumquat,19.0,g,1.0,13.49,0.71
+594,Litchi,100g,66,1 litchi (10 g),litchi,10.0,g,1.0,6.6,0.66
+595,Mandarine,100g,53,1 madarine (90 g),madarine,90.0,g,1.0,47.7,0.53
+596,Mangue,100g,60,1 mangue (336 g),mangue,336.0,g,1.0,201.6,0.6
+597,Mangoustan,100g,73,1 portion (80 g),portion,80.0,g,1.0,58.4,0.73
+598,Cerise au marasquin,100g,165,1 cerise (5 g),cerise,5.0,g,1.0,8.25,1.65
+599,Melon,100g,34,1 tranche (69 g),tranche,69.0,g,1.0,23.46,0.34
+600,Noni,100g,53,1 noni (28.4 g),noni,28.4,g,1.0,15.051999999999998,0.53
+601,Ananas,100g,50,1 ananas (905 g),ananas,905.0,g,1.0,452.5,0.5
+602,Pamplemousse rose,100g,42,1/2 pamplemousse (123 g),pamplemousse,123.0,g,0.5,51.66,0.42
+603,Banane plantain,100g,122,1 banane plantain (179 g),banane plantain,179.0,g,1.0,218.38,1.22
+604,Grenade,100g,83,1 grenade (282 g),grenade,282.0,g,1.0,234.06,0.83
+605,Pomélo,100g,38,1 pomélo (609 g),pomélo,609.0,g,1.0,231.42,0.38
+606,Figue de Barbarie,100g,41,1 figue de barbarie (19 g),figue de barbarie,19.0,g,1.0,7.79,0.41
+607,Ramboutan,100g,82,1 rambutan (9 g),rambutan,9.0,g,1.0,7.38,0.82
+608,Carambole,100g,31,1 carambole (91 g),carambole,91.0,g,1.0,28.21,0.31
+609,Tamarin,100g,239,1 tamarin (2 g),tamarin,2.0,g,1.0,4.78,2.39
+610,Pastèque,100g,30,1 tranche (286 g),tranche,286.0,g,1.0,85.8,0.3
+611,Pitaya,100g,60,1 pitaya (200 g),pitaya,200.0,g,1.0,120.0,0.6
+612,Goyave,100g,68,1 goyave (55 g),goyave,55.0,g,1.0,37.4,0.68
+613,Gâteau des anges,100g,258,1 part (28 g),part,28.0,g,1.0,72.24,2.58
+614,Gâteau aux pommes,100g,252,1 part (100 g),part,100.0,g,1.0,252.0,2.52
+615,Strudel aux pommes,100g,274,1 pièce (71 g),pièce,71.0,g,1.0,194.54,2.74
+616,Chausson aux pommes,100g,348,1 pièce (82 g),pièce,82.0,g,1.0,285.36,3.48
+617,Omelette norvégienne,100g,247,1 part (103 g),part,103.0,g,1.0,254.41,2.47
+618,Gâteau d’anniversaire,100g,465,1 part (85 g),part,85.0,g,1.0,395.25,4.65
+619,Gâteau Forêt-noire,100g,264,1 part (107 g),part,107.0,g,1.0,282.48,2.64
+620,Muffin aux myrtilles,100g,377,1 muffin (57 g),muffin,57.0,g,1.0,214.89,3.77
+621,Tarte au myrtilles,100g,232,1 part (125 g),part,125.0,g,1.0,290.0,2.32
+622,Gâteau aux carottes,100g,408,1 part (133 g),part,133.0,g,1.0,542.64,4.08
+623,Cheesecake,100g,321,1 part (80 g),part,80.0,g,1.0,256.8,3.21
+624,Gâteau au chocolat,100g,389,1 part (138 g),part,138.0,g,1.0,536.82,3.89
+625,Gâteau à la mousse au chocolat,100g,260,1 part (95 g),part,95.0,g,1.0,247.0,2.6
+626,Muffin au chocolat,100g,420,1 muffin (100 g),muffin,100.0,g,1.0,420.0,4.2
+627,Gâteau à la noix de coco,100g,356,1 part (66 g),part,66.0,g,1.0,234.96,3.56
+628,Chou à la crème,100g,334,1 chou à la crème (130 g),chou à la crème,130.0,g,1.0,434.2,3.34
+629,Cupcake,100g,305,1 cupcake (43 g),cupcake,43.0,g,1.0,131.15,3.05
+630,Donut,100g,403,1 donut (60 g),donut,60.0,g,1.0,241.8,4.03
+631,Crème caramel,100g,145,1/2 tasse (153 g),tasse,153.0,g,0.5,221.85,1.45
+632,Gâteau au chocolat sans farine,100g,509,1 part (80 g),part,80.0,g,1.0,407.2,5.09
+633,Cake aux fruits confits,100g,324,1 part (43 g),part,43.0,g,1.0,139.32,3.24
+634,Pain d’épices,100g,356,1 pièce (74 g),pièce,74.0,g,1.0,263.44,3.56
+635,Gâteau à la crème glacée,100g,200,1 part (120 g),part,120.0,g,1.0,240.0,2.0
+636,Tarte au citron,100g,359,1 part (80 g),part,80.0,g,1.0,287.2,3.59
+637,Galette des rois,100g,377,1 part (91 g),part,91.0,g,1.0,343.07,3.77
+638,Tarte au citron,100g,352,1 part (66 g),part,66.0,g,1.0,232.32,3.52
+639,Gâteau marbré,100g,339,1 part (109 g),part,109.0,g,1.0,369.51,3.39
+640,Meringue,100g,285,1 pièce (127 g),pièce,127.0,g,1.0,361.95,2.85
+641,Pancake,100g,227,1 pancake (38 g),pancake,38.0,g,1.0,86.26,2.27
+642,Panettone,100g,360,1 tranche (50 g),tranche,50.0,g,1.0,180.0,3.6
+643,Pavlova,100g,294,1 part (65 g),part,65.0,g,1.0,191.1,2.94
+644,Tarte aux pêches,100g,223,1 part (117 g),part,117.0,g,1.0,260.91,2.23
+645,Tarte aux prunes,100g,109,1 part (150 g),part,150.0,g,1.0,163.5,1.09
+646,Gâteau au pavot,100g,394,1 part (90 g),part,90.0,g,1.0,354.6,3.94
+647,Quatre-quarts,100g,390,1 part (55 g),part,55.0,g,1.0,214.5,3.9
+648,Profiteroles,100g,334,1 portion (113 g),portion,113.0,g,1.0,377.42,3.34
+649,Pâte feuilletée,100g,558,1 pièce (245 g),pièce,245.0,g,1.0,1367.1,5.58
+650,Tarte aux framboises,100g,240,1 part (137 g),part,137.0,g,1.0,328.8,2.4
+651,Tarte à la rhubarbe,100g,245,1 part (137 g),part,137.0,g,1.0,335.65,2.45
+652,Sachertorte,100g,352,1 part (125 g),part,125.0,g,1.0,440.0,3.52
+653,Génoise,100g,289,1 part (38 g),part,38.0,g,1.0,109.82,2.89
+654,Tarte aux fraises,100g,230,1 part (167 g),part,167.0,g,1.0,384.1,2.3
+655,Tarte aux fraises et rhubarbe,100g,281,1 part (150 g),part,150.0,g,1.0,421.5,2.81
+656,Tarte Tatin,100g,210,1 part (100 g),part,100.0,g,1.0,210.0,2.1
+657,Tiramisu,100g,283,1 portion (174 g),portion,174.0,g,1.0,492.42,2.83
+658,Gâteau tiramisu,100g,291,1 part (108 g),part,108.0,g,1.0,314.28,2.91
+659,Trifle,100g,180,1 portion (100 g),portion,100.0,g,1.0,180.0,1.8
+660,Gaufres,100g,312,1 gaufre (33 g),gaufre,33.0,g,1.0,102.96,3.12
+661,Gâteau de mariage,100g,381,1 part (109 g),part,109.0,g,1.0,415.29,3.81
+662,Gâteau roulé,100g,439,1 part (31 g),part,31.0,g,1.0,136.09,4.39
+663,Banoffee Pie,100g,395,1 part (100 g),part,100.0,g,1.0,395.0,3.95
+664,Tarte aux cerises,100g,260,1 part (125 g),part,125.0,g,1.0,325.0,2.6
+665,Beignet,100g,412,1 beignet (41 g),beignet,41.0,g,1.0,168.92,4.12
+666,Kouglof,100g,412,1 part (60 g),part,60.0,g,1.0,247.2,4.12
+667,Gâteau au fromage blanc,100g,292,1 part (130 g),part,130.0,g,1.0,379.6,2.92
+668,Tarte aux pommes,100g,193,1 part (150 g),part,150.0,g,1.0,289.5,1.93
+669,Tarte aux mirabelles,100g,248,1 part (150 g),part,150.0,g,1.0,372.0,2.48
+670,Crumble aux fruits rouges,100g,373,1 part (80 g),part,80.0,g,1.0,298.4,3.73
+671,Crumble aux pommes,100g,242,1 part (125 g),part,125.0,g,1.0,302.5,2.42
+672,Tarte au chocolat,100g,384,1 part (65 g),part,65.0,g,1.0,249.6,3.84
+673,Paris-Brest,100g,341,1 part (120 g),part,120.0,g,1.0,409.2,3.41
+674,Moka,100g,323,1 portion (179 g),portion,179.0,g,1.0,578.17,3.23
+675,Framboisier,100g,262,1 part (137 g),part,137.0,g,1.0,358.94,2.62
+676,Fraisier,100g,235,1 part (110 g),part,110.0,g,1.0,258.5,2.35
+677,Eclair,100g,262,1 eclair (66 g),eclair,66.0,g,1.0,172.92,2.62
+678,Religieuse,100g,230,1 part (100 g),part,100.0,g,1.0,230.0,2.3
+679,Bûche de Noël,100g,320,1 part (80 g),part,80.0,g,1.0,256.0,3.2
+680,Baba au rhum,100g,297,1 portion (110 g),portion,110.0,g,1.0,326.7,2.97
+681,Opéra,100g,320,1 part (84 g),part,84.0,g,1.0,268.8,3.2
+682,Glace aux pépites de chocolat,100g,215,1 boule (72 g),boule,72.0,g,1.0,154.8,2.15
+683,Glace au chocolat,100g,216,1 boule (72 g),boule,72.0,g,1.0,155.52,2.16
+684,Glace au café,100g,236,1 boule (72 g),boule,72.0,g,1.0,169.92,2.36
+685,Lait glacé,100g,159,1 boule (103 g),boule,103.0,g,1.0,163.77,1.59
+686,Magnum,100g,300,1 magnum (86 g),magnum,86.0,g,1.0,258.0,3.0
+687,Magnum amande,100g,315,1 magnum (86 g),magnum,86.0,g,1.0,270.9,3.15
+688,Magnum double caramel,100g,355,1 magnum (86 g),magnum,86.0,g,1.0,305.3,3.55
+689,Magnum double chocolat,100g,380,1 magnum (86 g),magnum,86.0,g,1.0,326.8,3.8
+690,Magnum Gold,100g,341,1 magnum (85 g),magnum,85.0,g,1.0,289.85,3.41
+691,Magnum blanc,100g,297,1 magnum (86 g),magnum,86.0,g,1.0,255.42,2.97
+692,McFlurry,100g,153,1 mcflurry (134 g),mcflurry,134.0,g,1.0,205.02,1.53
+693,McFlurry Oreo,100g,186,1 mcflurry (183 g),mcflurry,183.0,g,1.0,340.38,1.86
+694,McFlurry Smarties,100g,198,1 mcflurry (202 g),mcflurry,202.0,g,1.0,399.96,1.98
+695,Barres glacées Snickers,100g,360,1 barre (50 g),barre,50.0,g,1.0,180.0,3.6
+696,Glace italienne,100g,222,1 tasse (86 g),tasse,86.0,g,1.0,190.92,2.22
+697,Solero,100g,100,1 solero (75 g),solero,75.0,g,1.0,75.0,1.0
+698,Glace à la fraise,100g,236,1 boule (72 g),boule,72.0,g,1.0,169.92,2.36
+699,Sundae à la fraise,100g,158,1 sundae (178 g),sundae,178.0,g,1.0,281.24,1.58
+700,Sundae,100g,215,1 boule (72 g),boule,72.0,g,1.0,154.8,2.15
+701,Cornet à la vanille,100g,162,1 cornet (142 g),cornet,142.0,g,1.0,230.04,1.62
+702,Glace à la vanille,100g,201,1 boule (72 g),boule,72.0,g,1.0,144.72,2.01
+703,Sandwich à la crème glacée,100g,237,1 barre (112 g),barre,112.0,g,1.0,265.44,2.37
+704,Glace à la vanille avec morceaux de cookies,100g,200,1/2 tasse (65 g),tasse,65.0,g,0.5,130.0,2.0
+705,Glace à la menthe et aux éclats de chocolat noir,100g,239,1 boule (72 g),boule,72.0,g,1.0,172.08,2.39
+706,McFlurry M&M’s,100g,191,1 portion (340 g),portion,340.0,g,1.0,649.4,1.91
+707,McFlurry Daim,100g,242,1 portion (206 g),portion,206.0,g,1.0,498.52,2.42
+708,Sundae au caramel,100g,196,1 portion (150 g),portion,150.0,g,1.0,294.0,1.96
+709,Glace à la pistache,100g,204,1 boule (72 g),boule,72.0,g,1.0,146.88,2.04
+710,Cône glacé à la vanille,100g,186,1 cornet (150 g),cornet,150.0,g,1.0,279.0,1.86
+711,Cône glacé au chocolat,100g,222,1 cornet (150 g),cornet,150.0,g,1.0,333.0,2.22
+712,Cône glacé à la pistache,100g,203,1 cornet (150 g),cornet,150.0,g,1.0,304.5,2.03
+713,Esquimau à la vanille,100g,188,1 boule (72 g),boule,72.0,g,1.0,135.36,1.88
+714,Sorbet au citron,100g,65,1 boule (72 g),boule,72.0,g,1.0,46.8,0.65
+715,Mars barre glacée,100g,272,1 barre (51 g),barre,51.0,g,1.0,138.72,2.72
+716,Bounty barre glacée,100g,279,1 barre (25 g),barre,25.0,g,1.0,69.75,2.79
+717,Dame blanche,100g,110,1 portion (150 g),portion,150.0,g,1.0,165.0,1.1
+718,Banana split,100g,214,1 portion (200 g),portion,200.0,g,1.0,428.0,2.14
+719,Poire belle Hélène,100g,196,1 portion (200 g),portion,200.0,g,1.0,392.0,1.96
+720,Pêche Melba,100g,108,1 boule (72 g),boule,72.0,g,1.0,77.76,1.08
+721,Colonel,100g,363,1 portion (55 g),portion,55.0,g,1.0,199.65,3.63
+722,Chocolat liégeois,100g,155,1 portion (120 g),portion,120.0,g,1.0,186.0,1.55
+723,Huile d’amande,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+724,Huile d’avocat,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+725,Beurre,100ml,720,1 cuillère à soupe (15 ml),cuillère à soupe,15.0,ml,1.0,108.0,7.2
+726,Huile de colza,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+727,Huile de coco,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+728,Huile de foie de morue,100ml,1000,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,140.0,10.0
+729,Huile de maïs,100ml,800,1 cuillère à soupe (15 ml),cuillère à soupe,15.0,ml,1.0,120.0,8.0
+730,Huile de coton,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+731,Huile de lin,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+732,Beurre clarifié,100ml,120,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,16.8,1.2
+733,Huile de pépins de raisin,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+734,Huile de hareng,100ml,902,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,126.28,9.02
+735,Saindoux,100ml,902,1 cuillère à soupe (13 ml),cuillère à soupe,13.0,ml,1.0,117.26,9.02
+736,Huile de macadamia,100ml,819,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,114.66,8.19
+737,Margarine,100ml,717,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,100.38,7.17
+738,Huile de moutarde,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+739,Huile d’olive,100ml,884,1 cuillère à soupe (15 ml),cuillère à soupe,15.0,ml,1.0,132.6,8.84
+740,Huile de palme,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+741,Huile d’arachide,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+742,Huile de carthame,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+743,Huile de sardine,100ml,902,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,126.28,9.02
+744,Huile de sésame,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+745,Huile de soja,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+746,Huile de tournesol,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+747,Huile de noix,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+748,Huile de tournesol,100ml,870,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,121.8,8.7
+749,Huile d’amande,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+750,Huile de noyau d’abricot,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+751,Huile d’argan,100ml,896,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,125.44,8.96
+752,Huile d’avocat,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+753,Huile de babassu,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+754,Huile de canola,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+755,Huile de coco,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+756,Huile de maïs,100ml,800,1 cuillère à soupe (15 ml),cuillère à soupe,15.0,ml,1.0,120.0,8.0
+757,Huile de coton,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+758,Huile de pépins de raisin,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+759,Huile de noisette,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+760,Huile de lin,100ml,837,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,117.18,8.37
+761,Huile de menhaden,100ml,911,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,127.54,9.11
+762,Huile de moutarde,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+763,Huile d’avoine,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+764,Huile d’olive,100ml,800,1 cuillère à soupe (15 ml),cuillère à soupe,15.0,ml,1.0,120.0,8.0
+765,Huile de palme,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+766,Huile d’arachide,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+767,Huile de pavot,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+768,Huile de pépins de courge,100ml,880,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.2,8.8
+769,Huile de riz,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+770,Huile de carthame,100ml,857,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,119.98,8.57
+771,Huile de saumon,100ml,911,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,127.54,9.11
+772,Huile de sésame,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+773,Huile de karité,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+774,Huile de soja,100ml,882,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.48,8.82
+775,Huile de tournesol,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+776,Huile de graines de tomate,100ml,884,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,123.76,8.84
+777,Huile végétale,100ml,800,1 cuillère à soupe (15 ml),cuillère à soupe,15.0,ml,1.0,120.0,8.0
+778,Huile de noix,100ml,889,1 cuillère à soupe (14 ml),cuillère à soupe,14.0,ml,1.0,124.46,8.89
+779,Agar-agar,100g,26,1 cuillère à soupe (5 g),cuillère à soupe,5.0,g,1.0,1.3,0.26
+780,Sirop d’agave,100g,310,1/4 tasse (55 g),tasse,55.0,g,0.25,170.5,3.1
+781,Extrait d’amande,100g,258,1 cuillère à soupe (8 g),cuillère à soupe,8.0,g,1.0,20.64,2.58
+782,Amandes,100g,529,1 tasse (92 g),tasse,92.0,g,1.0,486.68,5.29
+783,Levure chimique,100g,53,1 cuillère à café (4.6 g),cuillère à café,4.6,g,1.0,2.4379999999999997,0.53
+784,Babeurre,100g,62,1 tasse (245 g),tasse,245.0,g,1.0,151.9,0.62
+785,Sucre de canne,100g,387,1 cuillère à soupe (5 g),cuillère à soupe,5.0,g,1.0,19.35,3.87
+786,Pépites de chocolat,100g,467,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,70.05,4.67
+787,Vermicelles au chocolat,100g,500,1 cuillère à soupe (5 g),cuillère à soupe,5.0,g,1.0,25.0,5.0
+788,Cacao en poudre,100g,228,1 cuillère à soupe (5.4 g),cuillère à soupe,5.4,g,1.0,12.312000000000001,2.28
+789,Lait de coco,100g,50,1 tasse (240 g),tasse,240.0,g,1.0,120.0,0.5
+790,Sirop de maïs,100g,281,1 cuillère à soupe (19 g),cuillère à soupe,19.0,g,1.0,53.39,2.81
+791,Maïzena,100g,381,1 tasse (128 g),tasse,128.0,g,1.0,487.68,3.81
+792,Chocolat de couverture,100g,600,1 paquet (200 g),paquet,200.0,g,1.0,1200.0,6.0
+793,Fromage à la crème,100g,54,1 portion (20 g),portion,20.0,g,1.0,10.8,0.54
+794,Gingembre confit,100g,335,1 cuillère à soupe (5.2 g),cuillère à soupe,5.2,g,1.0,17.42,3.35
+795,Rhum brun,100g,216,1 portion (40 g),portion,40.0,g,1.0,86.4,2.16
+796,Abricots secs,100g,241,"1 tasse, moitiés (130 g)","tasse, moitiés",130.0,g,1.0,313.3,2.41
+797,Canneberges séchées,100g,308,1/3 tasse (40 g),tasse,40.0,g,0.3333333333333333,123.2,3.08
+798,Figues sèches,100g,249,1 figue (8.4 g),figue,8.4,g,1.0,20.916,2.49
+799,Pruneaux,100g,107,"1 tasse, dénoyauté (248 g)","tasse, dénoyauté",248.0,g,1.0,265.36,1.07
+800,Oeuf,100g,161,1 oeuf (60 g),oeuf,60.0,g,1.0,96.6,1.61
+801,Lait de poule,100g,88,1 tasse (254 g),tasse,254.0,g,1.0,223.52,0.88
+802,Blanc d’oeuf,100g,13,1 blanc d’oeuf (25 g),blanc d’oeuf,25.0,g,1.0,3.25,0.13
+803,Jaune d’oeuf,100g,322,1 jaune d’oeuf (16 g),jaune d’oeuf,16.0,g,1.0,51.52,3.22
+804,Lait concentré non sucré,100g,134,1 tasse (252 g),tasse,252.0,g,1.0,337.68,1.34
+805,Farine,100g,364,1 tasse (120 g),tasse,120.0,g,1.0,436.8,3.64
+806,Fructose,100g,368,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,14.72,3.68
+807,Gélatine,100g,335,1 cuillère à soupe (7 g),cuillère à soupe,7.0,g,1.0,23.45,3.35
+808,Glucose,100g,286,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,57.2,2.86
+809,Sirop de glucose,100g,387,1/4 tasse (55 g),tasse,55.0,g,0.25,212.85,3.87
+810,Sucre cristallisé,100g,387,1 paquet (2.8 g),paquet,2.8,g,1.0,10.835999999999999,3.87
+811,Noisettes,100g,628,"1 tasse, haché (75 g)","tasse, haché",75.0,g,1.0,471.0,6.28
+812,Sucre brun,100g,395,1 tasse (220 g),tasse,220.0,g,1.0,869.0,3.95
+813,Rhum,100g,246,1 portion (40 g),portion,40.0,g,1.0,98.4,2.46
+814,Poudre de malt,100g,361,1 tasse (162 g),tasse,162.0,g,1.0,584.82,3.61
+815,Lait malté,100g,405,1 cuillère à soupe (7 g),cuillère à soupe,7.0,g,1.0,28.35,4.05
+816,Maltitol,100g,210,1 cuillère à café (4.5 g),cuillère à café,4.5,g,1.0,9.45,2.1
+817,Maltodextrine,100g,375,1 cuillère à café (3.2 g),cuillère à café,3.2,g,1.0,12.0,3.75
+818,Maltose,100g,344,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,44.72,3.44
+819,Sirop d’érable,100g,270,1/4 tasse (55 g),tasse,55.0,g,0.25,148.5,2.7
+820,Mélasse,100g,290,1 tasse (337 g),tasse,337.0,g,1.0,977.3,2.9
+821,Nonpareilles,100g,475,1 cuillère à soupe (5 g),cuillère à soupe,5.0,g,1.0,23.75,4.75
+822,Extrait de menthe poivrée,100g,0,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,0.0,0.0
+823,Graines de pavot,100g,525,1 cuillère à soupe (8.8 g),cuillère à soupe,8.8,g,1.0,46.2,5.25
+824,Lait en poudre,100g,496,1 tasse (68 g),tasse,68.0,g,1.0,337.28,4.96
+825,Sucre glace,100g,389,"1 tasse, non tamisée (120 g)","tasse, non tamisée",120.0,g,1.0,466.8,3.89
+826,Raisins secs,100g,474,1 tasse (165 g),tasse,165.0,g,1.0,782.1,4.74
+827,Lait de riz,100g,49,1 tasse (245 g),tasse,245.0,g,1.0,120.05,0.49
+828,Sucre candi,100g,625,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,25.0,6.25
+829,Flocons d’avoine,100g,384,1 tasse (156 g),tasse,156.0,g,1.0,599.04,3.84
+830,Semoule,100g,350,1 tasse (120 g),tasse,120.0,g,1.0,420.0,3.5
+831,Graines de sésame,100g,573,1 tasse (144 g),tasse,144.0,g,1.0,825.12,5.73
+832,Noix de coco râpée,100g,501,1 tasse (93 g),tasse,93.0,g,1.0,465.93,5.01
+833,Sorbitol,100g,375,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,15.0,3.75
+834,Lait de soja,100g,41,1 tasse (243 g),tasse,243.0,g,1.0,99.63,0.41
+835,Amidon,100g,381,1 tasse (128 g),tasse,128.0,g,1.0,487.68,3.81
+836,Confiture de fraises,100g,278,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,55.6,2.78
+837,Saccharose,100g,387,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,15.48,3.87
+838,Sucre,100g,409,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,20.45,4.09
+839,Graines de tournesol,100g,584,1 portion (20 g),portion,20.0,g,1.0,116.8,5.84
+840,Lait concentré sucré,100g,321,1 tasse (306 g),tasse,306.0,g,1.0,982.26,3.21
+841,Édulcorant,100g,360,1 paquet (1 g),paquet,1.0,g,1.0,3.6,3.6
+842,Beurre doux,100g,717,1 tasse (227 g),tasse,227.0,g,1.0,1627.59,7.17
+843,Extrait de vanille,100g,288,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,37.44,2.88
+844,Sucre vanillé,100g,357,1 cuillère à café (2.4 g),cuillère à café,2.4,g,1.0,8.568,3.57
+845,Huile végétale,100g,884,1 cuillère à soupe (13.6 g),cuillère à soupe,13.6,g,1.0,120.22399999999999,8.84
+846,Graisse végétale,100g,884,1 cuillère à soupe (12.8 g),cuillère à soupe,12.8,g,1.0,113.152,8.84
+847,Noix,100g,654,1 tasse (80 g),tasse,80.0,g,1.0,523.2,6.54
+848,Lait entier,100g,61,1 tasse (244 g),tasse,244.0,g,1.0,148.84,0.61
+849,Xylitol,100g,240,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,9.6,2.4
+850,Levure sèche,100g,325,1 cuillère à café (4 g),cuillère à café,4.0,g,1.0,13.0,3.25
+851,Nougatine,100g,592,1 tasse (75 g),tasse,75.0,g,1.0,444.0,5.92
+852,Ecorces d’orange confites,100g,97,1 cuillère à soupe (6 g),cuillère à soupe,6.0,g,1.0,5.82,0.97
+853,Farine de maïs,100g,361,1 tasse (117 g),tasse,117.0,g,1.0,422.37,3.61
+854,Œuf de canard,100g,185,1 oeuf (70 g),oeuf,70.0,g,1.0,129.5,1.85
+855,Cannelle en poudre,100g,247,1 cuillère à café (2.6 g),cuillère à café,2.6,g,1.0,6.422000000000001,2.47
+856,Crème épaisse,100g,345,"1 tasse, whipped (120 g)","tasse, whipped",120.0,g,1.0,414.0,3.45
+857,Poudre de protéine,100g,411,1 cuillère à soupe (11 g),cuillère à soupe,11.0,g,1.0,45.21,4.11
+858,Perles de sucre,100g,500,1 cuillère à café (2 g),cuillère à café,2.0,g,1.0,10.0,5.0
+859,Farine de blé complet,100g,340,1 tasse (120 g),tasse,120.0,g,1.0,408.0,3.4
+860,Copeaux de noix de coco,100g,456,1 tasse (85 g),tasse,85.0,g,1.0,387.6,4.56
+861,Jus d’orange,100ml,46,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,460.0,0.46
+862,Lait de coco,100ml,233,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,2330.0,2.33
+863,Eau de coco,100ml,19,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,190.0,0.19
+864,Jus de pomme,100ml,46,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,460.0,0.46
+865,Jus de carotte,100ml,40,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,400.0,0.4
+866,Jus de citron,100ml,21,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,210.0,0.21
+867,Limonade,100ml,50,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,500.0,0.5
+868,Lassi à la mangue,100ml,66,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,660.0,0.66
+869,Jus de canneberge,100ml,46,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,460.0,0.46
+870,Jus d’ananas,100ml,53,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,530.0,0.53
+871,Capri-Sun,100ml,41,1 capri-sun (200 ml),capri-sun,200.0,ml,1.0,82.0,0.41
+872,Jus de pamplemousse,100ml,46,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,460.0,0.46
+873,Jus de tomate,100ml,17,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,170.0,0.17
+874,Jus de lime,100ml,21,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,210.0,0.21
+875,Jus de raisin,100ml,60,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,600.0,0.6
+876,Jus de légumes,100ml,21,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,210.0,0.21
+877,Jus de concombre,100ml,10,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,100.0,0.1
+878,Jus d’açai,100ml,58,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,580.0,0.58
+879,Jus de grenade,100ml,66,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,660.0,0.66
+880,Infusion de camomille,100ml,0,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,0.0,0.0
+881,Boisson énergisante,100ml,87,1 canette (250 ml),canette,250.0,ml,1.0,217.5,0.87
+882,Aloe vera,100ml,44,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,440.0,0.44
+883,Clamato,100ml,60,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,600.0,0.6
+884,Jus de cerise,100ml,45,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,450.0,0.45
+885,Jus de poire,100ml,60,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,600.0,0.6
+886,Jus de raisin,100ml,71,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,710.0,0.71
+887,Jus de raisin blanc,100ml,75,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,750.0,0.75
+888,Nestea,100ml,21,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,210.0,0.21
+889,Jus de fruit de la passion,100ml,48,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,480.0,0.48
+890,Jus de papaye,100ml,58,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,580.0,0.58
+891,Jus de banane,100ml,50,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,500.0,0.5
+892,Jus de pêche,100ml,54,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,540.0,0.54
+893,Nectar de pêche,100ml,54,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,540.0,0.54
+894,Jus de prune,100ml,71,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,710.0,0.71
+895,Nectar d’abricot,100ml,56,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,560.0,0.56
+896,Jus de mûre,100ml,48,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,480.0,0.48
+897,Nectar de poire,100ml,60,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,600.0,0.6
+898,Jus de choucroute,100ml,14,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,140.0,0.14
+899,Jus de mandarine,100ml,43,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,430.0,0.43
+900,Jus de groseille,100ml,48,1 bouteille (1000 ml),bouteille,1000.0,ml,1.0,480.0,0.48
+901,Lait,100g,61,1 tasse (244 g),tasse,244.0,g,1.0,148.84,0.61
+902,Lait d’amande,100g,17,1 tasse (235 g),tasse,235.0,g,1.0,39.95,0.17
+903,Cottage Cheese,100g,98,1 tasse (210 g),tasse,210.0,g,1.0,205.8,0.98
+904,Lait écrémé,100g,35,1 tasse (247 g),tasse,247.0,g,1.0,86.45,0.35
+905,Lait de coco,100g,230,1 tasse (240 g),tasse,240.0,g,1.0,552.0,2.3
+906,Lait entier,100g,61,1 tasse (244 g),tasse,244.0,g,1.0,148.84,0.61
+907,Yaourt,100g,61,1 pot (227 g),pot,227.0,g,1.0,138.47,0.61
+908,Chocolat chaud,100g,89,1 tasse (266 g),tasse,266.0,g,1.0,236.74,0.89
+909,Lait de soja,100g,45,1 tasse (243 g),tasse,243.0,g,1.0,109.35,0.45
+910,Crème aigre,100g,181,1 cuillère à soupe (12 g),cuillère à soupe,12.0,g,1.0,21.72,1.81
+911,Lait demi-écrémé,100g,50,1 portion (250 g),portion,250.0,g,1.0,125.0,0.5
+912,Tzatziki,100g,117,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,17.55,1.17
+913,Crème fouettée,100g,257,1 cuillère à soupe (3 g),cuillère à soupe,3.0,g,1.0,7.71,2.57
+914,Riz au lait,100g,118,1 portion (113 g),portion,113.0,g,1.0,133.34,1.18
+915,Lait concentré non sucré,100g,134,1 tasse (252 g),tasse,252.0,g,1.0,337.68,1.34
+916,Crème à café,100g,195,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,29.25,1.95
+917,Crème,100g,242,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,36.3,2.42
+918,Babeurre,100g,62,1 tasse (254 g),tasse,254.0,g,1.0,157.48,0.62
+919,Crème fraîche,100g,393,1 cuillère à soupe (14 g),cuillère à soupe,14.0,g,1.0,55.02,3.93
+920,Crème pâtissière,100g,122,1/2 tasse (141 g),tasse,141.0,g,0.5,172.02,1.22
+921,Kéfir,100g,55,1 tasse (246 g),tasse,246.0,g,1.0,135.3,0.55
+922,Mousse au chocolat,100g,225,1/2 tasse (202 g),tasse,202.0,g,0.5,454.5,2.25
+923,Lait concentré sucré,100g,321,1 tasse (306 g),tasse,306.0,g,1.0,982.26,3.21
+924,Lait de riz,100g,49,1 tasse (245 g),tasse,245.0,g,1.0,120.05,0.49
+925,Lait de chèvre,100g,69,1 tasse (244 g),tasse,244.0,g,1.0,168.36,0.69
+926,Lait en poudre,100g,496,1 tasse (68 g),tasse,68.0,g,1.0,337.28,4.96
+927,Lassi,100g,75,1 verre (200 g),verre,200.0,g,1.0,150.0,0.75
+928,Lait sans lactose,100g,52,1 tasse (250 g),tasse,250.0,g,1.0,130.0,0.52
+929,Fromage blanc,100g,98,1 tasse (210 g),tasse,210.0,g,1.0,205.8,0.98
+930,Semoule au lait,100g,67,1 portion (143 g),portion,143.0,g,1.0,95.81,0.67
+931,Crème anglaise,100g,135,1 portion (125 g),portion,125.0,g,1.0,168.75,1.35
+932,Crème liquide,100g,163,1 tasse (244 g),tasse,244.0,g,1.0,397.72,1.63
+933,Crème allégée,100g,102,1 cuillère à soupe (10 g),cuillère à soupe,10.0,g,1.0,10.2,1.02
+934,Artichaut,100g,47,1 artichaut (128 g),artichaut,128.0,g,1.0,60.16,0.47
+935,Roquette,100g,25,1 feuille (2 g),feuille,2.0,g,1.0,0.5,0.25
+936,Asperge,100g,20,1 pièce (12 g),pièce,12.0,g,1.0,2.4,0.2
+937,Betterave,100g,43,1 betterave (82 g),betterave,82.0,g,1.0,35.26,0.43
+938,Olives noires,100g,115,1 olive (2.7 g),olive,2.7,g,1.0,3.105,1.15
+939,Brocoli,100g,34,1 brocoli (608 g),brocoli,608.0,g,1.0,206.72,0.34
+940,Choux de Bruxelles,100g,43,1 pièce (19 g),pièce,19.0,g,1.0,8.17,0.43
+941,Chou,100g,25,1 tête (908 g),tête,908.0,g,1.0,227.0,0.25
+942,Piment,100g,27,1 poivron (45 g),poivron,45.0,g,1.0,12.15,0.27
+943,Carotte,100g,41,1 carrote (61 g),carrote,61.0,g,1.0,25.01,0.41
+944,Chou fleur,100g,25,1 chou fleur (13 g),chou fleur,13.0,g,1.0,3.25,0.25
+945,Céleri branche,100g,16,1 branche (50 g),branche,50.0,g,1.0,8.0,0.16
+946,Bette,100g,19,1 feuille (48 g),feuille,48.0,g,1.0,9.12,0.19
+947,Tomate cerise,100g,100,1 tomate cerise (20 g),tomate cerise,20.0,g,1.0,20.0,1.0
+948,Chicorée,100g,72,1 tête (53 g),tête,53.0,g,1.0,38.16,0.72
+949,Chou chinois,100g,16,1 tête (840 g),tête,840.0,g,1.0,134.4,0.16
+950,Ciboulette,100g,30,"1 cuillère à soupe, hachée (3 g)","cuillère à soupe, hachée",3.0,g,1.0,0.9,0.3
+951,Maïs,100g,365,1 tasse (154 g),tasse,154.0,g,1.0,562.1,3.65
+952,Épinards à la crème,100g,74,1 tasse (200 g),tasse,200.0,g,1.0,148.0,0.74
+953,Concombre,100g,16,1 concombre (410 g),concombre,410.0,g,1.0,65.6,0.16
+954,Aubergine,100g,25,1 aubergine (458 g),aubergine,458.0,g,1.0,114.5,0.25
+955,Endive,100g,17,1 endive (513 g),endive,513.0,g,1.0,87.21,0.17
+956,Fenouil,100g,31,1 fenouil (234 g),fenouil,234.0,g,1.0,72.54,0.31
+957,Ail,100g,149,1 gousse (3 g),gousse,3.0,g,1.0,4.47,1.49
+958,Cornichon,100g,14,1 cornichon (65 g),cornichon,65.0,g,1.0,9.1,0.14
+959,Courge,100g,14,1 courge (771 g),courge,771.0,g,1.0,107.94,0.14
+960,Haricots verts,100g,31,1 tasse (110 g),tasse,110.0,g,1.0,34.1,0.31
+961,Olives vertes,100g,115,1 olive (2.7 g),olive,2.7,g,1.0,3.105,1.15
+962,Oignon vert,100g,32,1 oignon vert (15 g),oignon vert,15.0,g,1.0,4.8,0.32
+963,Raifort,100g,48,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,7.2,0.48
+964,Chou frisé,100g,49,"1 tasse, hachée (67 g)","tasse, hachée",67.0,g,1.0,32.83,0.49
+965,Chou rave,100g,27,1 chou rave (400 g),chou rave,400.0,g,1.0,108.0,0.27
+966,Poireau,100g,61,1 poireau (89 g),poireau,89.0,g,1.0,54.29,0.61
+967,Laitue,100g,15,1 tête (600 g),tête,600.0,g,1.0,90.0,0.15
+968,Champignons,100g,22,1 champignon (5.4 g),champignon,5.4,g,1.0,1.1880000000000002,0.22
+969,Moutarde brune,100g,27,"1 tasse, hachée (56 g)","tasse, hachée",56.0,g,1.0,15.12,0.27
+970,Nori,100g,35,1 feuille (2.6 g),feuille,2.6,g,1.0,0.91,0.35
+971,Gombo,100g,33,1 pièce (12 g),pièce,12.0,g,1.0,3.96,0.33
+972,Olives,100g,115,1 olive (2.7 g),olive,2.7,g,1.0,3.105,1.15
+973,Oignon,100g,40,1 oignon (85 g),oignon,85.0,g,1.0,34.0,0.4
+974,Panais,100g,75,1 panais (170 g),panais,170.0,g,1.0,127.5,0.75
+975,Pois,100g,81,1 tasse (98 g),tasse,98.0,g,1.0,79.38,0.81
+976,Poivron,100g,27,1 poivron (75 g),poivron,75.0,g,1.0,20.25,0.27
+977,Pomme de terre,100g,77,1 pomme de terre (213 g),pomme de terre,213.0,g,1.0,164.01,0.77
+978,Citrouille,100g,26,1 citrouille (196 g),citrouille,196.0,g,1.0,50.96,0.26
+979,Radis,100g,16,1 radis (4.5 g),radis,4.5,g,1.0,0.72,0.16
+980,Chou rouge,100g,31,1 feuille (22 g),feuille,22.0,g,1.0,6.82,0.31
+981,Rutabaga,100g,38,1 rutabaga (386 g),rutabaga,386.0,g,1.0,146.68,0.38
+982,Échalotes,100g,72,1 échalote (25 g),échalote,25.0,g,1.0,18.0,0.72
+983,Épinards,100g,23,1 portion (340 g),portion,340.0,g,1.0,78.2,0.23
+984,Patate douce,100g,86,1 patate douce (130 g),patate douce,130.0,g,1.0,111.8,0.86
+985,Tomate,100g,18,1 tomate (111 g),tomate,111.0,g,1.0,19.98,0.18
+986,Wasabi,100g,109,1 racine (169 g),racine,169.0,g,1.0,184.21,1.09
+987,Courgette,100g,17,1 zucchini (196 g),zucchini,196.0,g,1.0,33.32,0.17
+988,Chou cavalier,100g,32,"1 tasse, cru (36 g)","tasse, cru",36.0,g,1.0,11.52,0.32
+990,Pousses de bambou,100g,27,1 tasse (151 g),tasse,151.0,g,1.0,40.77,0.27
+991,Pousses de soja,100g,30,1 tasse (104 g),tasse,104.0,g,1.0,31.2,0.3
+992,Haricots noirs,100g,341,1 cuillère à soupe (12.1 g),cuillère à soupe,12.1,g,1.0,41.260999999999996,3.41
+993,Pois chiches noirs,100g,364,1 tasse (200 g),tasse,200.0,g,1.0,728.0,3.64
+994,Lentilles brunes,100g,353,1 tasse (192 g),tasse,192.0,g,1.0,677.76,3.53
+995,Courge musquée,100g,612,1 tasse (120 g),tasse,120.0,g,1.0,734.4,6.12
+996,Pois chiches,100g,364,1 cuillère à soupe (12.5 g),cuillère à soupe,12.5,g,1.0,45.5,3.64
+997,Dal,100g,230,1 portion (100 g),portion,100.0,g,1.0,230.0,2.3
+998,Tofu extra ferme,100g,91,1/5 bloc (91 g),bloc,91.0,g,0.2,82.81,0.91
+999,Tofu ferme,100g,70,1/4 bloc (81 g),bloc,81.0,g,0.25,56.7,0.7
+1000,Flageolets,100g,85,1 portion (100 g),portion,100.0,g,1.0,85.0,0.85
+1001,Haricots verts,100g,31,1 tasse (100 g),tasse,100.0,g,1.0,31.0,0.31
+1002,Lentilles vertes,100g,257,"1 tasse, sèches (60 g)","tasse, sèches",60.0,g,1.0,154.2,2.57
+1003,Lentilles,100g,353,1 tasse (192 g),tasse,192.0,g,1.0,677.76,3.53
+1004,Marron,100g,210,1 portion (100 g),portion,100.0,g,1.0,210.0,2.1
+1005,Miso,100g,199,1 tasse (275 g),tasse,275.0,g,1.0,547.25,1.99
+1006,Gombo,100g,33,1 tasse (100 g),tasse,100.0,g,1.0,33.0,0.33
+1007,Cacahuètes,100g,567,1 paquet (300 g),paquet,300.0,g,1.0,1701.0,5.67
+1008,Pois,100g,42,1 tasse (63 g),tasse,63.0,g,1.0,26.46,0.42
+1009,Noix de pécan,100g,691,1 tasse (99 g),tasse,99.0,g,1.0,684.09,6.91
+1010,Haricots rouges,100g,124,1 boite de conserve (266 g),boite de conserve,266.0,g,1.0,329.84,1.24
+1011,Lentilles rouges,100g,329,1 tasse (197 g),tasse,197.0,g,1.0,648.13,3.29
+1012,Tofu soyeux,100g,55,1 slice (84 g),slice,84.0,g,1.0,46.2,0.55
+1013,Fromage de soja,100g,235,1 slice (17 g),slice,17.0,g,1.0,39.95,2.35
+1014,Mayonnaise soja,100g,322,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,48.3,3.22
+1015,Noix de soja,100g,471,1 tasse (256 g),tasse,256.0,g,1.0,1205.76,4.71
+1016,Yaourt de soja,100g,66,1 yaourt (120 g),yaourt,120.0,g,1.0,79.2,0.66
+1017,Soja,100g,147,1 tasse (256 g),tasse,256.0,g,1.0,376.32,1.47
+1018,Pois mange-tout,100g,42,1 portion (100 g),portion,100.0,g,1.0,42.0,0.42
+1019,Tempeh,100g,193,1 tasse (166 g),tasse,166.0,g,1.0,320.38,1.93
+1020,Tofu,100g,76,1/2 tasse (124 g),tasse,124.0,g,0.5,94.24,0.76
+1021,Haricots blancs,100g,336,1 tasse (215 g),tasse,215.0,g,1.0,722.4,3.36
+1022,Lentilles jaunes,100g,304,1 tasse (200 g),tasse,200.0,g,1.0,608.0,3.04
+1023,Tofu frit,100g,271,1/4 bloc (81 g),bloc,81.0,g,0.25,219.51,2.71
+1024,Haricots secs,100g,337,1 tasse (184 g),tasse,184.0,g,1.0,620.08,3.37
+1025,Haricots mungo,100g,12,1 tasse (125 g),tasse,125.0,g,1.0,15.0,0.12
+1026,Haricots pinto,100g,347,1 tasse (193 g),tasse,193.0,g,1.0,669.71,3.47
+1027,Fèves sèches,100g,345,1 cuillère à soupe (12.1 g),cuillère à soupe,12.1,g,1.0,41.745,3.45
+1028,Cheerios,100g,347,1 portion (37.5 g),portion,37.5,g,1.0,130.125,3.47
+1029,Cinnamon Toast Crunch,100g,433,1 portion (37.5 g),portion,37.5,g,1.0,162.375,4.33
+1030,Rice Krispies au chocolat,100g,386,1 portion (37.5 g),portion,37.5,g,1.0,144.75,3.86
+1031,Coco Pops,100g,400,1 portion (37.5 g),portion,37.5,g,1.0,150.0,4.0
+1032,Cookie Crisp,100g,400,1 portion (37.5 g),portion,37.5,g,1.0,150.0,4.0
+1033,Corn flakes,100g,357,1 portion (37.5 g),portion,37.5,g,1.0,133.875,3.57
+1034,Corn pops,100g,377,1 portion (37.5 g),portion,37.5,g,1.0,141.375,3.77
+1035,Crème de blé,100g,364,1 portion (37.5 g),portion,37.5,g,1.0,136.5,3.64
+1036,Crunchy Nut,100g,600,1 portion (37.5 g),portion,37.5,g,1.0,225.0,6.0
+1037,Crunchy Nut Cornflakes,100g,600,1 portion (37.5 g),portion,37.5,g,1.0,225.0,6.0
+1038,Froot Loops,100g,379,1 portion (37.5 g),portion,37.5,g,1.0,142.125,3.79
+1039,Frosted Mini-Wheats,100g,353,1 portion (37.5 g),portion,37.5,g,1.0,132.375,3.53
+1040,Frosties,100g,367,1 portion (37.5 g),portion,37.5,g,1.0,137.625,3.67
+1041,Smacks,100g,370,1 portion (37.5 g),portion,37.5,g,1.0,138.75,3.7
+1042,Corn Flakes de Kelloggs,100g,357,1 portion (37.5 g),portion,37.5,g,1.0,133.875,3.57
+1043,Kix,100g,367,1 portion (37.5 g),portion,37.5,g,1.0,137.625,3.67
+1044,Lucky Charms,100g,406,1 portion (37.5 g),portion,37.5,g,1.0,152.25,4.06
+1045,Mini-Wheats,100g,353,1 portion (37.5 g),portion,37.5,g,1.0,132.375,3.53
+1046,Muesli,100g,336,1 portion (37.5 g),portion,37.5,g,1.0,126.0,3.36
+1047,Multigrain Cheerios,100g,380,1 portion (37.5 g),portion,37.5,g,1.0,142.5,3.8
+1048,Flocons d’avoine,100g,375,1 tasse (175 g),tasse,175.0,g,1.0,656.25,3.75
+1049,Riz soufflé,100g,383,1 portion (37.5 g),portion,37.5,g,1.0,143.625,3.83
+1050,Blé soufflé,100g,367,1 portion (37.5 g),portion,37.5,g,1.0,137.625,3.67
+1051,Rice Krispies,100g,394,1 portion (37.5 g),portion,37.5,g,1.0,147.75,3.94
+1052,Shreddies,100g,351,1 portion (37.5 g),portion,37.5,g,1.0,131.625,3.51
+1053,Special K,100g,377,1 portion (37.5 g),portion,37.5,g,1.0,141.375,3.77
+1054,Special K Feuilles de chocolat noir,100g,388,1 portion (37.5 g),portion,37.5,g,1.0,145.5,3.88
+1055,Special K Protein Plus,100g,375,1 portion (37.5 g),portion,37.5,g,1.0,140.625,3.75
+1056,Special K aux fruits rouges,100g,345,1 portion (37.5 g),portion,37.5,g,1.0,129.375,3.45
+1057,Trix,100g,400,1 portion (37.5 g),portion,37.5,g,1.0,150.0,4.0
+1058,Weetabix,100g,358,1 portion (37.5 g),portion,37.5,g,1.0,134.25,3.58
+1059,Chocos,100g,380,1 portion (37.5 g),portion,37.5,g,1.0,142.5,3.8
+1060,Coco Pops,100g,376,1 portion (37.5 g),portion,37.5,g,1.0,141.0,3.76
+1061,Miel Pops,100g,381,1 portion (37.5 g),portion,37.5,g,1.0,142.875,3.81
+1062,Crunch,100g,413,1 portion (37.5 g),portion,37.5,g,1.0,154.875,4.13
+1063,Céréales Lion,100g,419,1 portion (37.5 g),portion,37.5,g,1.0,157.125,4.19
+1064,Golden Graham,100g,372,1 portion (37.5 g),portion,37.5,g,1.0,139.5,3.72
+1065,Céréales Nesquik,100g,380,1 portion (37.5 g),portion,37.5,g,1.0,142.5,3.8
+1066,Special K Feuilles de chocolat au lait,100g,398,1 portion (37.5 g),portion,37.5,g,1.0,149.25,3.98
+1067,Special K Noisettes et amandes effilées,100g,394,1 portion (37.5 g),portion,37.5,g,1.0,147.75,3.94
+1068,Special K aux trois céréales,100g,381,1 portion (37.5 g),portion,37.5,g,1.0,142.875,3.81
+1069,Trésor chocolat noisette,100g,448,1 portion (37.5 g),portion,37.5,g,1.0,168.0,4.48
+1070,Trésor chocolat au lait,100g,450,1 portion (37.5 g),portion,37.5,g,1.0,168.75,4.5
+1071,Country Crisp au chocolat de Jordans,100g,464,1 portion (37.5 g),portion,37.5,g,1.0,174.0,4.64
+1072,Country Crisp aux noix de Jordans,100g,492,1 portion (37.5 g),portion,37.5,g,1.0,184.5,4.92
+1073,Pastèque,100g,30,1 tranche (286 g),tranche,286.0,g,1.0,85.8,0.3
+1074,Amandes,100g,575,1 tasse (95 g),tasse,95.0,g,1.0,546.25,5.75
+1075,Pistaches,100g,562,1 tasse (123 g),tasse,123.0,g,1.0,691.26,5.62
+1076,Graines de tournesol,100g,584,1 tasse (140 g),tasse,140.0,g,1.0,817.6,5.84
+1077,Noix,100g,654,1 noix (20 g),noix,20.0,g,1.0,130.8,6.54
+1078,Graines de citrouille,100g,559,1 tasse (129 g),tasse,129.0,g,1.0,721.11,5.59
+1079,Cacahuètes,100g,567,1 tasse (146 g),tasse,146.0,g,1.0,827.82,5.67
+1080,Graines de chia,100g,486,1 paquet (340 g),paquet,340.0,g,1.0,1652.4,4.86
+1081,Noix de coco,100g,354,1 noix de coco (397 g),noix de coco,397.0,g,1.0,1405.38,3.54
+1082,Pois,100g,81,1 tasse (145 g),tasse,145.0,g,1.0,117.45,0.81
+1083,Graines de lin,100g,534,1 tasse (168 g),tasse,168.0,g,1.0,897.12,5.34
+1084,Cajou,100g,553,1 paquet (150 g),paquet,150.0,g,1.0,829.5,5.53
+1085,Noix de pécan,100g,691,1 tasse (99 g),tasse,99.0,g,1.0,684.09,6.91
+1086,Noix du Brésil,100g,656,1 tasse (133 g),tasse,133.0,g,1.0,872.48,6.56
+1087,Pignons,100g,673,1 tasse (135 g),tasse,135.0,g,1.0,908.55,6.73
+1088,Châtaignes,100g,213,1 tasse (145 g),tasse,145.0,g,1.0,308.85,2.13
+1089,Noix de macadamia,100g,718,1 tasse (134 g),tasse,134.0,g,1.0,962.12,7.18
+1090,Graines de sésame,100g,573,1 tasse (144 g),tasse,144.0,g,1.0,825.12,5.73
+1091,Noisettes,100g,628,1 tasse (75 g),tasse,75.0,g,1.0,471.0,6.28
+1092,Haricots de soja,100g,147,1 tasse (256 g),tasse,256.0,g,1.0,376.32,1.47
+1093,Germes de luzerne,100g,23,1 tasse (33 g),tasse,33.0,g,1.0,7.59,0.23
+1094,Doubeurre,100g,612,1 tasse (120 g),tasse,120.0,g,1.0,734.4,6.12
+1095,Graines de pavot,100g,525,1 cuillère à soupe (8.8 g),cuillère à soupe,8.8,g,1.0,46.2,5.25
+1096,Glands,100g,387,1 tasse (75 g),tasse,75.0,g,1.0,290.25,3.87
+1097,Graines de lotus,100g,89,1 tasse (145 g),tasse,145.0,g,1.0,129.05,0.89
+1098,Faines,100g,576,1 tasse (129 g),tasse,129.0,g,1.0,743.04,5.76
+1099,Noix de carya,100g,657,1 tasse (120 g),tasse,120.0,g,1.0,788.4,6.57
+1100,Châtaignes,100g,194,1 tasse (145 g),tasse,145.0,g,1.0,281.3,1.94
+1101,Graines de coton,100g,506,1 tasse (149 g),tasse,149.0,g,1.0,753.94,5.06
+1102,Noix de ginkgo,100g,182,1 tasse (145 g),tasse,145.0,g,1.0,263.9,1.82
+1103,Haricots pinto,100g,347,1 tasse (193 g),tasse,193.0,g,1.0,669.71,3.47
+1104,Cannellonis,100g,146,1 portion (200 g),portion,200.0,g,1.0,292.0,1.46
+1105,Capellinis,100g,353,1 portion (200 g),portion,200.0,g,1.0,706.0,3.53
+1106,Cappellettis,100g,164,1 portion (200 g),portion,200.0,g,1.0,328.0,1.64
+1107,Tortellinis au fromage,100g,291,1 tasse (113 g),tasse,113.0,g,1.0,328.83,2.91
+1108,Dampfnudel,100g,274,1 dampfnudel (85 g),dampfnudel,85.0,g,1.0,232.9,2.74
+1109,Boulettes de pâte,100g,99,1 portion (200 g),portion,200.0,g,1.0,198.0,0.99
+1110,Semoule de blé dur,100g,397,1 portion (200 g),portion,200.0,g,1.0,794.0,3.97
+1111,Nouilles aux oeufs,100g,384,1 tasse (38 g),tasse,38.0,g,1.0,145.92,3.84
+1112,Farfalles,100g,358,1 portion (200 g),portion,200.0,g,1.0,716.0,3.58
+1113,Fettuccine,100g,353,1 portion (200 g),portion,200.0,g,1.0,706.0,3.53
+1114,Fusillis,100g,352,1 portion (200 g),portion,200.0,g,1.0,704.0,3.52
+1115,Dangmyeon,100g,192,1 portion (200 g),portion,200.0,g,1.0,384.0,1.92
+1116,Feuilles de lasagnes,100g,271,1 pièce (21 g),pièce,21.0,g,1.0,56.91,2.71
+1117,Linguine,100g,357,1 portion (200 g),portion,200.0,g,1.0,714.0,3.57
+1118,Mostaccioli,100g,184,1 portion (200 g),portion,200.0,g,1.0,368.0,1.84
+1119,Orecchiette,100g,370,1 portion (200 g),portion,200.0,g,1.0,740.0,3.7
+1120,Risoni,100g,357,1 portion (200 g),portion,200.0,g,1.0,714.0,3.57
+1121,Penne,100g,351,1 portion (200 g),portion,200.0,g,1.0,702.0,3.51
+1122,Penne Rigate,100g,370,1 portion (200 g),portion,200.0,g,1.0,740.0,3.7
+1123,Pierogi,100g,200,3 pierogi (100 g),pierogi,100.0,g,3.0,200.0,2.0
+1124,Raviolis,100g,77,1 portion (200 g),portion,200.0,g,1.0,154.0,0.77
+1125,Rigatonis,100g,353,1 portion (200 g),portion,200.0,g,1.0,706.0,3.53
+1126,Conchiglie,100g,353,1 tasse (85 g),tasse,85.0,g,1.0,300.05,3.53
+1127,Spaetzle,100g,368,1 portion (200 g),portion,200.0,g,1.0,736.0,3.68
+1128,Spaghettis,100g,370,1 portion (200 g),portion,200.0,g,1.0,740.0,3.7
+1129,Tortellinis aux épinards,100g,314,1 tasse (102 g),tasse,102.0,g,1.0,320.28,3.14
+1130,Spirellis,100g,367,1 portion (200 g),portion,200.0,g,1.0,734.0,3.67
+1131,Tagliatelles,100g,370,1 portion (200 g),portion,200.0,g,1.0,740.0,3.7
+1132,Tortellinis,100g,291,1 tasse (113 g),tasse,113.0,g,1.0,328.83,2.91
+1133,Vermicelles,100g,368,1 portion (200 g),portion,200.0,g,1.0,736.0,3.68
+1134,Pâtes au blé complet,100g,347,1 portion (200 g),portion,200.0,g,1.0,694.0,3.47
+1135,Macaronis,100g,370,1 tasse (114 g),tasse,114.0,g,1.0,421.8,3.7
+1136,Nouilles Shirataki,100g,18,1 portion (200 g),portion,200.0,g,1.0,36.0,0.18
+1137,Nouilles de soja,100g,216,1 portion (200 g),portion,200.0,g,1.0,432.0,2.16
+1138,Spaghettis au blé complet,100g,351,1 portion (200 g),portion,200.0,g,1.0,702.0,3.51
+1139,Coquillettes,100g,354,1 portion (200 g),portion,200.0,g,1.0,708.0,3.54
+1140,Crozets,100g,362,1 portion (200 g),portion,200.0,g,1.0,724.0,3.62
+1141,Bavette,100g,356,1 portion (200 g),portion,200.0,g,1.0,712.0,3.56
+1142,Mafaldine,100g,358,1 portion (200 g),portion,200.0,g,1.0,716.0,3.58
+1143,Papardelle,100g,284,1 portion (200 g),portion,200.0,g,1.0,568.0,2.84
+1144,Tarte aux pommes,100g,237,1 part (125 g),part,125.0,g,1.0,296.25,2.37
+1145,Chausson aux pommes,100g,348,1 pièce (82 g),pièce,82.0,g,1.0,285.36,3.48
+1146,Bagel,100g,257,1 bagel (98 g),bagel,98.0,g,1.0,251.86,2.57
+1147,Baguette,100g,274,1 tranche (60 g),tranche,60.0,g,1.0,164.4,2.74
+1148,Cake à la banane,100g,326,1 part (28.4 g),part,28.4,g,1.0,92.584,3.26
+1149,Biscuit,100g,269,1 biscuit (58 g),biscuit,58.0,g,1.0,156.02,2.69
+1150,Pain noir,100g,250,1 tranche (26 g),tranche,26.0,g,1.0,65.0,2.5
+1151,Gressin,100g,400,1 gressin (5 g),gressin,5.0,g,1.0,20.0,4.0
+1152,Brioche,100g,346,1 tranche (31 g),tranche,31.0,g,1.0,107.26,3.46
+1153,Brownies,100g,405,1 part (40 g),part,40.0,g,1.0,162.0,4.05
+1154,Petit pain,100g,316,1 petit pain (38 g),petit pain,38.0,g,1.0,120.08,3.16
+1155,Cannoli,100g,254,1 portion (85 g),portion,85.0,g,1.0,215.9,2.54
+1156,Hallah,100g,283,1 tranche (23 g),tranche,23.0,g,1.0,65.09,2.83
+1157,Chapati,100g,240,1 pièce (50 g),pièce,50.0,g,1.0,120.0,2.4
+1158,Ciabatta,100g,271,1 tranche (20 g),tranche,20.0,g,1.0,54.2,2.71
+1159,Kanelbulle,100g,436,1 kanelbulle (65 g),kanelbulle,65.0,g,1.0,283.4,4.36
+1160,Pain de maïs,100g,179,1 part (28.4 g),part,28.4,g,1.0,50.83599999999999,1.79
+1161,Crêpes,100g,224,1 crêpe (50 g),crêpe,50.0,g,1.0,112.0,2.24
+1162,Croissant,100g,406,1 croissant (57 g),croissant,57.0,g,1.0,231.42,4.06
+1163,Crumpet,100g,178,1 crumpet (55 g),crumpet,55.0,g,1.0,97.9,1.78
+1164,Cupcakes,100g,305,1 cupcake (43 g),cupcake,43.0,g,1.0,131.15,3.05
+1165,Donut,100g,421,1 donut (45 g),donut,45.0,g,1.0,189.45,4.21
+1166,Galette,100g,311,1 tranche (50 g),tranche,50.0,g,1.0,155.5,3.11
+1167,Focaccia,100g,249,1 pièce (57 g),pièce,57.0,g,1.0,141.93,2.49
+1168,Pain à l’ail,100g,350,1 tranche (43 g),tranche,43.0,g,1.0,150.5,3.5
+1169,Pain italien,100g,271,1 tranche (30 g),tranche,30.0,g,1.0,81.3,2.71
+1170,Pain azyme,100g,351,1 pain azyme (28 g),pain azyme,28.0,g,1.0,98.28,3.51
+1171,Muffin,100g,296,1 muffin (71 g),muffin,71.0,g,1.0,210.16,2.96
+1172,Naan,100g,275,1 naan (160 g),naan,160.0,g,1.0,440.0,2.75
+1173,Pancake,100g,233,1 pancake (38 g),pancake,38.0,g,1.0,88.54,2.33
+1174,Panettone,100g,318,1 tranche (27 g),tranche,27.0,g,1.0,85.86,3.18
+1175,Tarte,100g,237,1 part (125 g),part,125.0,g,1.0,296.25,2.37
+1176,Pain pita,100g,275,1 pain pita (50 g),pain pita,50.0,g,1.0,137.5,2.75
+1177,Pain de pommes de terre,100g,266,1 tranche (32 g),tranche,32.0,g,1.0,85.12,2.66
+1178,Bretzel,100g,338,1 bretzel (115 g),bretzel,115.0,g,1.0,388.7,3.38
+1179,Pâte feuilletée,100g,558,1 pièce (47 g),pièce,47.0,g,1.0,262.26,5.58
+1180,Pumpernickel,100g,250,1 pumpernickel (36 g),pumpernickel,36.0,g,1.0,90.0,2.5
+1181,Pain aux raisins,100g,274,1 tranche (32 g),tranche,32.0,g,1.0,87.68,2.74
+1182,Roti,100g,264,1 roti (43 g),roti,43.0,g,1.0,113.52,2.64
+1183,Pain de seigle,100g,259,1 tranche (28.4 g),tranche,28.4,g,1.0,73.556,2.59
+1184,Sandwich,100g,304,1 sandwich (83 g),sandwich,83.0,g,1.0,252.32,3.04
+1185,Pain de mie,100g,251,1 tranche (26 g),tranche,26.0,g,1.0,65.26,2.51
+1186,Scone,100g,362,1 scone (40 g),scone,40.0,g,1.0,144.8,3.62
+1187,Pâte brisée,100g,544,1 portion (50 g),portion,50.0,g,1.0,272.0,5.44
+1188,Soda bread,100g,290,1 tranche (28.4 g),tranche,28.4,g,1.0,82.36,2.9
+1189,Soufflé,100g,204,1 tasse (136 g),tasse,136.0,g,1.0,277.44,2.04
+1190,Pain au levain,100g,289,1 tranche (35 g),tranche,35.0,g,1.0,101.15,2.89
+1191,Spanakopita,100g,246,1 pièce (57 g),pièce,57.0,g,1.0,140.22,2.46
+1192,Toast,100g,261,1 tranche (33 g),tranche,33.0,g,1.0,86.13,2.61
+1193,Pain blanc,100g,238,1 tranche (28 g),tranche,28.0,g,1.0,66.64,2.38
+1194,Pain complet,100g,247,1 tranche (46 g),tranche,46.0,g,1.0,113.62,2.47
+1195,Pain bis,100g,246,1 tranche (30 g),tranche,30.0,g,1.0,73.8,2.46
+1196,Pain à hot dog,100g,279,1 pièce (43 g),pièce,43.0,g,1.0,119.97,2.79
+1197,Pain aux céréales,100g,265,1 tranche (26 g),tranche,26.0,g,1.0,68.9,2.65
+1198,Cookies aux flocons d’avoine,100g,450,1 biscuit à l’avoine (25 g),biscuit à l’avoine,25.0,g,1.0,112.5,4.5
+1199,Mauricette,100g,338,1 pièce (60 g),pièce,60.0,g,1.0,202.8,3.38
+1200,Gâteau roulé,100g,313,1 tranche (32 g),tranche,32.0,g,1.0,100.16,3.13
+1201,Tortilla,100g,265,1 tortilla (68 g),tortilla,68.0,g,1.0,180.2,2.65
+1202,Pide,100g,268,1 pide (60 g),pide,60.0,g,1.0,160.8,2.68
+1203,Fougasse,100g,349,1 fougasse (440 g),fougasse,440.0,g,1.0,1535.6,3.49
+1204,Pain au chocolat,100g,256,1 pain au chocolat (65 g),pain au chocolat,65.0,g,1.0,166.4,2.56
+1205,Escargot,100g,75,1 escargot (10 g),escargot,10.0,g,1.0,7.5,0.75
+1206,Pain viennois,100g,375,1 pain (85 g),pain,85.0,g,1.0,318.75,3.75
+1207,Brioche,100g,332,1 tranche (35 g),tranche,35.0,g,1.0,116.2,3.32
+1208,Croissant aux amandes,100g,400,1 croissant (57 g),croissant,57.0,g,1.0,228.0,4.0
+1209,Sablé,100g,484,1 sablé (60 g),sablé,60.0,g,1.0,290.4,4.84
+1210,Pain de seigle,100g,242,1 tranche (55 g),tranche,55.0,g,1.0,133.1,2.42
+1211,Galette au sarrasin,100g,161,1 portion (125 g),portion,125.0,g,1.0,201.25,1.61
+1212,Quatre-quart,100g,433,1 tranche (30 g),tranche,30.0,g,1.0,129.9,4.33
+1213,Madeleine,100g,371,1 madeleine (21 g),madeleine,21.0,g,1.0,77.91,3.71
+1214,Pain de mie,100g,270,1 tranche (30 g),tranche,30.0,g,1.0,81.0,2.7
+1215,Pain de campagne,100g,262,1 tranche (40 g),tranche,40.0,g,1.0,104.8,2.62
+1216,Pain au lard,100g,330,1 tanche (40 g),tanche,40.0,g,1.0,132.0,3.3
+1217,Calabrese pizza,100g,235,1 part (108 g),part,108.0,g,1.0,253.8,2.35
+1218,Calzone,100g,231,1 calzone (364 g),calzone,364.0,g,1.0,840.84,2.31
+1219,Pizza capricciosa,100g,260,1 part (74 g),part,74.0,g,1.0,192.4,2.6
+1220,Pizza au fromage,100g,267,1 part (63 g),part,63.0,g,1.0,168.21,2.67
+1221,Pizza au poulet,100g,234,1 part (132 g),part,132.0,g,1.0,308.88,2.34
+1222,Pizza au fromage de chèvre,100g,219,1 part (63 g),part,63.0,g,1.0,137.97,2.19
+1223,Pizza hawaïenne,100g,115,1 part (134 g),part,134.0,g,1.0,154.1,1.15
+1224,Pizza Margharita,100g,275,1 part (63 g),part,63.0,g,1.0,173.25,2.75
+1225,Pizza à la mozarella,100g,249,1 part (62 g),part,62.0,g,1.0,154.38,2.49
+1226,Pizza aux champignons,100g,212,1 part (288 g),part,288.0,g,1.0,610.56,2.12
+1227,Pizza,100g,202,1 part (123 g),part,123.0,g,1.0,248.46,2.02
+1228,Pizza aux pepperoni,100g,255,1 part (71 g),part,71.0,g,1.0,181.05,2.55
+1229,Pâte à pizza,100g,228,1 portion (57 g),portion,57.0,g,1.0,129.96,2.28
+1230,Pizza suprême de Pizza Hut,100g,248,1 part (123 g),part,123.0,g,1.0,305.04,2.48
+1231,Pizza quatre fromages,100g,248,1 part (133 g),part,133.0,g,1.0,329.84,2.48
+1232,Pizza au poivron rouge,100g,192,1 part (86 g),part,86.0,g,1.0,165.12,1.92
+1233,Pizza au salami,100g,255,1 part (71 g),part,71.0,g,1.0,181.05,2.55
+1234,Pizza à la saucisse,100g,246,1 part (72 g),part,72.0,g,1.0,177.12,2.46
+1235,Pizza aux fruits de mer,100g,245,1 part (76 g),part,76.0,g,1.0,186.2,2.45
+1236,Pizza aux crevettes,100g,209,1 part (91 g),part,91.0,g,1.0,190.19,2.09
+1237,Pizza sicilienne,100g,241,1 part (133 g),part,133.0,g,1.0,320.53,2.41
+1238,Pizza aux épinards et à la feta,100g,242,1 part (62 g),part,62.0,g,1.0,150.04,2.42
+1239,Pizza aux épinards,100g,234,1 part (62 g),part,62.0,g,1.0,145.08,2.34
+1240,Pizza Cheezy Crust de Pizza Hut,100g,255,1 part (149 g),part,149.0,g,1.0,379.95,2.55
+1241,Tarte flambée,100g,253,1 part (56 g),part,56.0,g,1.0,141.68,2.53
+1242,Pizza à pâte fine,100g,261,1 part (60 g),part,60.0,g,1.0,156.6,2.61
+1243,Pizza au thon,100g,254,1 part (125 g),part,125.0,g,1.0,317.5,2.54
+1244,Pizza aux légumes,100g,256,1 part (156 g),part,156.0,g,1.0,399.36,2.56
+1245,Pizza végétarienne,100g,256,1 part (156 g),part,156.0,g,1.0,399.36,2.56
+1246,Pizza blanche,100g,246,1 part (232 g),part,232.0,g,1.0,570.72,2.46
+1247,Pizza Cheezy Crust de Pizza Hut,100g,255,1 part (149 g),part,149.0,g,1.0,379.95,2.55
+1248,Pizza quatre saisons,100g,188,1 part (156 g),part,156.0,g,1.0,293.28,1.88
+1249,Pizza reine,100g,195,1 part (400 g),part,400.0,g,1.0,780.0,1.95
+1250,Pizza aux anchois,100g,231,1 part (91 g),part,91.0,g,1.0,210.21,2.31
+1251,Pizza paysanne,100g,224,1 part (420 g),part,420.0,g,1.0,940.8,2.24
+1252,Poulet rôti,100g,164,1 blanc (172 g),blanc,172.0,g,1.0,282.08,1.64
+1253,Ragoût de bœuf,100g,95,1 tasse (196 g),tasse,196.0,g,1.0,186.2,0.95
+1254,Riz complet,100g,362,1 tasse (185 g),tasse,185.0,g,1.0,669.7,3.62
+1255,Burrito,100g,163,1 burrito (200 g),burrito,200.0,g,1.0,326.0,1.63
+1256,Salade César au poulet,100g,127,1 salade (309 g),salade,309.0,g,1.0,392.43,1.27
+1257,Chili con carne,100g,105,1 tasse (253 g),tasse,253.0,g,1.0,265.65,1.05
+1258,Dal,100g,330,1/2 tasse (92 g),tasse,92.0,g,0.5,303.6,3.3
+1259,Enchiladas,100g,168,1 enchilada (192 g),enchilada,192.0,g,1.0,322.56,1.68
+1260,Fajita,100g,117,1 portion (248 g),portion,248.0,g,1.0,290.16,1.17
+1261,Fish and chips,100g,195,1 portion (300 g),portion,300.0,g,1.0,585.0,1.95
+1262,Riz cantonais,100g,186,1 portion (356 g),portion,356.0,g,1.0,662.16,1.86
+1263,Houmous,100g,177,1 tasse (246 g),tasse,246.0,g,1.0,435.42,1.77
+1264,Kebab,100g,215,1 kebab (360 g),kebab,360.0,g,1.0,774.0,2.15
+1265,Lasagnes,100g,132,1 portion (215 g),portion,215.0,g,1.0,283.8,1.32
+1266,Gratin de macaronis,100g,370,1 portion (189 g),portion,189.0,g,1.0,699.3,3.7
+1267,Purée,100g,83,1 tasse (210 g),tasse,210.0,g,1.0,174.3,0.83
+1268,Pain de viande,100g,254,1 pain (284 g),pain,284.0,g,1.0,721.36,2.54
+1269,Naan,100g,310,1 naan (84 g),naan,84.0,g,1.0,260.4,3.1
+1270,Paella,100g,156,1 portion (400 g),portion,400.0,g,1.0,624.0,1.56
+1271,Soupe aux pois,100g,75,1 tasse (253 g),tasse,253.0,g,1.0,189.75,0.75
+1272,Canard laqué,100g,225,1/2 canard (178 g),canard,178.0,g,0.5,400.5,2.25
+1273,Pizza,100g,267,1 tranche (102 g),tranche,102.0,g,1.0,272.34,2.67
+1274,Côtelette de porc,100g,225,1 pièce (131 g),pièce,131.0,g,1.0,294.75,2.25
+1275,Salade de pommes de terre,100g,143,1/3 tasse (95 g),tasse,95.0,g,0.3333333333333333,135.85,1.43
+1276,Raviolis,100g,203,5 raviolis (66 g),raviolis,66.0,g,5.0,133.98,2.03
+1277,Rôti de bœuf,100g,111,1 tranche (21 g),tranche,21.0,g,1.0,23.31,1.11
+1278,Spaghettis bolognaise,100g,132,1 portion (283 g),portion,283.0,g,1.0,373.56,1.32
+1279,Rouleau de printemps,100g,250,1 pièce (140 g),pièce,140.0,g,1.0,350.0,2.5
+1280,Taco,100g,217,1 taco (98 g),taco,98.0,g,1.0,212.66,2.17
+1281,Pâtes à la carbonara,100g,166,1 portion (405 g),portion,405.0,g,1.0,672.3,1.66
+1282,Gratin dauphinois,100g,120,1 portion (400 g),portion,400.0,g,1.0,480.0,1.2
+1283,Hachis parmentier,100g,145,1 portion (300 g),portion,300.0,g,1.0,435.0,1.45
+1284,Pot-au-feu,100g,255,1 portion (350 g),portion,350.0,g,1.0,892.5,2.55
+1285,Blanquette de veau,100g,137,1 portion (400 g),portion,400.0,g,1.0,548.0,1.37
+1286,Couscous,100g,121,1 tasse (157 g),tasse,157.0,g,1.0,189.97,1.21
+1287,Cassoulet,100g,116,1 canette (420 g),canette,420.0,g,1.0,487.2,1.16
+1288,Bouillabaisse,100g,106,1 portion (350 g),portion,350.0,g,1.0,371.0,1.06
+1289,Coq au vin,100g,91,1 portion (350 g),portion,350.0,g,1.0,318.5,0.91
+1290,Fondue bourguignonne,100g,320,1 portion (108 g),portion,108.0,g,1.0,345.6,3.2
+1291,Fondue savoyarde,100g,234,1 portion (108 g),portion,108.0,g,1.0,252.72,2.34
+1292,Tartiflette,100g,145,1 portion (250 g),portion,250.0,g,1.0,362.5,1.45
+1293,Choucroute,100g,71,1 portion (200 g),portion,200.0,g,1.0,142.0,0.71
+1294,Lapin à la moutarde,100g,146,1 portion (245 g),portion,245.0,g,1.0,357.7,1.46
+1295,Raclette,100g,343,1 pièce (25 g),pièce,25.0,g,1.0,85.75,3.43
+1296,Endives au jambon,100g,91,1 portion (180 g),portion,180.0,g,1.0,163.8,0.91
+1297,Tomates farcies,100g,133,1 tomate (150 g),tomate,150.0,g,1.0,199.5,1.33
+1298,Saumon grillé,100g,171,1 portion (120 g),portion,120.0,g,1.0,205.2,1.71
+1299,Bœuf bourgignon,100g,117,1 portion (200 g),portion,200.0,g,1.0,234.0,1.17
+1300,Gigot d’agneau,100g,193,1 gigot d’agneau (250 g),gigot d’agneau,250.0,g,1.0,482.5,1.93
+1301,Quiche,100g,270,1 portion (200 g),portion,200.0,g,1.0,540.0,2.7
+1302,Pâté lorrain,100g,299,1 portion (170 g),portion,170.0,g,1.0,508.3,2.99
+1303,Moules frites,100g,188,1 portion (442 g),portion,442.0,g,1.0,830.96,1.88
+1304,Anchois,100g,131,1 portion (48 g),portion,48.0,g,1.0,62.88,1.31
+1305,Tassergal,100g,159,1 filet (117 g),filet,117.0,g,1.0,186.03,1.59
+1306,Brème,100g,135,1 portion (125 g),portion,125.0,g,1.0,168.75,1.35
+1307,Stromatée à fossettes,100g,187,1 filet (25 g),filet,25.0,g,1.0,46.75,1.87
+1308,Encornet,100g,175,1 pièce (12 g),pièce,12.0,g,1.0,21.0,1.75
+1309,Carpe,100g,162,1 filet (170 g),filet,170.0,g,1.0,275.4,1.62
+1310,Caviar,100g,264,1 cuillère à soupe (16 g),cuillère à soupe,16.0,g,1.0,42.24,2.64
+1311,Palourde,100g,148,1 paquet (115 g),paquet,115.0,g,1.0,170.2,1.48
+1312,Morue,100g,105,1 filet (180 g),filet,180.0,g,1.0,189.0,1.05
+1313,Langouste,100g,82,1 langouste (12 g),langouste,12.0,g,1.0,9.84,0.82
+1314,Écrevisse,100g,87,1 portion (48 g),portion,48.0,g,1.0,41.76,0.87
+1315,Anguille,100g,236,1 portion (48 g),portion,48.0,g,1.0,113.28,2.36
+1316,Poisson pané,100g,290,1 pièce (28 g),pièce,28.0,g,1.0,81.2,2.9
+1317,Flet,100g,86,1 filet (127 g),filet,127.0,g,1.0,109.22,0.86
+1318,Mérou,100g,118,1 filet (202 g),filet,202.0,g,1.0,238.36,1.18
+1319,Églefin,100g,90,1 filet (150 g),filet,150.0,g,1.0,135.0,0.9
+1320,Merlu,100g,71,1 filet (113 g),filet,113.0,g,1.0,80.23,0.71
+1321,Flétan,100g,111,1/2 filet (200 g),filet,200.0,g,0.5,222.0,1.11
+1322,Hareng,100g,203,1 filet (143 g),filet,143.0,g,1.0,290.29,2.03
+1323,Hoki,100g,121,1 portion (70 g),portion,70.0,g,1.0,84.7,1.21
+1324,Hareng saur,100g,217,1 filet (40 g),filet,40.0,g,1.0,86.8,2.17
+1325,Homard,100g,89,1 homard (150 g),homard,150.0,g,1.0,133.5,0.89
+1326,Maquereau,100g,262,1 filet (88 g),filet,88.0,g,1.0,230.56,2.62
+1327,Chanos,100g,190,1 portion (48 g),portion,48.0,g,1.0,91.2,1.9
+1328,Lotte,100g,97,1 portion (48 g),portion,48.0,g,1.0,46.56,0.97
+1329,Mulet,100g,150,1 filet (93 g),filet,93.0,g,1.0,139.5,1.5
+1330,Moule,100g,172,1 portion (48 g),portion,48.0,g,1.0,82.56,1.72
+1331,Poulpe,100g,164,1 portion (48 g),portion,48.0,g,1.0,78.72,1.64
+1332,Hareng mariné,100g,262,1 tasse (140 g),tasse,140.0,g,1.0,366.8,2.62
+1333,Brochet,100g,113,1/2 filet (155 g),filet,155.0,g,0.5,175.15,1.13
+1334,Plie,100g,91,1 portion (100 g),portion,100.0,g,1.0,91.0,0.91
+1335,Lieu jaune,100g,111,1/2 filet (151 g),filet,151.0,g,0.5,167.61,1.11
+1336,Vivaneau,100g,128,1 filet (170 g),filet,170.0,g,1.0,217.6,1.28
+1337,Sébaste,100g,94,1 portion (57 g),portion,57.0,g,1.0,53.58,0.94
+1338,Rollmops,100g,171,1 rollmops (65 g),rollmops,65.0,g,1.0,111.15,1.71
+1339,Saumon,100g,206,1/2 filet (178 g),filet,178.0,g,0.5,366.68,2.06
+1340,Sardines,100g,208,1 tasse (149 g),tasse,149.0,g,1.0,309.92,2.08
+1341,Coquilles Saint-Jacques,100g,111,1 coquilles saint-jacques (10 g),coquilles saint-jacques,10.0,g,1.0,11.1,1.11
+1342,Loup de mer,100g,124,1 filet (124 g),filet,124.0,g,1.0,153.76,1.24
+1343,Alose,100g,252,1 filet (144 g),filet,144.0,g,1.0,362.88,2.52
+1344,Requin,100g,130,1 portion (85 g),portion,85.0,g,1.0,110.5,1.3
+1345,Éperlan,100g,124,1 portion (85 g),portion,85.0,g,1.0,105.4,1.24
+1346,Sole,100g,86,1 filet (127 g),filet,127.0,g,1.0,109.22,0.86
+1347,Calmar,100g,92,1 portion (28.4 g),portion,28.4,g,1.0,26.127999999999997,0.92
+1348,Esturgeon,100g,135,1 tasse (136 g),tasse,136.0,g,1.0,183.6,1.35
+1349,Sushi,100g,150,1 pièce (26 g),pièce,26.0,g,1.0,39.0,1.5
+1350,Espadon,100g,172,1 pièce (106 g),pièce,106.0,g,1.0,182.32,1.72
+1351,Baliste,100g,93,1 portion (28.4 g),portion,28.4,g,1.0,26.412,0.93
+1352,Truite,100g,190,1 filet (62 g),filet,62.0,g,1.0,117.8,1.9
+1353,Thon,100g,132,1/2 filet (154 g),filet,154.0,g,0.5,203.28,1.32
+1354,Salade de thon,100g,187,1 tasse (205 g),tasse,205.0,g,1.0,383.35,1.87
+1355,Turbot,100g,122,1/2 filet (159 g),filet,159.0,g,0.5,193.98,1.22
+1356,Poisson blanc,100g,172,1 filet (154 g),filet,154.0,g,1.0,264.88,1.72
+1357,Merlan,100g,116,1 filet (72 g),filet,72.0,g,1.0,83.52,1.16
+1358,Sandre,100g,84,1 filet (62 g),filet,62.0,g,1.0,52.08,0.84
+1359,Lingue blanche,100g,109,1 filet (151 g),filet,151.0,g,1.0,164.59,1.09
+1360,Langoustine,100g,84,1 langoustine (10 g),langoustine,10.0,g,1.0,8.4,0.84
+1361,Thazard noir,100g,167,1 portion (100 g),portion,100.0,g,1.0,167.0,1.67
+1362,Huitres,100g,65,1 huitre (7 g),huitre,7.0,g,1.0,4.55,0.65
+1363,Crabe,100g,91,1 portion (85 g),portion,85.0,g,1.0,77.35,0.91
+1364,Bacon,100g,407,1 tranche (26 g),tranche,26.0,g,1.0,105.82,4.07
+1365,Fromage de tête,100g,309,1 tranche (25 g),tranche,25.0,g,1.0,77.25,3.09
+1366,Tripes,100g,233,1 portion (113 g),portion,113.0,g,1.0,263.29,2.33
+1367,Hachis de porc,100g,263,1 paquet (500 g),paquet,500.0,g,1.0,1315.0,2.63
+1368,Saindoux,100g,898,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,116.74,8.98
+1369,Pain de viande,100g,89,1 tranche (250 g),tranche,250.0,g,1.0,222.5,0.89
+1370,Jambon de parme,100g,261,1 portion (12 g),portion,12.0,g,1.0,31.32,2.61
+1371,Oreille de porc,100g,166,1 oreille (111 g),oreille,111.0,g,1.0,184.26,1.66
+1372,Saindoux de porc,100g,638,1 paquet (200 g),paquet,200.0,g,1.0,1276.0,6.38
+1373,Queue de porc,100g,396,1 pièce (275 g),pièce,275.0,g,1.0,1089.0,3.96
+1374,Pied de porc,100g,243,1 portion (85 g),portion,85.0,g,1.0,206.55,2.43
+1375,Ventre de porc,100g,518,1 portion (454 g),portion,454.0,g,1.0,2351.72,5.18
+1376,Côtelette de porc,100g,123,1 côtelette (158 g),côtelette,158.0,g,1.0,194.34,1.23
+1377,Jambe de porc,100g,201,1 pièce (231 g),pièce,231.0,g,1.0,464.31,2.01
+1378,Longe de porc,100g,143,1 pièce (333 g),pièce,333.0,g,1.0,476.19,1.43
+1379,Pain de viande de porc,100g,243,1 tranche (250 g),tranche,250.0,g,1.0,607.5,2.43
+1380,Ragoût de porc,100g,73,1 portion (361 g),portion,361.0,g,1.0,263.53,0.73
+1381,Côtes de porc,100g,292,1 pièce (84 g),pièce,84.0,g,1.0,245.28,2.92
+1382,Rôti de porc,100g,194,1 portion (263 g),portion,263.0,g,1.0,510.22,1.94
+1383,Saucisse de porc,100g,339,1 saucisse (48 g),saucisse,48.0,g,1.0,162.72,3.39
+1384,Jarret de porc,100g,172,1 portion (140 g),portion,140.0,g,1.0,240.8,1.72
+1385,Épaule de porc,100g,269,1 pièce (262 g),pièce,262.0,g,1.0,704.78,2.69
+1386,Omoplate de porc,100g,232,1 portion (170 g),portion,170.0,g,1.0,394.4,2.32
+1387,Estomac de porc,100g,250,1 portion (113 g),portion,113.0,g,1.0,282.5,2.5
+1388,Carré de porc,100g,241,1 portion (113 g),portion,113.0,g,1.0,272.33,2.41
+1389,Viande salée,100g,286,1 serving (30 g),serving,30.0,g,1.0,85.8,2.86
+1390,Petit salé,100g,286,1 portion (340 g),portion,340.0,g,1.0,972.4,2.86
+1391,Jambon serrano,100g,339,1 paquet (500 g),paquet,500.0,g,1.0,1695.0,3.39
+1392,Carré,100g,396,1 pièce (84 g),pièce,84.0,g,1.0,332.64,3.96
+1393,Escalope de porc,100g,131,1 escalope (283 g),escalope,283.0,g,1.0,370.73,1.31
+1394,Farce,100g,193,1 portion (150 g),portion,150.0,g,1.0,289.5,1.93
+1395,Lardon,100g,338,1 portion (124 g),portion,124.0,g,1.0,419.12,3.38
+1396,Palette,100g,309,1 portion (500 g),portion,500.0,g,1.0,1545.0,3.09
+1397,Echine,100g,302,1 portion (340 g),portion,340.0,g,1.0,1026.8,3.02
+1398,Travers de porc,100g,216,1 portion (200 g),portion,200.0,g,1.0,432.0,2.16
+1399,Jambonneau,100g,144,1 portion (200 g),portion,200.0,g,1.0,288.0,1.44
+1400,Filet mignon,100g,125,1 portion (180 g),portion,180.0,g,1.0,225.0,1.25
+1401,Lard,100g,407,1 tranche (26 g),tranche,26.0,g,1.0,105.82,4.07
+1402,Pomme de terre au four,100g,93,1 pomme de terre (173 g),pomme de terre,173.0,g,1.0,160.89,0.93
+1403,Pommes de terre à l’eau,100g,87,1 pomme de terre (136 g),pomme de terre,136.0,g,1.0,118.32,0.87
+1404,Manioc,100g,160,1 tubercule (408 g),tubercule,408.0,g,1.0,652.8,1.6
+1405,Croquettes de pommes de terre,100g,127,1 portion (138 g),portion,138.0,g,1.0,175.26,1.27
+1406,Frites,100g,312,1 portion (117 g),portion,117.0,g,1.0,365.04,3.12
+1407,Pommes de terre sautées,100g,312,1 portion (117 g),portion,117.0,g,1.0,365.04,3.12
+1408,Gnocchis,100g,133,1 tasse (188 g),tasse,188.0,g,1.0,250.04,1.33
+1409,Purée,100g,89,1 tasse (242 g),tasse,242.0,g,1.0,215.38,0.89
+1410,Omelette,100g,154,1 omelette (61 g),omelette,61.0,g,1.0,93.94,1.54
+1411,Pomme de terre,100g,77,1 pomme de terre (214 g),pomme de terre,214.0,g,1.0,164.78,0.77
+1412,Boulette de pommes de terre,100g,124,1 pièce (40 g),pièce,40.0,g,1.0,49.6,1.24
+1413,Galette de pommes de terre,100g,185,1 pièce (74 g),pièce,74.0,g,1.0,136.9,1.85
+1414,Gratin de pommes de terre,100g,132,1 tasse (245 g),tasse,245.0,g,1.0,323.4,1.32
+1415,Salade de pommes de terre,100g,143,1 tasse (250 g),tasse,250.0,g,1.0,357.5,1.43
+1416,Fécule de pomme de terre,100g,331,1 cuillère à soupe (12 g),cuillère à soupe,12.0,g,1.0,39.72,3.31
+1417,Patate douce,100g,92,1 pomme de terre (114 g),pomme de terre,114.0,g,1.0,104.88,0.92
+1418,Pommes de terre blanches,100g,94,1 pomme de terre (138 g),pomme de terre,138.0,g,1.0,129.72,0.94
+1419,Pommes de terre Yukon Gold,100g,82,1 pomme de terre (136 g),pomme de terre,136.0,g,1.0,111.52,0.82
+1420,Pommes de terre au four ou frites,100g,123,1 portion (100 g),portion,100.0,g,1.0,123.0,1.23
+1421,Pommes de terre au romarin,100g,93,1 pomme de terre (173 g),pomme de terre,173.0,g,1.0,160.89,0.93
+1422,Rösti,100g,138,1 rösti (100 g),rösti,100.0,g,1.0,138.0,1.38
+1423,Pommes dauphines,100g,287,1 pomme dauphine (16.7 g),pomme dauphine,16.7,g,1.0,47.928999999999995,2.87
+1424,Gratin dauphinois,100g,113,1 portion (250 g),portion,250.0,g,1.0,282.5,1.13
+1425,Amarante,100g,371,1 tasse (193 g),tasse,193.0,g,1.0,716.03,3.71
+1426,Orge,100g,354,1 tasse (157 g),tasse,157.0,g,1.0,555.78,3.54
+1427,Riz complet,100g,388,1 tasse (195 g),tasse,195.0,g,1.0,756.6,3.88
+1428,Sarrasin,100g,343,1 tasse (170 g),tasse,170.0,g,1.0,583.1,3.43
+1429,Semoule de maïs,100g,362,1 tasse (122 g),tasse,122.0,g,1.0,441.64,3.62
+1430,Maïzena,100g,381,1 tasse (128 g),tasse,128.0,g,1.0,487.68,3.81
+1431,Semoule de couscous,100g,376,1 tasse (173 g),tasse,173.0,g,1.0,650.48,3.76
+1432,Cracker,100g,502,1 cracker (7 g),cracker,7.0,g,1.0,35.14,5.02
+1433,Semoule de blé dur,100g,397,1 cuillère à soupe (30 g),cuillère à soupe,30.0,g,1.0,119.1,3.97
+1434,Graines de lin,100g,534,1 tasse (168 g),tasse,168.0,g,1.0,897.12,5.34
+1435,Gressin,100g,408,1 gressin (5 g),gressin,5.0,g,1.0,20.4,4.08
+1436,Blé de Khorasan,100g,337,1 tasse (186 g),tasse,186.0,g,1.0,626.82,3.37
+1437,Millet,100g,378,1 tasse (128 g),tasse,128.0,g,1.0,483.84,3.78
+1438,Farine de millet,100g,372,1 tasse (140 g),tasse,140.0,g,1.0,520.8,3.72
+1439,Bouillie de millet,100g,46,1 tasse (174 g),tasse,174.0,g,1.0,80.04,0.46
+1440,Orge perlée,100g,352,1 tasse (157 g),tasse,157.0,g,1.0,552.64,3.52
+1441,Polenta,100g,366,1 tasse (150 g),tasse,150.0,g,1.0,549.0,3.66
+1442,Chips de crevettes,100g,527,1 cracker (3 g),cracker,3.0,g,1.0,15.81,5.27
+1443,Quinoa,100g,368,1 tasse (170 g),tasse,170.0,g,1.0,625.6,3.68
+1444,Biscotte,100g,410,1 biscotte (10 g),biscotte,10.0,g,1.0,41.0,4.1
+1445,Son de seigle,100g,281,1 tasse (150 g),tasse,150.0,g,1.0,421.5,2.81
+1446,Sagou,100g,354,1 tasse (173 g),tasse,173.0,g,1.0,612.42,3.54
+1447,Petit beurre,100g,502,1 pièce (19 g),pièce,19.0,g,1.0,95.38,5.02
+1448,Épeautre,100g,338,1 tasse (174 g),tasse,174.0,g,1.0,588.12,3.38
+1449,Son d’épeautre,100g,177,1 tasse (160 g),tasse,160.0,g,1.0,283.2,1.77
+1450,Semoule d’épeautre,100g,360,1 tasse (167 g),tasse,167.0,g,1.0,601.2,3.6
+1451,Graines de tournesol,100g,584,1 tasse (140 g),tasse,140.0,g,1.0,817.6,5.84
+1452,Tortilla,100g,237,1 tortilla (197 g),tortilla,197.0,g,1.0,466.89,2.37
+1453,Tortillas chips,100g,499,20 chips (32 g),chips,32.0,g,20.0,159.68,4.99
+1454,Son de blé,100g,216,1 tasse (58 g),tasse,58.0,g,1.0,125.28,2.16
+1455,Germe de blé,100g,382,1 tasse (113 g),tasse,113.0,g,1.0,431.66,3.82
+1456,Gluten de blé,100g,325,1 cuillère à café (3 g),cuillère à café,3.0,g,1.0,9.75,3.25
+1457,Semoule de blé,100g,360,1 tasse (167 g),tasse,167.0,g,1.0,601.2,3.6
+1458,Amidon de blé,100g,351,1 tasse (110 g),tasse,110.0,g,1.0,386.1,3.51
+1459,Farine de blé complet,100g,339,1 tasse (120 g),tasse,120.0,g,1.0,406.8,3.39
+1460,Son d’avoine,100g,246,1 tasse (94 g),tasse,94.0,g,1.0,231.24,2.46
+1461,Flocons d’avoine complet,100g,375,1 tasse (80 g),tasse,80.0,g,1.0,300.0,3.75
+1462,Stick salé,100g,380,20 pièces (12 g),pièces,12.0,g,20.0,45.6,3.8
+1463,Ajvar,100g,18,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,2.7,0.18
+1464,Arrabiata sauce,100g,36,1 pot (350 g),pot,350.0,g,1.0,126.0,0.36
+1465,Vinaigrette au vinaigre balsamique,100g,290,1 cuillère à soupe (16 g),cuillère à soupe,16.0,g,1.0,46.4,2.9
+1466,Sauce barbecue,100g,150,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,22.5,1.5
+1467,Sauce béchamel,100g,225,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,33.75,2.25
+1468,Sauce béarnaise,100g,414,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,62.1,4.14
+1469,Bolognaise,100g,106,1 tasse (226 g),tasse,226.0,g,1.0,239.56,1.06
+1470,Vinaigrette césar,100g,429,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,64.35,4.29
+1471,Sauce chasseur,100g,45,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,6.75,0.45
+1472,Sauce chili,100g,112,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,20.16,1.12
+1473,Sauce à la crème,100g,180,1 tasse (244 g),tasse,244.0,g,1.0,439.2,1.8
+1474,Ketchup au curry,100g,124,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,18.6,1.24
+1475,Sauce curry,100g,26,1 cuillère à soupe (17 g),cuillère à soupe,17.0,g,1.0,4.42,0.26
+1476,Sauce au jus de viande,100g,53,1 tasse (233 g),tasse,233.0,g,1.0,123.49,0.53
+1477,Sauce pour hamburger,100g,383,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,57.45,3.83
+1478,Harissa,100g,52,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,7.8,0.52
+1479,Sauce hollandaise,100g,535,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,80.25,5.35
+1480,Raifort,100g,48,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,7.2,0.48
+1481,Sauce italienne,100g,293,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,43.95,2.93
+1482,Ketchup,100g,100,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,15.0,1.0
+1483,Mayonnaise,100g,692,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,89.96,6.92
+1484,Moutarde,100g,60,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,3.0,0.6
+1485,Sauce à la moutarde,100g,645,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,83.85,6.45
+1486,Sauce à l’orange,100g,179,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,26.85,1.79
+1487,Pesto,100g,458,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,68.7,4.58
+1488,Sauce ranch,100g,510,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,76.5,5.1
+1489,Sauce rémoulade,100g,635,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,82.55,6.35
+1490,Pâte de sésame,100g,595,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,89.25,5.95
+1491,Crème aigre,100g,217,1 cuillère à soupe (12 g),cuillère à soupe,12.0,g,1.0,26.04,2.17
+1492,Sauce à la crème sure,100g,60,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,9.0,0.6
+1493,Sauce de soja,100g,67,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,10.05,0.67
+1494,Sauce aigre-douce,100g,179,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,26.85,1.79
+1495,Tabasco,100g,70,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,3.5,0.7
+1496,Sauce teriyaki,100g,89,1 cuillère à soupe (18 g),cuillère à soupe,18.0,g,1.0,16.02,0.89
+1497,Concentré de tomate,100g,82,1 cuillère à soupe (17 g),cuillère à soupe,17.0,g,1.0,13.94,0.82
+1498,Purée de tomates,100g,38,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,5.7,0.38
+1499,Sauce tomate,100g,24,1 tasse (245 g),tasse,245.0,g,1.0,58.8,0.24
+1500,Tzatziki,100g,94,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,14.1,0.94
+1501,Sauce Worcestershire,100g,78,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,11.7,0.78
+1502,Vinaigrette au yogourt,100g,45,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,6.75,0.45
+1503,Vinaigrette grecque,100g,467,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,70.05,4.67
+1504,Sambal,100g,21,1 cuillère à café (5 g),cuillère à café,5.0,g,1.0,1.05,0.21
+1505,Vinaigrette,100g,120,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,18.0,1.2
+1506,Vinaigrette au miel et à la moutarde,100g,464,1 cuillère à soupe (16 g),cuillère à soupe,16.0,g,1.0,74.24,4.64
+1507,Pistou,100g,514,1 cuillère à café (7 g),cuillère à café,7.0,g,1.0,35.98,5.14
+1508,Beurre blanc,100g,137,1 cuillère à soupe (10 g),cuillère à soupe,10.0,g,1.0,13.7,1.37
+1509,Sauce tartare,100g,516,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,77.4,5.16
+1510,Sauce Mornay,100g,480,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,72.0,4.8
+1511,Sauce Nantua,100g,83,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,12.45,0.83
+1512,Sauce soubise,100g,130,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,19.5,1.3
+1513,Sauce poulette,100g,79,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,11.85,0.79
+1514,Sauce grand veneur,100g,77,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,11.55,0.77
+1515,Beurre d’almande,100g,614,1 cuillère à soupe (16 g),cuillère à soupe,16.0,g,1.0,98.24,6.14
+1516,Compote de pommes,100g,68,1 tasse (255 g),tasse,255.0,g,1.0,173.4,0.68
+1517,Confiture d’abricots,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1518,Confiture de myrtilles,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1519,Fromage à tartiner,100g,290,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,43.5,2.9
+1520,Confiture de cerises,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1521,Tartinade au chocolat,100g,541,1 cuillère à café (12 g),cuillère à café,12.0,g,1.0,64.92,5.41
+1522,Fromage à la crème,100g,342,1 tasse (232 g),tasse,232.0,g,1.0,793.44,3.42
+1523,Oeuf,100g,161,1 oeuf (60 g),oeuf,60.0,g,1.0,96.6,1.61
+1524,Miel,100g,304,1 cuillère à soupe (21 g),cuillère à soupe,21.0,g,1.0,63.84,3.04
+1525,Gelée,100g,278,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,55.6,2.78
+1526,Pâte de foie,100g,305,1 tranche (18 g),tranche,18.0,g,1.0,54.9,3.05
+1527,Margarine,100g,717,1 cuillère à soupe (14 g),cuillère à soupe,14.0,g,1.0,100.38,7.17
+1528,Nutella,100g,544,1 portion (15 g),portion,15.0,g,1.0,81.6,5.44
+1529,Pâté,100g,319,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,41.47,3.19
+1530,Beurre de cacahuète,100g,589,1 cuillère à soupe (16 g),cuillère à soupe,16.0,g,1.0,94.24,5.89
+1531,Fromage à la crème Philadelphia,100g,342,1 tasse (232 g),tasse,232.0,g,1.0,793.44,3.42
+1532,Confiture de prunes,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1533,Beurre salé,100g,717,1 tasse (227 g),tasse,227.0,g,1.0,1627.59,7.17
+1534,Confiture de fraises,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1535,Gelée de fraises,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1536,Tapenade,100g,233,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,34.95,2.33
+1537,Beurre non salé,100g,717,1 tasse (227 g),tasse,227.0,g,1.0,1627.59,7.17
+1538,Confiture de mûres,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1539,Confiture de cassis,100g,250,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,50.0,2.5
+1540,Miel sauvage,100g,286,1 cuillère à soupe (21 g),cuillère à soupe,21.0,g,1.0,60.06,2.86
+1541,Crème de spéculoos,100g,589,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,88.35,5.89
+1542,Confiture d’oranges,100g,242,1 cuillère à soupe (20 g),cuillère à soupe,20.0,g,1.0,48.4,2.42
+1543,Kiri,100g,310,1 portion (20 g),portion,20.0,g,1.0,62.0,3.1
+1544,Boursin,100g,414,1 cuillère à soupe (15 g),cuillère à soupe,15.0,g,1.0,62.1,4.14
+1545,Andouille,100g,232,1 portion (170 g),portion,170.0,g,1.0,394.4,2.32
+1546,Lard,100g,407,1 tranche (26 g),tranche,26.0,g,1.0,105.82,4.07
+1547,Boudin noir,100g,379,1 tranche (25 g),tranche,25.0,g,1.0,94.75,3.79
+1548,Bockwurst,100g,301,1 saucisse (91 g),saucisse,91.0,g,1.0,273.91,3.01
+1549,Baloney,100g,247,1 tranche (23 g),tranche,23.0,g,1.0,56.81,2.47
+1550,Bratwurst,100g,297,1 bratwurst (66 g),bratwurst,66.0,g,1.0,196.02,2.97
+1551,Fromage de tête,100g,157,1 tranche (28 g),tranche,28.0,g,1.0,43.96,1.57
+1552,Blanc de poulet,100g,79,1 tranche (21 g),tranche,21.0,g,1.0,16.59,0.79
+1553,Viande de poulet,100g,79,1 tranche (21 g),tranche,21.0,g,1.0,16.59,0.79
+1554,Salade de poulet,100g,81,1 portion (344 g),portion,344.0,g,1.0,278.64,0.81
+1555,Chorizo,100g,455,1 tranche (4 g),tranche,4.0,g,1.0,18.2,4.55
+1556,Jambon blanc,100g,133,1 tranche (33 g),tranche,33.0,g,1.0,43.89,1.33
+1557,Corned beef,100g,153,1 tranche (28 g),tranche,28.0,g,1.0,42.84,1.53
+1558,Saucisse de Francfort,100g,305,1 saucisse (45 g),saucisse,45.0,g,1.0,137.25,3.05
+1559,Hot Dog,100g,278,1 hot dog (52 g),hot dog,52.0,g,1.0,144.56,2.78
+1560,Saucisse italienne,100g,149,1 portion (168 g),portion,168.0,g,1.0,250.32,1.49
+1561,Kielbasa,100g,309,1 portion (150 g),portion,150.0,g,1.0,463.5,3.09
+1562,Knack,100g,307,1 portion (144 g),portion,144.0,g,1.0,442.08,3.07
+1563,Gendarme,100g,352,1 gendarme (56.8 g),gendarme,56.8,g,1.0,199.93599999999998,3.52
+1564,Pâté de foie,100g,326,1 tranche (18 g),tranche,18.0,g,1.0,58.68,3.26
+1565,Mettwurst,100g,310,1 portion (28 g),portion,28.0,g,1.0,86.8,3.1
+1566,Mortadelle,100g,311,1 tranche (15 g),tranche,15.0,g,1.0,46.65,3.11
+1567,Pastrami,100g,133,1 tranche (29 g),tranche,29.0,g,1.0,38.57,1.33
+1568,Porc,100g,247,1 tranche (21 g),tranche,21.0,g,1.0,51.87,2.47
+1569,Prosciutto,100g,195,1 tranche (9 g),tranche,9.0,g,1.0,17.55,1.95
+1570,Salami,100g,336,1 tranche (12.3 g),tranche,12.3,g,1.0,41.328,3.36
+1571,Saucisse,100g,230,1 saucisse (16 g),saucisse,16.0,g,1.0,36.8,2.3
+1572,Saucisse fumée,100g,301,1 portion (76 g),portion,76.0,g,1.0,228.76,3.01
+1573,Saucisse blanche,100g,313,1 portion (226 g),portion,226.0,g,1.0,707.38,3.13
+1574,Pâté de foie,100g,319,1 cuillère à soupe (13 g),cuillère à soupe,13.0,g,1.0,41.47,3.19
+1575,Chipolata,100g,341,1 saucisse (60 g),saucisse,60.0,g,1.0,204.6,3.41
+1576,Merguez,100g,279,1 saucisse (40 g),saucisse,40.0,g,1.0,111.6,2.79
+1577,Saucisse de Morteaux,100g,320,1 tranche (33 g),tranche,33.0,g,1.0,105.6,3.2
+1578,Andouillette,100g,267,1 tranche (33 g),tranche,33.0,g,1.0,88.11,2.67
+1579,Boudin blanc,100g,270,1 saucisse (60 g),saucisse,60.0,g,1.0,162.0,2.7
+1580,Saucisse de Strasbourg,100g,281,1 saucisse (40 g),saucisse,40.0,g,1.0,112.4,2.81
+1581,Diot,100g,342,1 saucisse (90 g),saucisse,90.0,g,1.0,307.8,3.42
+1582,Saucisse de Toulouse,100g,254,1 saucisse (60 g),saucisse,60.0,g,1.0,152.4,2.54
+1583,Cervelas,100g,320,1 saucisse (60 g),saucisse,60.0,g,1.0,192.0,3.2
+1584,Jambon cru,100g,192,1 tranche (12 g),tranche,12.0,g,1.0,23.04,1.92
+1585,Jambon persillé,100g,135,1 tranche (12 g),tranche,12.0,g,1.0,16.2,1.35
+1586,Terrine de campagne,100g,284,1 portion (130 g),portion,130.0,g,1.0,369.2,2.84
+1587,Pâté de canard,100g,436,1 portion (125 g),portion,125.0,g,1.0,545.0,4.36
+1588,Mousse de foie,100g,280,1 portion (30 g),portion,30.0,g,1.0,84.0,2.8
+1589,Foie gras,100g,479,1 portion (30 g),portion,30.0,g,1.0,143.7,4.79
+1590,Pâté en croûte,100g,270,1 portion (125 g),portion,125.0,g,1.0,337.5,2.7
+1591,Soupe de haricots blancs,100g,133,1 tasse (252 g),tasse,252.0,g,1.0,335.16,1.33
+1592,Bouillon de boeuf,100g,3,1 tasse (240 g),tasse,240.0,g,1.0,7.2,0.03
+1593,Bouillon,100g,16,1 tasse (244 g),tasse,244.0,g,1.0,39.04,0.16
+1594,Soupe au fromage et au brocoli,100g,87,1 tasse (303 g),tasse,303.0,g,1.0,263.61,0.87
+1595,Soupe de brocoli,100g,87,1 tasse (237 g),tasse,237.0,g,1.0,206.19,0.87
+1596,Soupe au chou,100g,28,1 tasse (245 g),tasse,245.0,g,1.0,68.6,0.28
+1597,Potage aux carottes,100g,25,1 portion (381 g),portion,381.0,g,1.0,95.25,0.25
+1598,Bouillon de poulet,100g,4,1 tasse (241 g),tasse,241.0,g,1.0,9.64,0.04
+1599,Goulash,100g,50,1 portion (187 g),portion,187.0,g,1.0,93.5,0.5
+1600,Soupe de lentilles,100g,56,1 tasse (248 g),tasse,248.0,g,1.0,138.88,0.56
+1601,Bisque,100g,100,1 tasse (248 g),tasse,248.0,g,1.0,248.0,1.0
+1602,Soupe aux boulettes de viande,100g,49,1 tasse (245 g),tasse,245.0,g,1.0,120.05,0.49
+1603,Minestrone,100g,34,1 tasse (241 g),tasse,241.0,g,1.0,81.94,0.34
+1604,Soupe aux champignons,100g,35,1 tasse (244 g),tasse,244.0,g,1.0,85.4,0.35
+1605,Soupe aux nouilles,100g,34,1 tasse (244 g),tasse,244.0,g,1.0,82.96,0.34
+1606,Soupe à l’oignon,100g,23,1 tasse (243 g),tasse,243.0,g,1.0,55.89,0.23
+1607,Soupe de queue de boeuf,100g,28,1 tasse (244 g),tasse,244.0,g,1.0,68.32,0.28
+1608,Soupe aux pois,100g,75,1 tasse (253 g),tasse,253.0,g,1.0,189.75,0.75
+1609,Soupe aux pommes de terre,100g,80,1 portion (240 g),portion,240.0,g,1.0,192.0,0.8
+1610,Soupe à la citrouille,100g,29,1 tasse (245 g),tasse,245.0,g,1.0,71.05,0.29
+1611,Ramen,100g,436,1 paquet (85 g),paquet,85.0,g,1.0,370.6,4.36
+1612,Soupe thaï,100g,60,1 tasse (245 g),tasse,245.0,g,1.0,147.0,0.6
+1613,Soupe de riz aux tomates,100g,47,1 tasse (247 g),tasse,247.0,g,1.0,116.09,0.47
+1614,Soupe à la tomate,100g,30,1 tasse (248 g),tasse,248.0,g,1.0,74.4,0.3
+1615,Bouillon de légumes,100g,5,1 tasse (235 g),tasse,235.0,g,1.0,11.75,0.05
+1616,Soupe aux légumes,100g,28,1 tasse (241 g),tasse,241.0,g,1.0,67.48,0.28
+1617,Soupes de pâtes alphabet,100g,25,1 tasse (248 g),tasse,248.0,g,1.0,62.0,0.25
+1618,Soupe de nouilles au bœuf,100g,34,1 tasse (244 g),tasse,244.0,g,1.0,82.96,0.34
+1619,Soupe de nouilles au poulet,100g,25,1 tasse (248 g),tasse,248.0,g,1.0,62.0,0.25
+1620,Soupe de légumes au poulet,100g,31,1 tasse (248 g),tasse,248.0,g,1.0,76.88,0.31
+1621,Soupe de poulet au riz,100g,24,1 tasse (243 g),tasse,243.0,g,1.0,58.32,0.24
+1622,Crème d’asperges,100g,35,1 tasse (244 g),tasse,244.0,g,1.0,85.4,0.35
+1623,Crème de brocoli,100g,45,1 portion (310 g),portion,310.0,g,1.0,139.5,0.45
+1624,Crème de céleri,100g,37,1 tasse (248 g),tasse,248.0,g,1.0,91.76,0.37
+1625,Soupe crémeuse au poulet,100g,48,1 tasse (244 g),tasse,244.0,g,1.0,117.12,0.48
+1626,Crème de champignons,100g,39,1 tasse (248 g),tasse,248.0,g,1.0,96.72,0.39
+1627,Crème d’oignons,100g,44,1 tasse (244 g),tasse,244.0,g,1.0,107.36,0.44
+1628,Crème de pommes de terre,100g,30,1 tasse (244 g),tasse,244.0,g,1.0,73.2,0.3
+1629,Soupe crémeuse aux nouilles et au poulet,100g,23,1 tasse (245 g),tasse,245.0,g,1.0,56.35,0.23
+1630,Bouillon de poulet,100g,16,1 tasse (244 g),tasse,244.0,g,1.0,39.04,0.16
+1631,Soupe à la carotte et au gingembre,100g,25,1 portion (381 g),portion,381.0,g,1.0,95.25,0.25
+1632,Nouilles instantanées,100g,436,1 paquet (85 g),paquet,85.0,g,1.0,370.6,4.36
+1633,Velouté de chou-fleur,100g,69,1 tasse (244 g),tasse,244.0,g,1.0,168.36,0.69
+1634,Soupe de poisson,100g,75,1 portion (300 g),portion,300.0,g,1.0,225.0,0.75
+1635,Chorba,100g,350,1 portion (300 g),portion,300.0,g,1.0,1050.0,3.5
+1636,Harira,100g,110,1 portion (300 g),portion,300.0,g,1.0,330.0,1.1
+1637,Vichyssoise,100g,59,1 portion (300 g),portion,300.0,g,1.0,177.0,0.59
+1638,Gaspacho,100g,51,1 tasse (248 g),tasse,248.0,g,1.0,126.48,0.51
+1639,Garbure,100g,46,1 portion (300 g),portion,300.0,g,1.0,138.0,0.46
+1640,After Eight,100g,452,1 after eight (8 g),after eight,8.0,g,1.0,36.16,4.52
+1641,Pomme d’amour,100g,152,1 pomme d’amour (141 g),pomme d’amour,141.0,g,1.0,214.32,1.52
+1642,Sucre d’orge,100g,423,1 pièce (14 g),pièce,14.0,g,1.0,59.22,4.23
+1643,Celebrations,100g,490,1 pièce (9 g),pièce,9.0,g,1.0,44.1,4.9
+1644,Barre chocolatée,100g,533,1 barre (45 g),barre,45.0,g,1.0,239.85,5.33
+1645,Pépites de chocolat,100g,493,1 cuillère à soupe (14 g),cuillère à soupe,14.0,g,1.0,69.02,4.93
+1646,Chocolat,100g,529,1 pièce (7 g),pièce,7.0,g,1.0,37.03,5.29
+1647,Cookies,100g,488,1 cookie (16 g),cookie,16.0,g,1.0,78.08,4.88
+1648,Barbe à papa,100g,643,1 barbe à papa (75 g),barbe à papa,75.0,g,1.0,482.25,6.43
+1649,Pain perdu,100g,196,1 pain perdu (85 g),pain perdu,85.0,g,1.0,166.6,1.96
+1650,Ferrero Rocher,100g,576,1 pièce (12.5 g),pièce,12.5,g,1.0,72.0,5.76
+1651,Biscuit chinois,100g,214,1 biscuit (7 g),biscuit,7.0,g,1.0,14.98,2.14
+1652,Barres de céréales,100g,452,1 barre (21 g),barre,21.0,g,1.0,94.92,4.52
+1653,Oursons gélifiés,100g,316,20 pièces (54 g),pièces,54.0,g,20.0,170.64,3.16
+1654,Hanuta,100g,541,1 hanuta (22 g),hanuta,22.0,g,1.0,119.02,5.41
+1655,Dragibus,100g,354,10 pièces (30 g),pièces,30.0,g,10.0,106.2,3.54
+1656,Dragée,100g,429,20 pièces (65 g),pièces,65.0,g,20.0,278.85,4.29
+1657,Kit Kat,100g,521,1 kit kat (45 g),kit kat,45.0,g,1.0,234.45,5.21
+1658,Réglisse,100g,375,5 pièces (29 g),pièces,29.0,g,5.0,108.75,3.75
+1659,Chocolat Lindt,100g,548,1 pièce (5 g),pièce,5.0,g,1.0,27.4,5.48
+1660,Sucette,100g,392,1 sucette (12 g),sucette,12.0,g,1.0,47.04,3.92
+1661,M&M’s,100g,479,20 pièces (14 g),pièces,14.0,g,20.0,67.06,4.79
+1662,Maltesers,100g,498,1 paquet (37 g),paquet,37.0,g,1.0,184.26,4.98
+1663,Mars,100g,448,1 barre (45 g),barre,45.0,g,1.0,201.6,4.48
+1664,Chamallows,100g,318,5 pièces (39 g),pièces,39.0,g,5.0,124.02,3.18
+1665,Pâte d’amande,100g,411,1 pièce (20 g),pièce,20.0,g,1.0,82.2,4.11
+1666,Milky Way,100g,449,1 barre (22 g),barre,22.0,g,1.0,98.78,4.49
+1667,Pez,100g,427,1 paquet (8 g),paquet,8.0,g,1.0,34.16,4.27
+1668,Popcorn,100g,582,1 tasse (11 g),tasse,11.0,g,1.0,64.02,5.82
+1669,Graines de citrouille,100g,560,1 cuillère à soupe (10 g),cuillère à soupe,10.0,g,1.0,56.0,5.6
+1670,Riz au lait,100g,134,1 tasse (225 g),tasse,225.0,g,1.0,301.5,1.34
+1671,Amandes grillées,100g,452,1 barre (21 g),barre,21.0,g,1.0,94.92,4.52
+1672,Semoule,100g,340,1 cuillère à soupe (11 g),cuillère à soupe,11.0,g,1.0,37.4,3.4
+1673,Skittles,100g,405,20 pièces (22 g),pièces,22.0,g,20.0,89.1,4.05
+1674,Smarties,100g,357,1 packet (7 g),packet,7.0,g,1.0,24.99,3.57
+1675,Snickers,100g,484,1 barre (50 g),barre,50.0,g,1.0,242.0,4.84
+1676,Spéculoos,100g,469,1 pièce (8 g),pièce,8.0,g,1.0,37.52,4.69
+1677,Spritz,100g,500,1 pièce (11 g),pièce,11.0,g,1.0,55.0,5.0
+1678,Toblerone,100g,525,1 pièce (9 g),pièce,9.0,g,1.0,47.25,5.25
+1679,Trifle,100g,186,1/2 trifle (250 g),trifle,250.0,g,0.5,465.0,1.86
+1680,Twix,100g,495,1 barre (25 g),barre,25.0,g,1.0,123.75,4.95
+1681,Gaufres,100g,272,1 gaufre (35 g),gaufre,35.0,g,1.0,95.2,2.72
+1682,Cookies au beurre de cacahuète,100g,475,1 pièce (20 g),pièce,20.0,g,1.0,95.0,4.75
+1683,Kinder Surprise,100g,550,1 pièce (20 g),pièce,20.0,g,1.0,110.0,5.5
+1684,Kinder Bueno,100g,575,1 barre (21 g),barre,21.0,g,1.0,120.75,5.75
+1685,Guimauve,100g,380,1 ourson (13 g),ourson,13.0,g,1.0,49.4,3.8
+1686,Bonbons au coca,100g,335,1 pièce (3 g),pièce,3.0,g,1.0,10.05,3.35
+1687,Fraises Tagada,100g,377,1 pièce (3 g),pièce,3.0,g,1.0,11.31,3.77
+1688,Frites,100g,337,1 pièce (5 g),pièce,5.0,g,1.0,16.85,3.37
+1689,Bonbons à la menthe,100g,394,1 pièce (5 g),pièce,5.0,g,1.0,19.7,3.94
+1690,Bonbons au réglisse,100g,385,1 pièce (5 g),pièce,5.0,g,1.0,19.25,3.85
+1691,Carambars au fruit,100g,395,1 carambar (7 g),carambar,7.0,g,1.0,27.65,3.95
+1692,Carambars au caramel,100g,405,1 carambar (7 g),carambar,7.0,g,1.0,28.35,4.05
+1693,Ours en guimauve enrobés de chocolat au lait,100g,433,1 ours (12.7 g),ours,12.7,g,1.0,54.99099999999999,4.33
+1694,Fisherman’s Friend,100g,387,1 pièce (2 g),pièce,2.0,g,1.0,7.74,3.87
+1695,Bonbons à la violette,100g,234,1 pièce (5 g),pièce,5.0,g,1.0,11.7,2.34
+1696,Schtroumphs,100g,334,1 pièce (5 g),pièce,5.0,g,1.0,16.7,3.34
+1697,Michoko,100g,460,1 pièce (25 g),pièce,25.0,g,1.0,115.0,4.6
+1698,Bonbon Arlequin,100g,383,1 pièce (6 g),pièce,6.0,g,1.0,22.98,3.83
+1699,Mentos,100g,390,1 paquet (38 g),paquet,38.0,g,1.0,148.2,3.9
+1700,Malabar,100g,315,1 pièce (7 g),pièce,7.0,g,1.0,22.05,3.15
+1701,Ricola,100g,400,1 pièce (4 g),pièce,4.0,g,1.0,16.0,4.0
+1702,Tic Tac,100g,395,1 pièce (1 g),pièce,1.0,g,1.0,3.95,3.95
+1703,Pastilles Vichy,100g,395,1 pièce (3 g),pièce,3.0,g,1.0,11.85,3.95
+1704,Werther’s Original,100g,428,1 pièce (5 g),pièce,5.0,g,1.0,21.4,4.28
+1705,Mon Chéri,100g,448,1 pièce (10 g),pièce,10.0,g,1.0,44.8,4.48
+1706,Kinder Schokobon,100g,575,1 pièce (6 g),pièce,6.0,g,1.0,34.5,5.75
+1707,Pyrénéens de Lindt,100g,500,1 pièce (9 g),pièce,9.0,g,1.0,45.0,5.0
+1708,Alligator,100g,104,1 portion (184 g),portion,184.0,g,1.0,191.36,1.04
+1709,Antilope,100g,150,1 portion (340 g),portion,340.0,g,1.0,510.0,1.5
+1710,Ours,100g,259,1 portion (277 g),portion,277.0,g,1.0,717.43,2.59
+1711,Castor,100g,212,1 portion (313 g),portion,313.0,g,1.0,663.56,2.12
+1712,Bison,100g,171,1 portion (194 g),portion,194.0,g,1.0,331.74,1.71
+1713,Buffle,100g,131,1 portion (340 g),portion,340.0,g,1.0,445.4,1.31
+1714,Caribou,100g,159,1 portion (102 g),portion,102.0,g,1.0,162.18,1.59
+1715,Oie,100g,238,1/2 oie (591 g),oie,591.0,g,0.5,1406.58,2.38
+1716,Agneau,100g,202,1 portion (193 g),portion,193.0,g,1.0,389.86,2.02
+1717,Canard colvert,100g,211,1 portion (265 g),portion,265.0,g,1.0,559.15,2.11
+1718,Élan,100g,134,1 portion (340 g),portion,340.0,g,1.0,455.6,1.34
+1719,Mouton,100g,234,1 portion (240 g),portion,240.0,g,1.0,561.6,2.34
+1720,Autruche,100g,175,1 portion (93 g),portion,93.0,g,1.0,162.75,1.75
+1721,Faisan,100g,239,1 portion (169 g),portion,169.0,g,1.0,403.91,2.39
+1722,Lapin,100g,197,1 portion (313 g),portion,313.0,g,1.0,616.61,1.97
+1723,Raton laveur,100g,255,1 portion (356 g),portion,356.0,g,1.0,907.8,2.55
+1724,Renne,100g,200,1 portion (340 g),portion,340.0,g,1.0,680.0,2.0
+1725,Écureuil,100g,173,1 portion (313 g),portion,313.0,g,1.0,541.49,1.73
+1726,Chevreuil,100g,164,1 portion (157 g),portion,157.0,g,1.0,257.48,1.64
+1727,Faux-filet de chevreuil,100g,158,1 portion (340 g),portion,340.0,g,1.0,537.2,1.58
+1728,Sanglier,100g,160,1 portion (340 g),portion,340.0,g,1.0,544.0,1.6
+1729,Faux-filet de bison,100g,171,1 portion (194 g),portion,194.0,g,1.0,331.74,1.71
+1730,Pavé de biche,100g,116,1 portion (250 g),portion,250.0,g,1.0,290.0,1.16
+1731,Cerf,100g,119,1 portion (250 g),portion,250.0,g,1.0,297.5,1.19
+1732,Perdrix,100g,222,1 portion (250 g),portion,250.0,g,1.0,555.0,2.22
+1733,Alligator,100g,232,1 portion (153 g),portion,153.0,g,1.0,354.96,2.32
+1734,Boeuf,100g,248,1 steak (164 g),steak,164.0,g,1.0,406.72,2.48
+1735,Poitrine de boeuf,100g,242,1 pièce (1780 g),pièce,1780.0,g,1.0,4307.6,2.42
+1736,Bœuf séché,100g,410,1 pièce (20 g),pièce,20.0,g,1.0,82.0,4.1
+1737,Filet de boeuf,100g,218,1 steak (140 g),steak,140.0,g,1.0,305.2,2.18
+1738,Poulet,100g,219,1/2 poulet (334 g),poulet,334.0,g,0.5,731.46,2.19
+1739,Blanc de poulet,100g,172,1 blanc (200 g),blanc,200.0,g,1.0,344.0,1.72
+1740,Cuisse de poulet,100g,229,1 cuisse (199 g),cuisse,199.0,g,1.0,455.71,2.29
+1741,Graisse de poulet,100g,898,1 tasse (205 g),tasse,205.0,g,1.0,1840.9,8.98
+1742,Foie de poulet,100g,167,1 foie (44 g),foie,44.0,g,1.0,73.48,1.67
+1743,Viande de poulet,100g,172,1 blanc (200 g),blanc,200.0,g,1.0,344.0,1.72
+1744,Aile de poulet,100g,266,1 aile (29 g),aile,29.0,g,1.0,77.14,2.66
+1745,Steak de paleron,100g,277,1 steak (310 g),steak,310.0,g,1.0,858.7,2.77
+1746,Canard,100g,337,1/2 canard (634 g),canard,634.0,g,0.5,2136.58,3.37
+1747,Filet mignon,100g,267,1 filet (104 g),filet,104.0,g,1.0,277.68,2.67
+1748,Bavette,100g,194,1 steak (188 g),steak,188.0,g,1.0,364.72,1.94
+1749,Bœuf haché,100g,246,1 pièce (70 g),pièce,70.0,g,1.0,172.2,2.46
+1750,Jambon,100g,163,1 tranche (145 g),tranche,145.0,g,1.0,236.35,1.63
+1751,Autruche,100g,145,1 portion (85 g),portion,85.0,g,1.0,123.25,1.45
+1752,Cochon,100g,196,1 pièce (185 g),pièce,185.0,g,1.0,362.6,1.96
+1753,Côtelettes de porc,100g,196,1 pièce (131 g),pièce,131.0,g,1.0,256.76,1.96
+1754,Longe de porc,100g,204,1 pièce (83 g),pièce,83.0,g,1.0,169.32,2.04
+1755,Rôti de porc,100g,254,1 rôti (830 g),rôti,830.0,g,1.0,2108.2,2.54
+1756,Steaks de porc,100g,196,1 steak (264 g),steak,264.0,g,1.0,517.44,1.96
+1757,Rôti de boeuf,100g,140,1 rôti (515 g),rôti,515.0,g,1.0,721.0,1.4
+1758,Bifteck de ronde,100g,182,1 steak (236 g),steak,236.0,g,1.0,429.52,1.82
+1759,Escalope panée,100g,156,1 escalope panée (130 g),escalope panée,130.0,g,1.0,202.8,1.56
+1760,Travers de porc,100g,238,1 piece (1400 g),piece,1400.0,g,1.0,3332.0,2.38
+1761,Dinde,100g,189,1 dinde (3812 g),dinde,3812.0,g,1.0,7204.68,1.89
+1762,Blanc de dinde,100g,135,1/2 blanc (864 g),blanc,864.0,g,0.5,1166.4,1.35
+1763,Escalope de dinde,100g,189,1 steak (170 g),steak,170.0,g,1.0,321.3,1.89
+1764,Ailes de dinde,100g,221,1 aile (24 g),aile,24.0,g,1.0,53.04,2.21
+1765,Côte de boeuf,100g,238,1 pièce (225 g),pièce,225.0,g,1.0,535.5,2.38
+1766,Abats de poulet,100g,158,1 tasse (145 g),tasse,145.0,g,1.0,229.1,1.58
+1768,Cuisse de dinde,100g,208,1 cuisse (546 g),cuisse,546.0,g,1.0,1135.68,2.08
+1769,Côtes levées de porc,100g,212,1 côte (70 g),côte,70.0,g,1.0,148.4,2.12
+1770,Côte de bœuf rôtie,100g,333,1 portion (113 g),portion,113.0,g,1.0,376.29,3.33
+1771,Onglet,100g,200,1 portion (150 g),portion,150.0,g,1.0,300.0,2.0
+1772,Palette de porc,100g,309,1 portion (500 g),portion,500.0,g,1.0,1545.0,3.09
+1773,Cuisse de poulet,100g,161,1 portion (62 g),portion,62.0,g,1.0,99.82,1.61
+1774,Joue de bœuf,100g,112,1 portion (150 g),portion,150.0,g,1.0,168.0,1.12
+1775,Bavette,100g,148,1 portion (150 g),portion,150.0,g,1.0,222.0,1.48
+1776,Faux-filet,100g,166,1 portion (200 g),portion,200.0,g,1.0,332.0,1.66
+1777,Rumsteak,100g,118,1 portion (180 g),portion,180.0,g,1.0,212.4,1.18
+1778,Queue de bœuf,100g,196,1 portion (180 g),portion,180.0,g,1.0,352.8,1.96
+1779,Pieds de porc,100g,232,1 pied (250 g),pied,250.0,g,1.0,580.0,2.32
+1780,Plat de côte,100g,283,1 portion (250 g),portion,250.0,g,1.0,707.5,2.83
+1781,Entrecôte,100g,203,1 portion (175 g),portion,175.0,g,1.0,355.25,2.03
+1782,Collier,100g,432,1 portion (120 g),portion,120.0,g,1.0,518.4,4.32
+1783,Gîte,100g,170,1 portion (200 g),portion,200.0,g,1.0,340.0,1.7
+1784,Gigot d’agneau,100g,216,1 gigot d’agneau (600 g),gigot d’agneau,600.0,g,1.0,1296.0,2.16
+1785,Tournedos,100g,188,1 portion (150 g),portion,150.0,g,1.0,282.0,1.88
+1786,Cabernet sauvignon,100ml,77,1 verre (118 ml),verre,118.0,ml,1.0,90.86,0.77
+1787,Cava,100ml,76,1 verre (118 ml),verre,118.0,ml,1.0,89.68,0.76
+1788,Champagne,100ml,76,1 verre (118 ml),verre,118.0,ml,1.0,89.68,0.76
+1789,Chardonnay,100ml,85,1 verre (118 ml),verre,118.0,ml,1.0,100.3,0.85
+1790,Chenin blanc,100ml,80,1 verre (118 ml),verre,118.0,ml,1.0,94.4,0.8
+1791,Vin rouge sec,100ml,85,1 verre (118 ml),verre,118.0,ml,1.0,100.3,0.85
+1792,Gamay,100ml,78,1 verre (118 ml),verre,118.0,ml,1.0,92.04,0.78
+1793,Malbec,100ml,82,1 verre (118 ml),verre,118.0,ml,1.0,96.76,0.82
+1794,Marsala,100ml,100,1 verre (118 ml),verre,118.0,ml,1.0,118.0,1.0
+1795,Merlot,100ml,83,1 verre (118 ml),verre,118.0,ml,1.0,97.94,0.83
+1796,Vin chaud,100ml,196,1 verre (118 ml),verre,118.0,ml,1.0,231.28,1.96
+1797,Pinot gris,100ml,83,1 verre (118 ml),verre,118.0,ml,1.0,97.94,0.83
+1798,Pinot noir,100ml,75,1 verre (118 ml),verre,118.0,ml,1.0,88.5,0.75
+1799,Vin de prune,100ml,163,1 verre (118 ml),verre,118.0,ml,1.0,192.34,1.63
+1800,Porto,100ml,160,1 verre (118 ml),verre,118.0,ml,1.0,188.8,1.6
+1801,Prosecco,100ml,71,1 verre (118 ml),verre,118.0,ml,1.0,83.78,0.71
+1802,Vin rouge,100ml,85,1 verre (118 ml),verre,118.0,ml,1.0,100.3,0.85
+1803,Riesling,100ml,80,1 verre (118 ml),verre,118.0,ml,1.0,94.4,0.8
+1804,Vin rosé,100ml,71,1 verre (118 ml),verre,118.0,ml,1.0,83.78,0.71
+1805,Sangria,100ml,132,1 verre (118 ml),verre,118.0,ml,1.0,155.76,1.32
+1806,Sauvignon blanc,100ml,81,1 verre (118 ml),verre,118.0,ml,1.0,95.58,0.81
+1807,Xérès,100ml,116,1 verre (118 ml),verre,118.0,ml,1.0,136.88,1.16
+1808,Syrah,100ml,71,1 verre (118 ml),verre,118.0,ml,1.0,83.78,0.71
+1809,Mousseux,100ml,190,1 verre (118 ml),verre,118.0,ml,1.0,224.2,1.9
+1810,Vin rouge moelleux,100ml,81,1 verre (118 ml),verre,118.0,ml,1.0,95.58,0.81
+1811,Vin blanc moelleux,100ml,82,1 verre (118 ml),verre,118.0,ml,1.0,96.76,0.82
+1812,Vin moelleux,100ml,83,1 verre (118 ml),verre,118.0,ml,1.0,97.94,0.83
+1813,Vermouth,100ml,108,1 verre (30 ml),verre,30.0,ml,1.0,32.4,1.08
+1814,Vin blanc,100ml,82,1 verre (118 ml),verre,118.0,ml,1.0,96.76,0.82
+1815,Vin,100ml,83,1 verre (118 ml),verre,118.0,ml,1.0,97.94,0.83
+1816,Zinfandel,100ml,88,1 verre (118 ml),verre,118.0,ml,1.0,103.84,0.88
+1817,Muscat,100ml,83,1 verre (118 ml),verre,118.0,ml,1.0,97.94,0.83
+1818,Vin de paille,100ml,70,1 verre (118 ml),verre,118.0,ml,1.0,82.6,0.7
+1819,Vendanges tardives,100ml,90,1 verre (118 ml),verre,118.0,ml,1.0,106.2,0.9
+1820,Crémant,100ml,85,1 verre (118 ml),verre,118.0,ml,1.0,100.3,0.85
+1821,Vin liquoreux,100ml,126,1 verre (118 ml),verre,118.0,ml,1.0,148.68,1.26
+1822,Chapon,100g,229,1 chapon (1418 g),chapon,1418.0,g,1.0,3247.22,2.29
+1823,Poulet,100g,219,1/2 poulet (334 g),poulet,334.0,g,0.5,731.46,2.19
+1824,Blanc de poulet,100g,172,1 blanc (200 g),blanc,200.0,g,1.0,344.0,1.72
+1825,Cuisses de poulet,100g,185,1 cuisse (71 g),cuisse,71.0,g,1.0,131.35,1.85
+1826,Aile de poulet,100g,266,1 aile (53 g),aile,53.0,g,1.0,140.98,2.66
+1827,Canard,100g,337,1/2 canard (634 g),canard,634.0,g,0.5,2136.58,3.37
+1828,Magret de canard,100g,201,1 magret (73 g),magret,73.0,g,1.0,146.73,2.01
+1829,Oie,100g,305,1/2 oie (591 g),oie,591.0,g,0.5,1802.55,3.05
+1830,Pintade,100g,158,1/2 pintade (345 g),pintade,345.0,g,0.5,545.1,1.58
+1831,Autruche,100g,145,1 portion (85 g),portion,85.0,g,1.0,123.25,1.45
+1832,Faisan,100g,239,1 portion (100 g),portion,100.0,g,1.0,239.0,2.39
+1833,Filet de faisan,100g,133,1/2 filet (182 g),filet,182.0,g,0.5,242.06,1.33
+1834,Cuisse de faisan,100g,239,1 cuisse (107 g),cuisse,107.0,g,1.0,255.73,2.39
+1835,Pigeon,100g,142,1 pigeon (199 g),pigeon,199.0,g,1.0,282.58,1.42
+1836,Poularde,100g,200,1 portion (100 g),portion,100.0,g,1.0,200.0,2.0
+1837,Caille,100g,227,1 caille (92 g),caille,92.0,g,1.0,208.84,2.27
+1838,Filet de caille,100g,123,1 poitrine (56 g),poitrine,56.0,g,1.0,68.88,1.23
+1839,Dinde,100g,189,1 dinde (3812 g),dinde,3812.0,g,1.0,7204.68,1.89
+1840,Blanc de dinde,100g,135,1/2 blanc (864 g),blanc,864.0,g,0.5,1166.4,1.35
+1841,Escalope de dinde,100g,189,1 escalope (113 g),escalope,113.0,g,1.0,213.57,1.89
+1842,Ailes de dinde,100g,221,1 aile (24 g),aile,24.0,g,1.0,53.04,2.21
+1843,Canard sauvage,100g,211,1/2 canard (270 g),canard,270.0,g,0.5,569.7,2.11
+1845,Cuisses de dinde,100g,208,1 cuisse (546 g),cuisse,546.0,g,1.0,1135.68,2.08
+1846,Activia,100g,74,1 pot (113 g),pot,113.0,g,1.0,83.62,0.74
+1847,Activia au citron,100g,100,1 pot (113 g),pot,113.0,g,1.0,113.0,1.0
+1848,Activia à la fraise,100g,97,1 pot (113 g),pot,113.0,g,1.0,109.61,0.97
+1849,Ayran,100g,42,1 tasse (200 g),tasse,200.0,g,1.0,84.0,0.42
+1850,Yaourt à la myrtille,100g,105,1 pot (227 g),pot,227.0,g,1.0,238.35,1.05
+1851,Yaourt à la cerise,100g,97,1 pot (227 g),pot,227.0,g,1.0,220.19,0.97
+1852,Yaourt au chocolat,100g,128,1 pot (227 g),pot,227.0,g,1.0,290.56,1.28
+1853,Yaourt aux fruits,100g,97,1 pot (227 g),pot,227.0,g,1.0,220.19,0.97
+1854,Yaourt grec,100g,53,1 pot (150 g),pot,150.0,g,1.0,79.5,0.53
+1855,Yaourt allégé,100g,63,1 pot (227 g),pot,227.0,g,1.0,143.01,0.63
+1856,Yaourt au café,100g,100,1 pot (227 g),pot,227.0,g,1.0,227.0,1.0
+1857,Yaourt biologique,100g,75,1 pot (227 g),pot,227.0,g,1.0,170.25,0.75
+1858,Yaourt à la pêche,100g,97,1 pot (113 g),pot,113.0,g,1.0,109.61,0.97
+1859,Yaourt probiotique,100g,80,1 pot (113 g),pot,113.0,g,1.0,90.4,0.8
+1860,Yaourt au lait écrémé,100g,56,1 pot (227 g),pot,227.0,g,1.0,127.12,0.56
+1861,Yaourt stracciatella,100g,139,1 pot (227 g),pot,227.0,g,1.0,315.53,1.39
+1862,Yaourt à la fraise,100g,100,1 pot (227 g),pot,227.0,g,1.0,227.0,1.0
+1863,Yaourt à la vanille,100g,101,1 pot (227 g),pot,227.0,g,1.0,229.27,1.01
+1864,Yaourt,100g,61,1 pot (227 g),pot,227.0,g,1.0,138.47,0.61
+1865,Yaourt crémeux,100g,90,1 pot (227 g),pot,227.0,g,1.0,204.3,0.9
+1866,Yaourt sans sucre,100g,49,1 pot (227 g),pot,227.0,g,1.0,111.23,0.49
+1867,Yaourt grec,100g,114,1 pot (150 g),pot,150.0,g,1.0,171.0,1.14
+1868,Yaourt brassé,100g,68,1 pot (125 g),pot,125.0,g,1.0,85.0,0.68
+1869,Yaourt entier,100g,67,1 pot (125 g),pot,125.0,g,1.0,83.75,0.67
+1870,Yaourt nature,100g,66,1 pot (125 g),pot,125.0,g,1.0,82.5,0.66
+1871,Yaourt à boire,100g,70,1 bouteille (250 g),bouteille,250.0,g,1.0,175.0,0.7
